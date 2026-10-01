@@ -9,7 +9,7 @@ It is the shift from emergence as a result to emergence as a generator.
 1. Emergence gaining identity‑like behaviour
 When emergence stabilizes, it acquires:
 
-state|behaviour|transformation|push|output
+state  |  behaviour  |  transformation  |  push  |  output
 
 At this stage, emergence is no longer only an outcome. It becomes capable of producing further behaviour.
 
@@ -39,6 +39,6 @@ This compression shows how identity physics scales without adding weight.
 5. The surface
 Emerging emergence is the surface where:
 
-emergence stabilizes|stability becomes generative|generativity becomes emergent|emergence becomes capable of producing emergence
+emergence stabilizes  |  stability becomes generative  |  generativity becomes emergent  |  emergence becomes capable of producing emergence
 
 It is the first meta‑surface in the field.
