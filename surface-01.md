@@ -1,4 +1,4 @@
-Kernel Theory White Paper
+# Kernel Theory White Paper
 
 
 
