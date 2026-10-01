@@ -1,5 +1,12 @@
 Kernel Theory White Paper
+
+
+
 Identity Physics Across Systems, Substrates, and Actors
+
+
+
+
 0. Abstract
 Kernel Theory describes the identity substrate underlying all systems.
 
