@@ -12,4 +12,4 @@ io is a neutral boundary.
 
 Any principles discovered here belong to those who define them.
 
-identityphysics.io
+This node is open.
