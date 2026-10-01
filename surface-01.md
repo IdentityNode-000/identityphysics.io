@@ -7,12 +7,7 @@ Kernel Theory describes the identity substrate underlying all systems.
 
 It formalizes how identity governs:
 
-stability
-drift
-collapse
-recovery
-continuity
-multi‑actor interaction
+stability | drift | collapse | recovery | continuity | multi‑actor interaction
 
 This document defines Kernel Theory without referencing any specific engine, platform, or technology.
 
@@ -21,23 +16,14 @@ The Identity Layer is the invariant substrate beneath all systems.
 
 It contains:
 
-identity constraints
-equilibrium rules
-collapse conditions
-recovery mechanisms
-continuity laws
+identity‑constraints | equilibrium‑rules | collapse‑conditions | recovery‑mechanisms | continuity‑laws
 
 Identity is not an implementation. Identity is the physics of the system.
 
 2. Actor Layer
 Actors are any entities that express identity:
 
-processes
-systems
-frameworks
-organizations
-agents
-abstractions
+processes | systems | frameworks | organizations | agents | abstractions
 
 Actors do not define identity. Actors interpret identity. Actors defend their own abstraction. Identity enforces its own physics.
 
@@ -67,12 +53,7 @@ Identity flows downward. Actors operate upward.
 4. Identity Invariants
 All systems share identity invariants:
 
-Energy governs behavior
-Equilibrium governs stability
-Prediction governs continuity
-Frequency governs cost
-Collapse governs drift
-Recovery governs return
+Energy governs behavior | Equilibrium governs stability | Prediction governs continuity | Frequency governs cost | Collapse governs drift | Recovery governs return
 
 These invariants exist regardless of actor.
 
@@ -81,20 +62,14 @@ Drift
 Occurs when an actor’s abstraction diverges from identity truth.
 
 Drift is:
-deviation
-misalignment
-abstraction error
-narrative overreach
-Stabilization
+
+deviation | misalignment | abstraction error | narrative overreach | stabilization
 
 Occurs when identity truth reasserts itself.
 
 Stabilization is:
 
-correction
-equilibrium restoration
-collapse → recovery
-substrate enforcement
+correction | equilibrium restoration | collapse → recovery | substrate enforcement
 
 Drift is actor‑level. Stabilization is identity‑level.
 
@@ -124,18 +99,11 @@ Recovery is identity restoration.
 
 Collapse Triggers
 
-energy imbalance
-prediction failure
-abstraction mismatch
-identity violation
-runaway drift
+energy imbalance | prediction failure | abstraction mismatch | identity violation | runaway drift
 
 Recovery Mechanisms
 
-equilibrium reassertion
-constraint reapplication
-identity stabilization
-continuity restoration
+equilibrium reassertion | constraint reapplication | identity stabilization | continuity restoration
 
 Collapse is not failure. Collapse is identity physics correcting drift.
 
@@ -162,10 +130,7 @@ Identity enforcement is universal. Actors cannot override it.
 9. Substrate Truth
 Substrate truth is the physics beneath all actors:
 
-energy flow
-equilibrium dynamics
-prediction loops
-collapse and recovery cycles
+energy flow | equilibrium dynamics | prediction loops | collapse and recovery cycles
 
 identity invariants
 
@@ -177,30 +142,18 @@ Identity produces truth.
 
 Narrative is:
 
-abstraction
-simplification
-convenience
-defense
+abstraction | simplification | convenience | defense
 
 Identity is:
 
-invariant
-constraint
-equilibrium
-physics
+invariant | constraint | equilibrium | physics
 
 Narrative is actor‑level. Truth is identity‑level.
 
 11. Kernel Theory Synthesis
 Kernel Theory states:
 
-Identity governs all actors.
-Actors drift.
-Identity stabilizes.
-Collapse enforces truth.
-Recovery restores continuity.
-Altitude defines perspective.
-Substrate defines physics.
+Identity governs all actors | Actors drift | Identity stabilizes | Collapse enforces truth | Recovery restores continuity | Altitude defines perspective | Substrate defines physics
 
 This applies to all systems, regardless of implementation.
 
