@@ -26,4 +26,4 @@ from identity to interaction.
 
 The canonical model is being shaped now.
 
-Kernel Theory White Paper → /surface-01
+[Kernel Theory White Paper](/surface-01)
