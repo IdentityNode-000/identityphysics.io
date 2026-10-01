@@ -1,12 +1,9 @@
 Kernel Theory White Paper
-
 Identity Physics Across Systems, Substrates, and Actors
-
 0. Abstract
 Kernel Theory describes the identity substrate underlying all systems.
 
 It formalizes how identity governs:
-
 stability | drift | collapse | recovery | continuity | multi‑actor interaction
 
 This document defines Kernel Theory without referencing any specific engine, platform, or technology.
@@ -15,7 +12,6 @@ This document defines Kernel Theory without referencing any specific engine, pla
 The Identity Layer is the invariant substrate beneath all systems.
 
 It contains:
-
 identity‑constraints | equilibrium‑rules | collapse‑conditions | recovery‑mechanisms | continuity‑laws
 
 Identity is not an implementation. Identity is the physics of the system.
@@ -25,30 +21,33 @@ Actors are any entities that express identity:
 
 processes | systems | frameworks | organizations | agents | abstractions
 
-Actors do not define identity. Actors interpret identity. Actors defend their own abstraction. Identity enforces its own physics.
+Actors do not define identity. Actors interpret identity.
+Actors defend their own abstraction.
+Identity enforces its own physics.
 
 3. Altitude Ladder
 Kernel Theory operates across altitudes:
 
-6 — Conceptual Identity
+6 — Conceptual Identity  
 Identity kernels, conceptual surfaces, field behavior.
 
-5 — Governance Identity
+5 — Governance Identity  
 Rules, authority, constraints, institutional identity.
 
-4 — System Identity
+4 — System Identity  
 Scheduling, regulation, equilibrium enforcement.
 
-3 — Simulation Identity
+3 — Simulation Identity  
 Behavioral logic, multi‑agent dynamics.
 
-2 — Spatial Identity
+2 — Spatial Identity  
 Adjacency, traversal, surface interaction.
 
-1 — Physical Identity
+1 — Physical Identity  
 Energy, equilibrium, flow, dissipation.
 
-Identity flows downward. Actors operate upward.
+Identity flows downward.
+Actors operate upward.
 
 4. Identity Invariants
 All systems share identity invariants:
@@ -62,77 +61,75 @@ Drift
 Occurs when an actor’s abstraction diverges from identity truth.
 
 Drift is:
-
 deviation | misalignment | abstraction error | narrative overreach | stabilization
 
 Occurs when identity truth reasserts itself.
 
+Stabilization
 Stabilization is:
-
 correction | equilibrium restoration | collapse → recovery | substrate enforcement
 
-Drift is actor‑level. Stabilization is identity‑level.
+Drift is actor‑level.
+Stabilization is identity‑level.
 
 6. Multi‑Actor Identity Dynamics
 Identity interacts with actors through:
 
-6.1 Expression
+6.1 Expression  
 Actors express identity through their behavior.
 
-6.2 Distortion
+6.2 Distortion  
 Actors distort identity through abstraction.
 
-6.3 Enforcement
+6.3 Enforcement  
 Identity enforces equilibrium through substrate physics.
 
-6.4 Negotiation
+6.4 Negotiation  
 Actors negotiate identity through constraints.
 
-6.5 Collapse
+6.5 Collapse  
 Identity collapses actors when drift exceeds tolerance.
 
-Identity is the substrate. Actors are expressions.
+Identity is the substrate.
+Actors are expressions.
 
 7. Collapse and Recovery
-Collapse is identity enforcement.
-Recovery is identity restoration.
-
 Collapse Triggers
-
 energy imbalance | prediction failure | abstraction mismatch | identity violation | runaway drift
 
 Recovery Mechanisms
-
 equilibrium reassertion | constraint reapplication | identity stabilization | continuity restoration
 
-Collapse is not failure. Collapse is identity physics correcting drift.
+Collapse is not failure.
+Collapse is identity physics correcting drift.
 
 8. Identity Enforcement
 Identity enforces equilibrium through:
 
-8.1 Regulation
+8.1 Regulation  
 Implicit or explicit constraints.
 
-8.2 Scaling
+8.2 Scaling  
 Adjustment of intensity, frequency, or flow.
 
-8.3 Prediction Loops
+8.3 Prediction Loops  
 Feedback systems maintaining continuity.
 
-8.4 Kernel Boundaries
+8.4 Kernel Boundaries  
 Conceptual surfaces defining identity limits.
 
-8.5 Field Dynamics
+8.5 Field Dynamics  
 Distributed enforcement across actors.
 
-Identity enforcement is universal. Actors cannot override it.
+Identity enforcement is universal.
+Actors cannot override it.
 
 9. Substrate Truth
 Substrate truth is the physics beneath all actors:
 
 energy flow | equilibrium dynamics | prediction loops | collapse and recovery cycles
 
-identity invariants
+Identity invariants.
 
 Substrate truth is independent of implementation.
 
@@ -141,14 +138,13 @@ Actors produce narratives.
 Identity produces truth.
 
 Narrative is:
-
 abstraction | simplification | convenience | defense
 
 Identity is:
-
 invariant | constraint | equilibrium | physics
 
-Narrative is actor‑level. Truth is identity‑level.
+Narrative is actor‑level.
+Truth is identity‑level.
 
 11. Kernel Theory Synthesis
 Kernel Theory states:
