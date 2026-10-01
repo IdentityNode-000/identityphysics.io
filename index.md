@@ -26,4 +26,4 @@ from identity to interaction.
 
 The canonical model is being shaped now.
 
-[Kernel Theory White Paper](/surface-01.md)         [Kernel Theory White Paper](/surface-01.md)
+[Kernel Theory White Paper](/surface-01.md)         [io — the node where identity forms](/surface-02.md)
