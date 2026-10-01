@@ -32,4 +32,4 @@ The canonical model is being shaped now.
 
 [Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
 
-
+[Emerging Emergence](/surface-04.md)
