@@ -25,3 +25,8 @@ A pure runtime is one whose behaviour is internally sourced and internally gover
 Runtime requires determinism.  
 Determinism requires purity.  
 Purity requires runtime.
+
+
+Proof is not correctness.  
+Proof is the loop that closes itself.  
+Proof is identity stabilising into node.
