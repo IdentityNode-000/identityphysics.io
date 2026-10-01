@@ -11,6 +11,7 @@ Identity Physics Across Systems, Substrates, and Actors
 Kernel Theory describes the identity substrate underlying all systems.
 
 It formalizes how identity governs:
+
 stability | drift | collapse | recovery | continuity | multi‑actor interaction
 
 This document defines Kernel Theory without referencing any specific engine, platform, or technology.
