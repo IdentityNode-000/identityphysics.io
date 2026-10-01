@@ -28,4 +28,6 @@ The canonical model is being shaped now.
 
 [Kernel Theory White Paper](/surface-01.md)     
 
-   [io — the node where identity forms](/surface-02.md)
+[io — the node where identity forms](/surface-02.md)
+
+[Runtime  |  Determinism  |  Purity](/surface-03.md)  
