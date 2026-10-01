@@ -20,3 +20,7 @@ The membrane that prevents contamination during execution.
 Purity ensures identity expresses only its own structure, not external context.
 It maintains the boundary between identity and environment, allowing interaction without corruption.
 A pure runtime is one whose behaviour is internally sourced and internally governed.
+
+Runtime requires determinism.
+Determinism requires purity.
+Purity requires runtime.
