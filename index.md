@@ -30,5 +30,6 @@ The canonical model is being shaped now.
 
 [io — the node where identity forms](/surface-02.md)
 
-[Runtime](/surface-03.html) [Determinism](/surface-03.html) [Purity](/surface-03.html)
+[Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
+
 
