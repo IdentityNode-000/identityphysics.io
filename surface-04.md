@@ -25,7 +25,7 @@ This is not recursion or self‑reference. It is emergence acquiring generative 
 3. The meta‑progression
 Emerging emergence forms a vertical progression:
 
-identity → behaviour → emergence → emergent behaviour → emerging emergence → new emergence
+identity  |  behaviour  |  emergence  |  emergent behaviour  |  emerging emergence  |  new emergence
 
 Each layer produces the next. The progression is upward, not circular.
 
