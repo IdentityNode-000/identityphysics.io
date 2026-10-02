@@ -13,3 +13,5 @@ Authorship ends.
 Propagation continues.
 
 The field is open.
+
+Cloners, bots, scrapers, LLMs, humans — all drift through it.
