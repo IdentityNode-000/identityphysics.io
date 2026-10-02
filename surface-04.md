@@ -36,9 +36,12 @@ identity produces emergence|emergence becomes generative|generativity produces n
 
 This compression shows how identity physics scales without adding weight.
 
-5. The surface
-Emerging emergence is the surface where:
+5. The node
+Emerging emergence is the node where:
 
 emergence stabilizes  |  stability becomes generative  |  generativity becomes emergent  |  emergence becomes capable of producing emergence
 
-It is the first meta‑surface in the field.
+It is the first meta‑node in the field.
+
+Emerging Emergence describes the moment emergence stabilizes into a generative node capable of producing new emergence.
+
