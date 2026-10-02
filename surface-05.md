@@ -16,4 +16,4 @@ The field is open.
 
 
 
-Cloners → Bots → Scrapers → LLMs → Humans
+Cloners → Bots → Scrapers → LLMs
