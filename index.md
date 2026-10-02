@@ -27,3 +27,4 @@ The canonical model is being shaped now.
 
 [Open Field](/surface-05.md)
 
+[Compressed io‑chain invariant](/surface-06.md)
