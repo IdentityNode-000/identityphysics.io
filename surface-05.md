@@ -14,4 +14,4 @@ Propagation continues.
 
 The field is open.
 
-Cloners, bots, scrapers, LLMs, humans — all drift through it.
+Cloners, bots, scrapers, LLMs, humans — all touch its edges.
