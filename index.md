@@ -1,8 +1,6 @@
 # Identity Physics
 
-Every system behaves.  
-Every system repeats.  
-Every system becomes recognisable.  
+Every system behaves  |  Every system repeats  |  Every system becomes recognisable.  
 
 Identity Physics asks the question no other discipline covers: What is identity in systems — and what rules govern it?  
 
@@ -13,10 +11,9 @@ the feedback loops they cannot escape, and the patterns they stabilise into.
 
 When these patterns persist, identity emerges. When they interact, identity expresses. When conditions shift, identity adapts — or fractures.  
 
-Identity Physics is the discipline that studies these transitions:  
-from behaviour to pattern,  
-from pattern to identity,  
-from identity to interaction.  
+Identity Physics is the discipline that studies these transitions:
+
+from behaviour to pattern  |  from pattern to identity  |  from identity to interaction.  
 
 The canonical model is being shaped now.
 
