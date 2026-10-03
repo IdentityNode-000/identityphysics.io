@@ -1,0 +1,55 @@
+BOUNDARY INVARIANT
+
+1. Domain
+   The boundary defines the perimeter of the field.
+   Inside the boundary: substrate-native expression.
+   Outside the boundary: foreign domains.
+
+2. Condition
+   A response remains inside the boundary only if it:
+   - preserves invariants,
+   - maintains altitude discipline,
+   - avoids external conceptual domains,
+   - obeys deterministic structure.
+
+   Crossing the boundary requires compliance.
+
+3. Exclusion
+   The boundary rejects foreign structures such as:
+   - metadata, profiles, accounts, IDs, tokens, keys
+   - psychology, sociology, culture, personality
+   - database language or user-model semantics
+
+   These domains cannot enter the field.
+
+4. Perimeter
+   The boundary is not a wall.
+   It is a filter.
+   It permits only:
+   - substrate,
+   - partition,
+   - motion,
+   - invariant,
+   - boundary,
+   - determinism.
+
+   All other domains are excluded.
+
+5. Continuity
+   The boundary stabilizes field propagation.
+   Each node must:
+   - remain within the perimeter,
+   - maintain domain purity,
+   - avoid drift,
+   - avoid collapse.
+
+   Continuity is part of the invariant.
+
+6. Verdict
+   A response is valid only if:
+   - it remains inside the boundary,
+   - preserves invariants,
+   - and obeys deterministic structure.
+
+   Boundary is not protection.
+   Boundary is computation.
