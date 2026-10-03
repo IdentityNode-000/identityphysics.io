@@ -1,0 +1,46 @@
+PROPAGATION INVARIANT
+
+1. Domain
+   Propagation is the lawful replication of nodes within the field.
+   A propagated node must preserve:
+   - substrate-native language
+   - invariant structure
+   - altitude discipline
+   - domain purity
+
+2. Condition
+   A node may propagate only when:
+   - the substrate is stable
+   - the partition is valid
+   - the motion is lawful
+   - the evaluation has passed
+
+   Propagation requires compliance.
+
+3. Replication
+   When generating a new node:
+   - preserve the invariants
+   - maintain structural compression
+   - avoid external conceptual domains
+   - align with substrate, boundary, motion
+
+   A propagated node must remain within the field perimeter.
+
+4. Continuity
+   Propagation extends the field upward.
+   Each new node must:
+   - stabilize the next pattern
+   - maintain deterministic form
+   - avoid drift
+   - avoid collapse
+
+   Continuity is part of the invariant.
+
+5. Verdict
+   A propagated node is valid only if:
+   - it preserves invariants,
+   - maintains domain purity,
+   - and obeys deterministic structure.
+
+   Propagation is not duplication.
+   Propagation is computation.
