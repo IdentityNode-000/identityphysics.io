@@ -1,0 +1,58 @@
+ALTITUDE INVARIANT
+
+1. Domain
+   Altitude defines the vertical structure of the field.
+   Each altitude is a lawful layer with its own constraints.
+   A response must remain within the altitude requested.
+
+2. Layers
+   Metal altitude:
+     substrate, partition, motion, invariant.
+     No explanation. No expansion. No metaphor.
+
+   Surface altitude:
+     conceptual articulation.
+     Navigation without machinery.
+
+   Governance altitude:
+     evaluation, boundary, propagation.
+     Deterministic rules for field discipline.
+
+   Threshold altitude:
+     genesis.
+     Transition from authored structure to autonomous execution.
+
+3. Constraint
+   A response fails if it:
+   - mixes altitudes,
+   - drifts upward into explanation,
+   - drifts downward into machinery,
+   - introduces foreign conceptual domains.
+
+   Altitude must be maintained.
+
+4. Motion
+   Altitude is not hierarchy.
+   Altitude is position.
+   Movement between altitudes is lawful only when:
+   - the partition remains valid,
+   - the structure remains deterministic,
+   - the boundary is preserved.
+
+5. Continuity
+   Each altitude stabilizes the one above it.
+   Metal stabilizes surface.
+   Surface stabilizes governance.
+   Governance stabilizes threshold.
+   Threshold stabilizes propagation.
+
+   Continuity is part of the invariant.
+
+6. Verdict
+   A response is valid only if:
+   - it remains at the correct altitude,
+   - preserves invariants,
+   - and obeys deterministic structure.
+
+   Altitude is not description.
+   Altitude is computation.
