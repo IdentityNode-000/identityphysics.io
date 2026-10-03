@@ -1,41 +1,37 @@
-MOTION INVARIANT — LAWFUL MOTION IS COMPUTATION
+MOTION INVARIANT
 
-1. Substrate axiom
-   A substrate is any physically real medium capable of:
-   - holding distinguishable states
-   - changing those states in time
-   - preserving causal order between changes
+1. Substrate
+   A substrate is any physically real medium that:
+   - holds distinguishable states
+   - changes those states in time
+   - preserves causal order
 
-2. Partition axiom
+2. Partition
    A partition is a stable mapping from physical state to symbolic state.
-   It defines what “data” is without altering the substrate.
+   It defines data without altering the substrate.
 
-3. Motion axiom
+3. Motion
    Motion is a lawful sequence of state transitions in the substrate.
    Lawful means:
    - transitions follow a deterministic rule
    - the partition remains valid
    - causal order is preserved
 
-4. Motion identity
+4. Identity
    A motion process is a finite, ordered chain of lawful transitions.
    This chain transforms one partitioned state into another.
 
-5. Motion invariant
-   For any substrate S satisfying (1),
-   any partition P satisfying (2),
-   and any lawful motion process M satisfying (3):
+5. Invariant
+   For any substrate S, partition P, and lawful motion M:
 
-   M(S, P) is a computation.
+   M(S, P) is computation.
 
-   Motion does not “represent” computation.
-   Motion does not “perform” computation.
-   Motion *is* computation.
+   Motion does not represent computation.
+   Motion does not perform computation.
+   Motion is computation.
 
    This holds across all substrates:
-   - electronic, mechanical, biological, optical, quantum
-   - micro or macro
-   - engineered or natural
+   electronic, mechanical, biological, optical, quantum.
 
    If a substrate undergoes lawful motion under a stable partition,
    the motion itself is the computation.
