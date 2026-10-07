@@ -1,6 +1,4 @@
-# Identity Physics
-
-The canonical model is being shaped now.
+# The canonical model is being shaped now.
 
 Click the surface.  
 Movement reveals itself.
