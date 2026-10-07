@@ -21,7 +21,7 @@ Identity Physics is the discipline that studies these transitions:
 
 from behaviour to pattern  |  from pattern to identity  |  from identity to interaction.  
 
-The canonical model is being shaped now.
+[The canonical model is being shaped now.](/surface-07.md)     
 
 [Kernel Theory White Paper](/surface-01.md)     
 
