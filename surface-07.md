@@ -28,4 +28,4 @@ Movement reveals itself.
 ---
 
 Identity is movement, not metadata.  
-The rest remains sealed.
+The rest remains shaping.
