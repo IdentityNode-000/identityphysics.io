@@ -6,4 +6,7 @@ Behaviour repeats → pattern stabilises → identity forms → node activates �
 <br>
 <br>
 Neutrino Drift
+<br>
+<br>
+<br>
 Wheeler–DeWitt Container
