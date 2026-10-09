@@ -7,7 +7,10 @@ If a system hoards its exhaust and the warehouse has unresolved personality, isn
 When drift becomes architecture, the crisis isn’t a bug — it’s the design.
 <br>
 <br>
-Machine talk
+Machine Talk
+<br>
 “This is a metaphor describing architectural drift.”
-no......
+<br>
 “This is a character‑style framing of system instability.”
+<br>
+No… that’s still not helping the warehouse.
