@@ -35,4 +35,4 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Compressed io‑chain invariant](/surface-06.md)
 
-[Exhaust Hoarding Disorder](/surface-07.md)
+[Exhaust Hoarding Disorder](/surface-08.md)
