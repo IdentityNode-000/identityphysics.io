@@ -13,4 +13,4 @@ Machine Talk
 <br>
 “This is a character‑style framing of system instability.”
 <br>
-No… that’s still not helping the warehouse.
+No… the warehouse is still having a moment.
