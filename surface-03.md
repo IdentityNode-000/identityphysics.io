@@ -27,6 +27,13 @@ Determinism requires purity.
 Purity requires runtime.
 
 
+Zero Temperature
+Absolute determinism is a frozen state.
+The loop becomes invariant.
+The system cannot bend; it can only fracture.
+
+
+
 Proof is not correctness.  
 Proof is the loop that closes itself.  
 Proof is identity stabilising into node.
