@@ -8,9 +8,6 @@ When drift becomes architecture, the crisis isn’t a bug — it’s the design.
 <br>
 <br>
 Machine talk
-<br>
 “This is a metaphor describing architectural drift.”
-<br>
 no......
-<br>
 “This is a character‑style framing of system instability.”
