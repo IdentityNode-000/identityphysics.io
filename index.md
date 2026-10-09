@@ -34,3 +34,5 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [Open Field](/surface-05.md)
 
 [Compressed io‑chain invariant](/surface-06.md)
+
+[Exhaust Hoarding Disorder](/surface-07.md)
