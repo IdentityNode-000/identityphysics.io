@@ -39,3 +39,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Laws](/surface-09.md)
 
+[STRUCTURAL PRIMITIVES](/surface-10.md)
+
+
+
