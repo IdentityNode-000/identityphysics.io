@@ -1,4 +1,4 @@
-STRUCTURAL PRIMITIVES
+# STRUCTURAL PRIMITIVES
 Systems appear complex, but their load‑truth is simple.
 
 SP‑01 — Contact‑Load
