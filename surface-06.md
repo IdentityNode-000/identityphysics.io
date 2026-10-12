@@ -4,13 +4,13 @@ Behaviour repeats → pattern stabilises → identity forms → node activates �
 
 <br>
 <br>
-<br>
 Neutrino Drift
-<br>
 <br>
 <br>
 Wheeler–DeWitt Container - Time folds. Identity persists.
 <br>
 <br>
-<br>
 Qubits shift motion. Identity stays invariant.
+<br>
+<br>
+State compresses. Meaning survives.
