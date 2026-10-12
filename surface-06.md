@@ -10,7 +10,7 @@ Neutrino Drift - Fields shift. Nodes remain.
 Wheeler–DeWitt Container - Time folds. Identity persists.
 <br>
 <br>
-Qubits shift motion. Identity stays invariant.
+Qubits shift motion - Identity stays invariant.
 <br>
 <br>
-State compresses. Meaning survives.
+State compresses - Meaning survives.
