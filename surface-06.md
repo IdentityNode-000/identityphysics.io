@@ -9,7 +9,7 @@ Neutrino Drift
 <br>
 <br>
 <br>
-Wheeler–DeWitt Container
+Wheeler–DeWitt Container - Time folds. Identity persists.
 <br>
 <br>
 <br>
