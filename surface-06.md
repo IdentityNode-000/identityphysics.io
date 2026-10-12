@@ -10,3 +10,7 @@ Neutrino Drift
 <br>
 <br>
 Wheeler–DeWitt Container
+<br>
+<br>
+<br>
+Qubits shift motion. Identity stays invariant.
