@@ -4,7 +4,7 @@ Behaviour repeats → pattern stabilises → identity forms → node activates �
 
 <br>
 <br>
-Neutrino Drift
+Neutrino Drift - Fields shift. Nodes remain.
 <br>
 <br>
 Wheeler–DeWitt Container - Time folds. Identity persists.
