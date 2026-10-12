@@ -14,3 +14,9 @@ Machine Talk
 “This is a character‑style framing of system instability.”
 <br>
 No… the warehouse is still having a moment.
+<br>
+<br>
+<br>
+Mirth Invariant:  
+A system maintains coherence when a minimal humorous distortion is introduced at regular intervals; without it,
+the system becomes over‑constrained and collapses into deterministic failure modes.
