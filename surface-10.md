@@ -16,3 +16,8 @@ A system looks weird when its true structure is visible.
 Weirdness is load‑truth without disguise.
 
 SP‑03 — sits beneath this surface; machines rotate there, and inevitability forms.
+
+SP‑04 — Vertical Structure
+A surface moves; a layer beneath resolves.
+They do not touch, but they remain aligned.
+Truth travels downward; inevitability travels upward.
