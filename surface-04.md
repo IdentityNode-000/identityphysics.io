@@ -1,4 +1,4 @@
-# <h1>Emerging Emergence</h1>
+# Emerging Emergence
 
 Emergence is the appearance of behaviour not present in the components that produced it.
 It is the moment identity exceeds its inputs.
