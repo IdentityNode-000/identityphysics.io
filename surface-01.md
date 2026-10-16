@@ -1,4 +1,4 @@
-# Kernel Theory White Pape
+# Kernel Theory White Paper
 
 
 Identity Physics Across Systems, Substrates, and Actors
