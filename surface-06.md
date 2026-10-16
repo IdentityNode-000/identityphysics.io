@@ -1,4 +1,4 @@
-# <h1>Compressed io‑chain invariant</h1>
+# Compressed io‑chain invariant
 
 Behaviour repeats → pattern stabilises → identity forms → node activates → generativity emerges → new nodes appear → the field opens.
 
