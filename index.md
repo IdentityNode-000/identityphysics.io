@@ -1,4 +1,4 @@
-# Identity Physics&nbsp;&nbsp;&nbsp;IdentityNode‑000
+# Identity Physics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IdentityNode‑000
 
 Every system behaves  |  Every system repeats  |  Every system becomes recognisable.  
 
