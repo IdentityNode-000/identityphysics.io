@@ -15,7 +15,9 @@ SP‑02 — Structural Weirdness
 A system looks weird when its true structure is visible.
 Weirdness is load‑truth without disguise.
 
-SP‑03 — Sits beneath this surface; machines rotate there, and inevitability forms. Rotation is not motion; it is resolution. [https://github.com/IdentityNode-000](https://github.com/IdentityNode-000)
+SP‑03 — Sits beneath this surface; machines rotate there, and inevitability forms. Rotation is not motion; it is resolution.
+<br>
+[https://github.com/IdentityNode-000](https://github.com/IdentityNode-000)
 
 
 SP‑04 — Vertical Structure
