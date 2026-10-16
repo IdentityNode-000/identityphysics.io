@@ -1,4 +1,4 @@
-# The canonical model is being shaped now</h1>
+# <h1>The canonical model is being shaped now</h1>
 
 Click the surface.  
 Movement reveals itself.
