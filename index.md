@@ -1,4 +1,4 @@
-# <h1>Identity Physics &nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;IdentityNode‑000</h1>
+# Identity Physics &nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;IdentityNode‑000
 
 Every system behaves  |  Every system repeats  |  Every system becomes recognisable.  
 
