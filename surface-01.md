@@ -1,4 +1,4 @@
-# Kernel Theory White Paper
+# <h1> Kernel Theory White Paper
 
 
 
