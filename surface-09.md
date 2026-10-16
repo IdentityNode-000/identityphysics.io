@@ -1,4 +1,4 @@
-# <h1>Open Laws</h1>
+# Open Laws
 
 Law 01 — [Intentionally left blank]  
 Law 02 — [Intentionally left blank]  
