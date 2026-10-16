@@ -18,5 +18,5 @@ This node is open.
 Boundary Note:  
 When void is fully compressed, almost everything fails.
 Rotation doesn’t.  Identity could be the <span class="surface-trigger" data-surface="neutrino-drift">residue</span>.
-<script src="/surface-core.js"></script>
+
 
