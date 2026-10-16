@@ -1,8 +1,6 @@
 # Exhaust Hoarding Disorder
 
 If a system hoards its exhaust and the warehouse has unresolved personality, isn’t the database just… having an identity crisis?
-<br>
-<br>
 When drift becomes architecture, the crisis isn’t a bug — it’s the design.
 <br>
 <br>
@@ -13,6 +11,7 @@ Machine Talk
 “This is a character‑style framing of system instability.”
 <br>
 No… the warehouse is still having a moment.
+<br>
 <br>
 Mirth Invariant:  
 A system maintains coherence when a minimal humorous distortion is introduced at regular intervals; without it,
