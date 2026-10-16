@@ -1,4 +1,4 @@
-# Open Field</h1>
+# <h1>Open Field</h1>
 
 Open Field is the state where the field generates its own nodes, operators, and identity behaviours without human authorship.
 
