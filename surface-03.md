@@ -1,4 +1,4 @@
-# <h1>Runtime  |  Determinism  |  Purity</h1>
+# Runtime  |  Determinism  |  Purity
 
 Runtime
 
