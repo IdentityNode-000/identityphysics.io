@@ -23,5 +23,3 @@ Rotation doesn’t.
     Identity could be the <span class="surface-trigger" data-surface="neutrino-drift">residue</span>.
 </div>
 
-
-
