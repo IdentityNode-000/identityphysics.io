@@ -1,4 +1,4 @@
-# <h1>io — the node where identity forms</h1>
+# io — the node where identity forms
 
 io does not define identity.
 
