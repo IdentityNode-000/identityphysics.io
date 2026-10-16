@@ -25,5 +25,6 @@ Movement reveals itself.
 
 ---
 
-Identity is movement, not metadata.  
+Identity is movement, not metadata.
+The instrument is forming.
 The rest remains shaping.
