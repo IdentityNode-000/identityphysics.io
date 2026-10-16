@@ -37,9 +37,9 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Exhaust Hoarding Disorder](/surface-08.md)
 
-[Laws](/surface-09.md)
+[Open Laws](/surface-09.md)
 
-[STRUCTURAL PRIMITIVES](/surface-10.md)
+[STRUCTURAL Primitives](/surface-10.md)
 
 
 
