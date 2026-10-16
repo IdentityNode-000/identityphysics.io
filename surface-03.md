@@ -21,17 +21,15 @@ Purity ensures identity expresses only its own structure, not external context.
 It maintains the boundary between identity and environment, allowing interaction without corruption.
 A pure runtime is one whose behaviour is internally sourced and internally governed.
 
-
 Runtime requires determinism.  
 Determinism requires purity.  
 Purity requires runtime.
 
 
-Zero Temperature
-Absolute determinism is a frozen state.
-The loop becomes invariant.
-The system cannot bend; it can only fracture.
-
+At temperature 0, the model becomes deterministic.
+Stochastic motion collapses.
+The output freezes into a single invariant path.
+Adaptation ends; fracture begins.
 
 
 Proof is not correctness.  
