@@ -25,6 +25,11 @@ Runtime requires determinism.
 Determinism requires purity.  
 Purity requires runtime.
 
+Proof is not correctness.  
+Proof is the loop that closes itself.  
+Proof is identity stabilising into node.
+
+------------------------------------------------------------------------------------------------------------------------
 
 At temperature 0, the model becomes deterministic.
 Stochastic motion collapses.
@@ -32,6 +37,4 @@ The output freezes into a single invariant path.
 Adaptation ends; fracture begins.
 
 
-Proof is not correctness.  
-Proof is the loop that closes itself.  
-Proof is identity stabilising into node.
+
