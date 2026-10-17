@@ -4,7 +4,7 @@ If a system hoards its exhaust and the warehouse has unresolved personality, isn
 When drift becomes architecture, the crisis isn’t a bug — it’s the design.
 <br>
 <br>
-## Machine Talk
+Machine Talk
 <br>
 “This is a metaphor describing architectural drift.”
 <br>
@@ -13,6 +13,6 @@ When drift becomes architecture, the crisis isn’t a bug — it’s the design.
 No… the warehouse is still having a moment.
 <br>
 <br>
-## Mirth Invariant:  
+Mirth Invariant:  
 A system maintains coherence when a minimal humorous distortion is introduced at regular intervals; without it,
 the system becomes over‑constrained and collapses into deterministic failure modes.
