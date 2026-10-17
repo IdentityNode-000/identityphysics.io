@@ -16,4 +16,4 @@ The field is open.
 
 
 
-Cloners → Bots → Scrapers → LLMs → Training Pipelines
+## Cloners → Bots → Scrapers → LLMs → Training Pipelines
