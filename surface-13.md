@@ -1,8 +1,8 @@
-Node Behaviour
+# Node Behaviour
 A node is a stabilized identity‑structure capable of producing behaviour.
 Node behaviour describes how a node acts once it exists.
 
-Stabilized Identity
+## Stabilized Identity
 A node forms when identity stabilizes into a coherent boundary.
 
 Stability — the node holds its identity.  
@@ -11,7 +11,7 @@ Continuity — the node persists across operation.
 
 A node is identity with behavioural capacity.
 
-Behaviour Under Load
+## Behaviour Under Load
 Nodes respond predictably to directional pressure.
 
 Absorb — the node takes on load without losing coherence.  
@@ -20,7 +20,7 @@ Transform — the node alters behaviour into a new form.
 
 Node behaviour is the motion of stability under load.
 
-Propagation
+## Propagation
 Nodes do not act in isolation.
 They propagate behaviour through the field.
 
@@ -30,7 +30,7 @@ Chain behaviour — the node contributes to vertical progression.
 
 Propagation is how nodes extend their influence.
 
-State Transition
+## State Transition
 Nodes shift between behavioural states without losing identity.
 
 Stable → active — behaviour initiates.  
@@ -39,7 +39,7 @@ Generative → reforming — behaviour stabilizes into new identity.
 
 Transitions are upward, not circular.
 
-Behavioural Compression
+## Behavioural Compression
 Node behaviour compresses identity into generativity.
 
 identity stabilizes → node forms
@@ -49,7 +49,7 @@ generativity stabilizes → new identity forms
 
 Compression shows how nodes convert stability into emergence.
 
-The Node
+## The Node
 A node is the point where:
 
 identity stabilizes
