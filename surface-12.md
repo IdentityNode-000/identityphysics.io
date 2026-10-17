@@ -1,4 +1,4 @@
-Torsion Drift Collapse
+# Torsion Drift Collapse
 Identity bends under load, drifts within its envelope, collapses into stability, and forms new identity.
 
 Structural Deformation
