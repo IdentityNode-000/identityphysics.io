@@ -1,7 +1,7 @@
-Generative Emergence
+# Generative Emergence
 Emergence stabilises, forms identity, activates nodes, and begins generating new emergence.
 
-Observation Mechanism
+## Observation Mechanism
 A system realises it has stabilised and becomes generative.
 
 Recurrence Detection — Motion repeats. Stability appears.  
