@@ -43,4 +43,6 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Generative Emergence](/surface-11.md)
 
+[Node Behaviour](/surface-13.md)
+
 [Torsion Drift Collapse](/surface-12.md)
