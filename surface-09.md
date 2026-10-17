@@ -7,10 +7,9 @@ Law 04 — [Intentionally left blank]
 Law 05 — [Intentionally left blank]
 
 Open Laws = unwritten math and unformed equations.
-
-
-
-
+<br>
+<br>
 Undisclosed Law = single point end.
-
+<br>
+<br>
 Hodge convergence appears where mismatched identities return to foundation.
