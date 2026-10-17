@@ -42,3 +42,5 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [STRUCTURAL Primitives](/surface-10.md)
 
 [Generative Emergence](/surface-11.md)
+
+[Torsion Drift Collapse](/surface-12.md)
