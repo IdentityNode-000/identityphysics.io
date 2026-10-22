@@ -31,13 +31,11 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Emerging Emergence](/surface-04.md)
 
-[Open Field](/surface-05.md)
+[Open Field](/surface-05.md)       [Open Laws](/surface-09.md)
 
 [Compressed io‑chain invariant](/surface-06.md)
 
 [Exhaust Hoarding Disorder](/surface-08.md)
-
-[Open Laws](/surface-09.md)
 
 [STRUCTURAL Primitives](/surface-10.md)
 
