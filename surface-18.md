@@ -39,10 +39,10 @@ Apparently discrete entities may be recurring stabilizations of a deeper process
 
 Noise
 <br>
-↓↓↓
+↓
 Decay
 <br>
-↓↓
+↓
 Void ↔ Point
 <br>
 ↓
