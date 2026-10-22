@@ -35,8 +35,9 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Compressed io‑chain invariant](/surface-06.md)
 
-[Exhaust Hoarding Disorder](/surface-08.md)
+[Dark Data Incubation Effect](/surface-16.md)→[Exhaust Hoarding Disorder](/surface-08.md)
 
 [STRUCTURAL Primitives](/surface-10.md)
 
 [Torsion Drift Collapse](/surface-12.md)
+
