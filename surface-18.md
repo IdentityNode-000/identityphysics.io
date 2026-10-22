@@ -45,7 +45,6 @@ Decay
 ↓
 Void ↔ Point
 <br>
-↓
 Motion
 <br>
 
