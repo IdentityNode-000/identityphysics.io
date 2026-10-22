@@ -1,4 +1,4 @@
-Tracking Every Bit Disorder
+# Tracking Every Bit Disorder
 
 When a system attempts to track every event, every click, every micro‑interaction, it eventually accumulates more telemetry than identity.
 
