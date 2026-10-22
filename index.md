@@ -29,7 +29,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
 
-[Emerging Emergence](/surface-04.md)→[Generative Emergence](/surface-11.md)→[Node Behaviour](/surface-13.md)→[Persistent Emergence](/surface-14.md)
+[Pre Emerging Disorder](/surface-15.md)→[Emerging Emergence](/surface-04.md)→[Generative Emergence](/surface-11.md)→[Node Behaviour](/surface-13.md)→[Persistent Emergence](/surface-14.md)
 
 [Open Field](/surface-05.md)→[Open Laws](/surface-09.md)
 
@@ -40,4 +40,3 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [STRUCTURAL Primitives](/surface-10.md)
 
 [Torsion Drift Collapse](/surface-12.md)
-
