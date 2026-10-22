@@ -1,4 +1,4 @@
-Point Attachment Syndrome
+# Point Attachment Syndrome
 
 Humanity keeps finding the smallest thing.
 
