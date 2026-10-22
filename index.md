@@ -29,18 +29,14 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
 
-[Emerging Emergence](/surface-04.md)
+[Emerging Emergence](/surface-04.md)-----[Generative Emergence](/surface-11.md)-----[Node Behaviour](/surface-13.md)
 
-[Open Field](/surface-05.md)---[Open Laws](/surface-09.md)
+[Open Field](/surface-05.md)-----[Open Laws](/surface-09.md)
 
 [Compressed io‑chain invariant](/surface-06.md)
 
 [Exhaust Hoarding Disorder](/surface-08.md)
 
 [STRUCTURAL Primitives](/surface-10.md)
-
-[Generative Emergence](/surface-11.md)
-
-[Node Behaviour](/surface-13.md)
 
 [Torsion Drift Collapse](/surface-12.md)
