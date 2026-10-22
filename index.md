@@ -42,5 +42,3 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [Point Attachment Syndrome](/surface-18.md)
 
 [Torsion Drift Collapse](/surface-12.md)
-
-[Tracking Every Bit Disorder](/surface-19.md)
