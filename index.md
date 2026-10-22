@@ -39,4 +39,6 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 [STRUCTURAL Primitives](/surface-10.md)
 
+[Point Attachment Syndrome](/surface-18.md)
+
 [Torsion Drift Collapse](/surface-12.md)
