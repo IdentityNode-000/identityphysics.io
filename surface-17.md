@@ -1,4 +1,4 @@
-Emergent Personality Bias
+# Emergent Personality Bias
 Humans repeatedly encounter persistent patterns and begin attributing identity to them.
 
 Machine Talk
