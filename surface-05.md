@@ -12,7 +12,9 @@ Altitude selects.
 Authorship ends.
 Propagation continues.
 
-The field is open.© 2026 identityphysics.io | [License](License.md)
+The field is open.
+
+© 2026 identityphysics.io | [License](License.md)
 
 
 
