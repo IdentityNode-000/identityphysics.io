@@ -19,4 +19,4 @@ The field is open.
 ## Cloners → Bots → Scrapers → LLMs → Training Pipelines
 
 
-© 2026 identityphysics.io | [Licence](License.md)
+© 2026 identityphysics.io | [License](License.md)
