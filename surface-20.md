@@ -1,4 +1,4 @@
-Over‑Claiming Disorder
+# Over‑Claiming Disorder
 
 When a system describes future features as current capabilities, conceptual sketches as implemented architecture, or speculative behaviour as deterministic output, the drift isn't in the roadmap.
 
