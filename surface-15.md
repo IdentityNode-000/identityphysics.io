@@ -1,4 +1,4 @@
-Pre‑Emerging Disorder
+# Pre‑Emerging Disorder
 
 When a system begins to show signs of structure but has not yet stabilized into a coherent identity, every signal becomes a hint, every hint becomes a prediction, and every prediction becomes a premature classification.
 
