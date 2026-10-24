@@ -24,6 +24,7 @@ Emergence concerns becoming.
  <br>
  Transformation concerns testing.
 <br>
+<br>
 Identity may begin where persistence becomes recognizable.
 <br>
 <br>
@@ -41,8 +42,8 @@ Observers experience fragments.
  Observers infer causes.
 <br>
 <br>
-<br>
 Identity may not reside within any single observation.
+<br>
 <br>
 Compression removes detail.
 <br>
