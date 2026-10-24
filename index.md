@@ -20,8 +20,9 @@ When conditions shift, identity adapts — or fractures.
 Identity Physics is the discipline that studies these transitions:
 
 from behaviour to pattern  |  from pattern to identity  |  from identity to interaction.  
+[NET Topia](/surface-22.md)    
 
-[The canonical model is being shaped now](/surface-07.md) [NET Topia](/surface-22.md)    
+[The canonical model is being shaped now](/surface-07.md) 
 
 [Kernel Theory White Paper](/surface-01.md)     
 
