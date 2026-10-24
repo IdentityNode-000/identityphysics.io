@@ -15,12 +15,14 @@ and the patterns they stabilise into.
 
 When these patterns persist, identity emerges.
 When they interact, identity expresses.
-When conditions shift, identity adapts — or fractures.[The Maybe Song](/surface-23.md)    
-
+When conditions shift, identity adapts — or fractures.
+<br>
+[The Maybe Song](/surface-23.md)    
+<br>
 Identity Physics is the discipline that studies these transitions:
 
 from behaviour to pattern  |  from pattern to identity  |  from identity to interaction.
-
+<br>
 [NET Topia](/surface-22.md)    
 
 [The canonical model is being shaped now](/surface-07.md) 
