@@ -48,7 +48,4 @@ Substrate
 Perhaps not. Observe.
 <br>
 <br>
-Observed Law 01
-<br>
-<br>
-Intentionally Unobserved.
+Observed Law 01 — [Intentionally Unobserved]
