@@ -3,28 +3,28 @@
 A discussion pathway.
 <br>
 <br>
-Maybe 1
+Maybe 1 — 
 Connectivity precedes meaning.
 <br>
-Maybe 2
+Maybe 2 — 
 Shared protocols create shared realities.
 <br>
-Maybe 3
+Maybe 3 — 
 Growth becomes self-sustaining.
 <br>
-Maybe 4
+Maybe 4 — 
 Equilibrium is temporary.
 <br>
-Maybe 5
+Maybe 5 — 
 Fragmentation is not collapse.
 <br>
-Maybe 6
+Maybe 6 — 
 Visible systems produce shadows.
 <br>
-Maybe 7
+Maybe 7 —
 Mature systems turn inward.
 <br>
-Maybe 8
+Maybe 8 — 
 Many networks may share one substrate.
 <br>
 <br>
