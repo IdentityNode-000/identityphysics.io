@@ -45,10 +45,10 @@ Substrate
 <br>
 → Inward Pull
 <br>
-<br>
 Perhaps not. Observe.
 <br>
 <br>
 Observed Law 01
+<br>
 <br>
 Intentionally Unobserved.
