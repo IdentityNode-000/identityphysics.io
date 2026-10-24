@@ -45,7 +45,6 @@ Observe return,
 <br>
 Observe what can remain,
 <br>
-<br>
 Perhaps the thing that survives drift
 <br>
 Will come around again.
