@@ -17,9 +17,11 @@ Something remains.
 <br>
 <br>
 Emergence concerns becoming.
+<br>
  Persistence concerns continuity.
+ <br>
  Transformation concerns testing.
-
+<br>
 Identity may begin where persistence becomes recognizable.
 
 A name is a label.
@@ -27,21 +29,29 @@ A name is a label.
  An observation is a lens.
 <br>
 Observers experience fragments.
+<br>
  Observers construct labels.
+ <br>
  Observers infer causes.
 <br>
+<br>
 Identity may not reside within any single observation.
-
+<br>
 Compression removes detail.
+<br>
  Drift removes precision.
+ <br>
  Transformation removes form.
-
+<br>
 Yet some relationships may remain.
 <br>
 <br>
 A whirlpool changes its water.
+<br>
  A flame changes its fuel.
+ <br>
  A forest changes its trees.
+ <br>
  A person changes their behaviour.
 <br>
 Yet continuity is experienced.
