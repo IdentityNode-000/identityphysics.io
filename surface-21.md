@@ -1,7 +1,7 @@
 # Becoming Identity
 
 Identity is not becoming.
-
+<br>
 Yet identity may not be visible without becoming.
 <br>
 <br>
@@ -46,6 +46,7 @@ Compression removes detail.
  <br>
  Transformation removes form.
 <br>
+<br>
 Yet some relationships may remain.
 <br>
 <br>
@@ -56,6 +57,7 @@ A whirlpool changes its water.
  A forest changes its trees.
  <br>
  A person changes their behaviour.
+<br>
 <br>
 Yet continuity is experienced.
 
@@ -70,7 +72,9 @@ We observe patterns.
 <br>
 <br>
 We notice what remains.
+<br>
  We notice what survives.
+ <br>
  We notice what resists disappearance.
 <br>
 <br>
@@ -80,13 +84,15 @@ Perhaps identity is not the label.
 <br>
 Perhaps identity resides within persistent invariance.
 <br>
+<br>
 Identity may not be discovered.
-
+<br>
 Identity may be experienced.
-
+<br>
 Identity may not be becoming.
-
+<br>
 Identity may be what survives becoming.
+<br>
 <br>
 <br>
 Emmy survives.
