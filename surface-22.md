@@ -45,7 +45,9 @@ Substrate
 <br>
 → Inward Pull
 <br>
-Perhaps not. Observe.
+Perhaps not.
+<br>
+Observe.
 <br>
 <br>
 Observed Law 01 — [Intentionally Unobserved]
