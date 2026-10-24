@@ -25,7 +25,7 @@ Emergence concerns becoming.
  Transformation concerns testing.
 <br>
 <br>
-Identi<br>ty may begin where persistence becomes recognizable.
+Identity may begin where persistence becomes recognizable.
 <br>
 <br>
 A name is a label.
