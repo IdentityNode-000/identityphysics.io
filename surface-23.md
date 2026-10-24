@@ -1,5 +1,4 @@
 # The Maybe Song
-<br>
 A whirlpool changes water,
 <br>
 A flame forgets its fuel,
