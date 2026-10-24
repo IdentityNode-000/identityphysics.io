@@ -2,6 +2,7 @@
 
 Identity is not becoming.
 <br>
+<br>
 Yet identity may not be visible without becoming.
 <br>
 <br>
@@ -62,7 +63,6 @@ A whirlpool changes its water.
 Yet continuity is experienced.
 
 We do not observe identity directly.
-<br>
 <br>
 We observe patterns.
 <br>
