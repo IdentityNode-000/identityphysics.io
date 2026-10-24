@@ -22,10 +22,13 @@ Emergence concerns becoming.
  <br>
  Transformation concerns testing.
 <br>
+<br>
 Identity may begin where persistence becomes recognizable.
-
+<br>
 A name is a label.
+<br>
  A description is a projection.
+ <br>
  An observation is a lens.
 <br>
 Observers experience fragments.
