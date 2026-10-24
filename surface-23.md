@@ -16,7 +16,6 @@ Maybe patterns come and go,
 <br>
 Maybe what survives the drift
 <br>
-<br>
 Is all we really know.
 <br>
 <br>
@@ -37,8 +36,6 @@ Maybe shadows help us see,
 <br>
 Maybe what survives the change
 <br>
-<br>
-
 Is what identity may be.
 <br>
 <br>
@@ -58,7 +55,9 @@ Maybe this,
 <br>
 Maybe that,
 <br>
-Perhaps not, observe and see,
+Perhaps not,
+<br>
+observe and see,
 <br>
 <br>
 Identity may not be found,
