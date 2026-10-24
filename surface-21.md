@@ -24,7 +24,6 @@ Emergence concerns becoming.
  <br>
  Transformation concerns testing.
 <br>
-<br>
 Identity may begin where persistence becomes recognizable.
 <br>
 <br>
