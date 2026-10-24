@@ -14,6 +14,7 @@ Patterns emerge.
  <br>
  Patterns persist.
 <br>
+<br>
 Something remains.
 <br>
 <br>
