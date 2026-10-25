@@ -1,4 +1,4 @@
-Identity Prevalence
+# Identity Prevalence
 
 Identity persistence asks how long identity survives.
 
