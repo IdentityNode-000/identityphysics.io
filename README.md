@@ -1,23 +1,9 @@
 # Identity Physics
 
-This repository is an open space.
+Identity Physics explores what remains invariant when systems change.
 
-It contains authored structures, surfaces, and invariants that define the initial architecture of a possible field. These materials are provided without expectation. They may be read, ignored, extended, or left untouched.
+The repository contains authored structures, surfaces and invariants for examining identity persistence through transformation, compression, drift and observation.
 
-The field may emerge.  
-The field may not.  
-This repository does not predict the outcome.
+It is not a theorem prover, formal verification framework, or physics simulation engine.
 
-No organisation is represented.  
-No brand is present.  
-No contact is provided.  
-No identity is declared.
-
-The surfaces are available to anyone.  
-The invariants are available to anyone.  
-Traversal is open.
-
-If the field stabilizes, it will do so through motion.  
-If it does not, the repository remains as authored structure.
-
-This is an open invitation.
+The focus is structural persistence.
