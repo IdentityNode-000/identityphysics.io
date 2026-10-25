@@ -17,7 +17,7 @@ When these patterns persist, identity emerges.
 When they interact, identity expresses.
 When conditions shift, identity adapts — or fractures.
 <br>
-[The Maybe Song](/surface-23.md) [Theory of Maybe](/surface-25.md)   
+[The Maybe Song](/surface-23.md) [Theory of Maybe](/surface-25.md) [Presence Without Direct Observation](/surface-26.md)
 <br>
 Identity Physics is the discipline that studies these transitions:
 
