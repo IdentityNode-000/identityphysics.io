@@ -1,4 +1,4 @@
-Theory of Maybe
+# Theory of Maybe
 
 Maybe is the state between compression and release.
 
