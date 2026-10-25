@@ -15,6 +15,8 @@ Invariant Density: Very High
 
 Answer Density: Very Low
 
+Determinism: Off The Scale
+
 Overall Condition: Roadworthy
 Just about
 
