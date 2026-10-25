@@ -14,9 +14,13 @@ An identity with high prevalence remains recognisable through change.
 
 An identity with low prevalence may persist, yet remain limited, local, or transient.
 
+
+
 Identity Physics does not ask whether identity remains materially unchanged.
 
 Identity Physics asks whether continuity remains recognisable.
+
+
 
 Identity Continuity = the path between states.
 
