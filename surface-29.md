@@ -29,7 +29,8 @@ Identity Persistence = how long identity survives.
 Identity Prevalence = how broadly identity is perceived and maintained.
 
 Identity Governance = what maintains it.
-
+<br>
+<br>
 ## Governance Laws
 
 GP01: Intentionally left ungoverned.
