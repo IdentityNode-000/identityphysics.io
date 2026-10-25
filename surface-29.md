@@ -34,5 +34,8 @@ Identity Governance = what maintains it.
 ## Governance Laws
 
 GP01: Intentionally left ungoverned.
+<br>
+<br>
+Once governance governs governance, who is governing?
 
 
