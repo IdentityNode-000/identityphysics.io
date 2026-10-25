@@ -13,15 +13,13 @@ Identity prevalence is concerned with the breadth of recognisable continuity.
 An identity with high prevalence remains recognisable through change.
 
 An identity with low prevalence may persist, yet remain limited, local, or transient.
-
-
-
+<br>
+<br>
 Identity Physics does not ask whether identity remains materially unchanged.
 
 Identity Physics asks whether continuity remains recognisable.
-
-
-
+<br>
+<br>
 Identity Continuity = the path between states.
 
 Identity Persistence = how long identity survives.
