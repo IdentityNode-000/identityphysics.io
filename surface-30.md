@@ -29,6 +29,7 @@ A broken Anchor indicates structural instability.
 ## Lineage
 Explainable Change
 Question: How did the system arrive here?
+<br>
 Lineage represents continuity through causal explanation.
 <br>
 Consider:
