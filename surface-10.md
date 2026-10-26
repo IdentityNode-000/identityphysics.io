@@ -25,3 +25,6 @@ A surface moves; a layer beneath resolves.
 They do not touch, but they remain aligned.
 Truth travels downward; inevitability travels upward.
 When inevitability rises too fast, collapse appears as containment.
+<br>
+<br>
+Decay follows fault lines
