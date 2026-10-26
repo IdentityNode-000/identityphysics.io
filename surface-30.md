@@ -74,10 +74,15 @@ Compass Test
 Can the system still evaluate and correct itself?
 ________________________________________
 ## Identity Status
+<br>
 Status	Description
+<br>
 Preserved	Anchor, Lineage, and Compass remain intact.
+<br>
 Transformed	Major change occurred, but continuity remains intact.
+<br>
 Fractured	One or more pillars are weakened or partially broken.
+<br>
 Re	Continuity has been lost and a new identity has emerged.
 ________________________________________
 ## Audit Prompt
