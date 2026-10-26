@@ -4,7 +4,6 @@ Identity persists when constraints survive, change remains explainable, and self
 Identity is not a static state.
 Identity is the continuity of a system through change.
 A system may transform dramatically while remaining the same identity if continuity is preserved. A system may retain many outward characteristics yet become a different identity if continuity is broken.
-________________________________________
 ## Anchor
 Constraints
 Question: What must remain true?
@@ -21,7 +20,6 @@ Consider:
 •	Which constraints were replaced?
 <br>
 A broken Anchor indicates structural instability.
-________________________________________
 ## Lineage
 Explainable Change
 Question: How did the system arrive here?
@@ -38,7 +36,6 @@ Consider:
 •	Did replacement occur through abrupt discontinuity?
 <br>
 A broken Lineage indicates loss of continuity.
-________________________________________
 ## Compass
 Self-Correction
 Question: Can the system still recognize and correct error?
@@ -55,7 +52,6 @@ Consider:
 •	Has the corrective mechanism degraded or been replaced?
 <br>
 A broken Compass indicates collapse of adaptive capacity.
-________________________________________
 ## Structural Audit
 Evaluate any system using three tests:
 <br>
@@ -72,7 +68,6 @@ Can the change be explained through an unbroken causal chain?
 Compass Test
 <br>
 Can the system still evaluate and correct itself?
-________________________________________
 ## Identity Status
 <br>
 Status	Description
@@ -84,7 +79,6 @@ Transformed	Major change occurred, but continuity remains intact.
 Fractured	One or more pillars are weakened or partially broken.
 <br>
 Re	Continuity has been lost and a new identity has emerged.
-________________________________________
 ## Audit Prompt
 Plain Text
 Using the Identity Persistence Framework:
@@ -94,7 +88,6 @@ change remains explainable,
 and self-correction survives.
  
 Evaluate the following system using:
- 
 - Anchor (Constraints)
 - Lineage (Explainable Change)
 - Compass (Self-Correction)
