@@ -12,6 +12,7 @@ A system may retain many outward characteristics yet become a different identity
 ## Anchor
 Constraints
 Question: What must remain true?
+<br>
 The Anchor represents the constraints, boundaries, invariants, and governing conditions that define a system.
 <br>
 Consider:
