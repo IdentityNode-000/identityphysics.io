@@ -78,7 +78,6 @@ Compass Test
 <br>
 Can the system still evaluate and correct itself?
 ## Identity Status
-<br>
 Status	Description
 <br>
 Preserved	Anchor, Lineage, and Compass remain intact.
