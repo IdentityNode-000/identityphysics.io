@@ -44,6 +44,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [Dark Data Incubation Effect](/surface-16.md)→[Exhaust Hoarding Disorder](/surface-08.md)→ [Emergent Personality Bias](/surface-17.md)
 
 [Identity Persistence Framework](/surface-30.md)
+<br>
 Anchor • Lineage • Compass
 
 [STRUCTURAL Primitives](/surface-10.md)
