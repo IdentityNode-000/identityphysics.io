@@ -9,33 +9,51 @@ ________________________________________
 Constraints
 Question: What must remain true?
 The Anchor represents the constraints, boundaries, invariants, and governing conditions that define a system.
+<br>
 Consider:
+<br>
 •	What constraints define the system?
+<br>
 •	Which constraints survived?
+<br>
 •	Which constraints changed?
+<br>
 •	Which constraints were replaced?
+<br>
 A broken Anchor indicates structural instability.
 ________________________________________
 ## Lineage
 Explainable Change
 Question: How did the system arrive here?
 Lineage represents continuity through causal explanation.
+<br>
 Consider:
+<br>
 •	Can the current state be traced from previous states?
+<br>
 •	Is there an unbroken chain of adaptation?
+<br>
 •	Did change emerge gradually through interaction with the environment?
+<br>
 •	Did replacement occur through abrupt discontinuity?
+<br>
 A broken Lineage indicates loss of continuity.
 ________________________________________
 ## Compass
 Self-Correction
 Question: Can the system still recognize and correct error?
 The Compass represents feedback, governance, learning, adaptation, and correction mechanisms.
+<br>
 Consider:
+<br>
 •	Can the system evaluate outcomes?
+<br>
 •	Can it detect contradictions?
+<br>
 •	Can it adjust behavior?
+<br>
 •	Has the corrective mechanism degraded or been replaced?
+<br>
 A broken Compass indicates collapse of adaptive capacity.
 ________________________________________
 ## Structural Audit
