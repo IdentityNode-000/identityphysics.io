@@ -1,11 +1,11 @@
-Identity Persistence Framework
+# Identity Persistence Framework
 Core Principle
 Identity persists when constraints survive, change remains explainable, and self-correction survives.
 Identity is not a static state.
 Identity is the continuity of a system through change.
 A system may transform dramatically while remaining the same identity if continuity is preserved. A system may retain many outward characteristics yet become a different identity if continuity is broken.
 ________________________________________
-Anchor
+## Anchor
 Constraints
 Question: What must remain true?
 The Anchor represents the constraints, boundaries, invariants, and governing conditions that define a system.
@@ -16,7 +16,7 @@ Consider:
 •	Which constraints were replaced?
 A broken Anchor indicates structural instability.
 ________________________________________
-Lineage
+## Lineage
 Explainable Change
 Question: How did the system arrive here?
 Lineage represents continuity through causal explanation.
@@ -27,7 +27,7 @@ Consider:
 •	Did replacement occur through abrupt discontinuity?
 A broken Lineage indicates loss of continuity.
 ________________________________________
-Compass
+## Compass
 Self-Correction
 Question: Can the system still recognize and correct error?
 The Compass represents feedback, governance, learning, adaptation, and correction mechanisms.
@@ -38,7 +38,7 @@ Consider:
 •	Has the corrective mechanism degraded or been replaced?
 A broken Compass indicates collapse of adaptive capacity.
 ________________________________________
-Structural Audit
+## Structural Audit
 Evaluate any system using three tests:
 Anchor Test
 Did the defining constraints survive?
@@ -47,14 +47,14 @@ Can the change be explained through an unbroken causal chain?
 Compass Test
 Can the system still evaluate and correct itself?
 ________________________________________
-Identity Status
+## Identity Status
 Status	Description
 Preserved	Anchor, Lineage, and Compass remain intact.
 Transformed	Major change occurred, but continuity remains intact.
 Fractured	One or more pillars are weakened or partially broken.
 Re	Continuity has been lost and a new identity has emerged.
 ________________________________________
-Audit Prompt
+## Audit Prompt
 Plain Text
 Using the Identity Persistence Framework:
  
@@ -74,6 +74,6 @@ Determine whether the identity is:
 - Fractured
 - Replaced
  
-System:
+## System:
 [Insert System Here]
 
