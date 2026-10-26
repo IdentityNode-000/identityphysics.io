@@ -58,11 +58,19 @@ A broken Compass indicates collapse of adaptive capacity.
 ________________________________________
 ## Structural Audit
 Evaluate any system using three tests:
+<br>
+<br>
 Anchor Test
+<br>
 Did the defining constraints survive?
+<br>
 Lineage Test
+<br>
 Can the change be explained through an unbroken causal chain?
+<br>
+<br>
 Compass Test
+<br>
 Can the system still evaluate and correct itself?
 ________________________________________
 ## Identity Status
