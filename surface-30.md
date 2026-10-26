@@ -1,9 +1,14 @@
 # Identity Persistence Framework
 Core Principle
 Identity persists when constraints survive, change remains explainable, and self-correction survives.
+<br>
 Identity is not a static state.
+<br>
 Identity is the continuity of a system through change.
-A system may transform dramatically while remaining the same identity if continuity is preserved. A system may retain many outward characteristics yet become a different identity if continuity is broken.
+<br>
+A system may transform dramatically while remaining the same identity if continuity is preserved.
+<br>
+A system may retain many outward characteristics yet become a different identity if continuity is broken.
 ## Anchor
 Constraints
 Question: What must remain true?
@@ -38,7 +43,9 @@ Consider:
 A broken Lineage indicates loss of continuity.
 ## Compass
 Self-Correction
+<br>
 Question: Can the system still recognize and correct error?
+<br>
 The Compass represents feedback, governance, learning, adaptation, and correction mechanisms.
 <br>
 Consider:
