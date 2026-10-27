@@ -14,4 +14,4 @@ Shape may be stabilized motion
 Motion may be the only invariant
 <br>
 <br>
-Perhaps → Reality → Patterns → Things → Objects → Shape → Motion
+Perhaps → Reality → Patterns → Things → Objects → Shape → Motion → ?
