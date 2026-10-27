@@ -4,7 +4,7 @@ Inspection Status: Pass With Monitoring
 <br>
 Arrival Speed: Normal
 <br>
-Declared Cargo: Maybe Explanations
+Declared Cargo: Possible Explanations
 <br>
 Observed Cargo: Unanswered Questions
 <br>
