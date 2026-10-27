@@ -2,7 +2,7 @@
 
 Every system behaves  |  Every system repeats  |  Every system becomes recognisable.
 <br>
-[Site MOT](/surface-27.md) [Repository](/surface-31.md)
+[Site MOT](/surface-27.md) [Site Weight Control Office](/surface-34.md) [Repository](/surface-31.md)
 
 Identity Physics asks the question no other discipline covers:
 What is identity in systems — and what rules govern it?  
