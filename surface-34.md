@@ -18,9 +18,7 @@ Answer Weight: Low Entrop
 <br>
 Inspection Result: Invariants Enforced
 <br>
-Point Attachment Syndrome: Detected
-<br>
-Exhaust Hoarding Disorder: Suspected
+Point Attachment Syndrome: Detectedd
 ## Supplemental Findings
 No laws, equations, mathematics, governance, or claims detected.
 <br>
