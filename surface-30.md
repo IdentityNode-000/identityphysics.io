@@ -90,8 +90,11 @@ Re	Continuity has been lost and a new identity has emerged.
 Plain Text
 <br>
 Using the Identity Persistence Framework:
+<br>
 Identity persists when constraints survive,
+<br>
 change remains explainable,
+<br>
 and self-correction survives.
  
 Evaluate the following system using:
