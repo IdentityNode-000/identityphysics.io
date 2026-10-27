@@ -1,6 +1,7 @@
 # Identity Physics &nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;IdentityNode‑000
 
 Every system behaves  |  Every system repeats  |  Every system becomes recognisable.
+<br>
 [Site MOT](/surface-27.md) [Repository](/surface-31.md)
 
 Identity Physics asks the question no other discipline covers:
