@@ -84,7 +84,7 @@ Transformed	Major change occurred, but continuity remains intact.
 <br>
 Fractured	One or more pillars are weakened or partially broken.
 <br>
-Re	Continuity has been lost and a new identity has emerged.
+Continuity has been lost and a new identity has emerged.
 
 ## Audit Prompt
 Plain Text
