@@ -11,7 +11,7 @@ Behaviour → Pattern → Identity
                  │
               Fracture
                  │
-             Collapse ?
+           Decay → Collapse ?
 
                  ↘
                Motion ?
