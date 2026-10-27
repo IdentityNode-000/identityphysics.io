@@ -1,6 +1,5 @@
 # Site Weight Control Office
 ## Weigh-In-Motion Inspection Report
-<br>
 Inspection Status: Pass With Monitoring
 <br>
 Arrival Speed: Normal
