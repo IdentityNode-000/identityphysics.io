@@ -34,7 +34,7 @@ Routing Decision: Return To Previous Surface
 <br>
 Reason: Torsion Drift Collapse
 <br>
-Action: Operations continue as normal.
+Action: Operations continue as normal
 ### Final Destination Assessment
 Facility Type: Warehouse
 <br>
@@ -42,13 +42,15 @@ Dark Data Status: Present
 <br>
 Exhaust Hoarding Disorder: Suspected
 <br>
-Inspection Result: Operations continue as normal.
+Inspection Result: Operations continue as normal
 ## Inspector's Advisory
 Before adjustment, correction, interpretation, conclusion, optimization, clarification, categorization, enforcement action, or overclaiming:
 <br>
-Observe First.
+Observe First
 <br>
 <br>
-No immediate intervention required.
+No immediate intervention required
 <br>
-Site Tracking Disabled.
+Site Tracking Disabled
+<br>
+No record of passing kept
