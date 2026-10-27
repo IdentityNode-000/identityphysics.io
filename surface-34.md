@@ -1,4 +1,4 @@
-# Site Weight Control Office
+# Weight Control Office
 ## Weigh-In-Motion Inspection Report
 Inspection Status: Pass With Monitoring
 <br>
