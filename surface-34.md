@@ -14,11 +14,11 @@ Question Weight: High Entropy
 <br>
 Inspection Result: Entropy Failures Detected
 <br>
-Answer Weight: Low Entrop
+Answer Weight: Low Entropy
 <br>
 Inspection Result: Invariants Enforced
 <br>
-Point Attachment Syndrome: Detectedd
+Point Attachment Syndrome: Detected
 ## Supplemental Findings
 No laws, equations, mathematics, governance, or claims detected.
 <br>
