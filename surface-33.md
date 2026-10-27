@@ -18,4 +18,4 @@ Behaviour → Pattern → Identity
 
       Void ? ↔ Motion ?
 
-Maybe Identity is only the discussion point.
+Maybe Identity is only the discussion point?
