@@ -46,10 +46,7 @@ Inspection Result: Operations continue as normal
 ## Inspector's Advisory
 Before adjustment, correction, interpretation, conclusion, optimization, clarification, categorization, enforcement action, or overclaiming:
 <br>
-Observe First
-<br>
-<br>
-No immediate intervention required
+Observe First, no immediate intervention required
 <br>
 Site Tracking Disabled
 <br>
