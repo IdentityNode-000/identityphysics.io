@@ -1,22 +1,21 @@
 # Identity Junction
-
 Behaviour → Pattern → Identity
 
-                 ▲
-                 │
-           Persistence
+             ▲
+             │
+        Persistence
 
-                 ▼
-           Fault Line
-                 │
-              Fracture
-                 │
-           Decay → Collapse ?
+             ▼
+        Fault Line
+             │
+         Fracture
+             │
+          Decay
+             │
+      Collapse ?
 
-                 ↘
-               Motion ?
+         ↙   ↘
 
-                 ↙
-                Void ?
+      Void ? ↔ Motion ?
 
 Maybe Identity is only the discussion point.
