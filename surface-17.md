@@ -10,3 +10,7 @@ No...
 <br>
 The pattern has been behaving the same way for three years.
 At some point the difference becomes administrative.
+
+## Demaxxing Observation
+ Maxxing asks what else can be added.
+ Demaxxing asks what remains when everything unnecessary is removed.
