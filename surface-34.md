@@ -10,11 +10,11 @@ Observed Cargo: Unanswered Questions
 <br>
 Verified Weight: Atom-to-Identity Chain
 <br>
-Question Weight: High
+Question Weight: High Entropy
 <br>
 Inspection Result: Entropy Failures Detected
 <br>
-Answer Weight: Low
+Answer Weight: Low Entrop
 <br>
 Inspection Result: Invariants Enforced
 <br>
