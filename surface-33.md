@@ -12,9 +12,9 @@ Behaviour → Pattern → Identity
              │
           Decay
              │
-      Collapse ?
+         Collapse ?
 
-         ↙   ↘
+           ↙   ↘
 
       Void ? ↔ Motion ?
 
