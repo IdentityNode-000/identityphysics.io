@@ -49,6 +49,8 @@ Anchor • Lineage • Compass
 
 [STRUCTURAL Primitives](/surface-10.md)
 
+[Reality of Motion](/surface-32.md)
+
 [Point Attachment Syndrome](/surface-18.md)
 
 ←[Torsion Drift Collapse](/surface-12.md)
