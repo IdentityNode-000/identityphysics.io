@@ -64,7 +64,6 @@ A broken Compass indicates collapse of adaptive capacity.
 ## Structural Audit
 Evaluate any system using three tests:
 <br>
-<br>
 Anchor Test
 <br>
 Did the defining constraints survive?
@@ -72,7 +71,6 @@ Did the defining constraints survive?
 Lineage Test
 <br>
 Can the change be explained through an unbroken causal chain?
-<br>
 <br>
 Compass Test
 <br>
@@ -90,8 +88,8 @@ Re	Continuity has been lost and a new identity has emerged.
 
 ## Audit Prompt
 Plain Text
+<br>
 Using the Identity Persistence Framework:
- 
 Identity persists when constraints survive,
 change remains explainable,
 and self-correction survives.
