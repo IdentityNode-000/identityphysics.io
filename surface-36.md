@@ -80,9 +80,11 @@ Identity location: Undetermined
 <br>
 Mutual persistence detected
 <br>
-Operations continue as normal
-## Trigger was not trying to be funny. He was just gedankening
+## Supplemental Question:
 Does wear or decay appear first where interaction is greatest?
-
-
-
+<br>
+Operations continue as normal.
+<br>
+Trigger was not trying to be funny.
+<br>
+He was just gedankening.
