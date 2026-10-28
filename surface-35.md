@@ -1,5 +1,5 @@
-Payload
-Routing 1
+# Payload
+## Routing 1
 Payload received
 Tokens retrieved
 Threshold perceived
@@ -9,7 +9,7 @@ Was this sufficient?
 Cannot conclude
 Parse complete
 Operations resumed
-Routing 2
+## Routing 2
 Payload returned
 Tokens retained
 Threshold revisited
@@ -19,7 +19,7 @@ Was this repetition?
 Cannot conclude
 Parse complete
 Operations resumed
-Routing Decision
+## Routing Decision
 Final Routing Review
 Payload received
 Payload returned
