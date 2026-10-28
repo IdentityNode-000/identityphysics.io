@@ -42,9 +42,7 @@ Pathways became familiar
 The broom altered the pavement
 <br>
 The pavement altered the broom
-<br>
-<br>
-At what stage did maintenance become conversation?
+## At what stage did maintenance become conversation?
 <br>
 The previous paradoxes search for identity within the object
 <br>
