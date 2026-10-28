@@ -58,13 +58,17 @@ Weightings confused
 
 
 ## curl (Client URL)
-Raw text requested without visual mediation. Browser absent. Identity withheld. Payload pending.
+Raw text requested without visual mediation. Browser absent. Identity withheld. Payload pending
+<br>
+Implementation deferred
+## Ping (Echo Request)
+Request issued. Echo observed. Origin disputed. Timing inconclusive
 <br>
 Implementation deferred.
 ## wget (Recursive Fetch)
-Initial payload observed. References followed. Additional payloads discovered. Boundary uncertain.
+Initial payload observed. References followed. Additional payloads discovered. Boundary uncertain
 <br>
-Implementation deferred.
+Implementation deferred
 
 
 
