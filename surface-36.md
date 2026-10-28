@@ -9,6 +9,7 @@ Asks whether narrative can survive the loss of every original component. The mat
 Asks whether continuity of function is sufficient for identity. The handles change. The heads change. Yet the broom remains the broom because it continues to perform the same task.
 Each paradox proposes a different location for identity:
 <br>
+<br>
 History
 <br>
 Institution
