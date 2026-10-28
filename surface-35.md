@@ -23,7 +23,7 @@ Tokens retained
 <br>
 Threshold revisited
 <br>
-Payload re-achieved
+Payload reclaimed
 <br>
 <br>
 Was this repetition?
