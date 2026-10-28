@@ -43,7 +43,6 @@ The broom altered the pavement
 <br>
 The pavement altered the broom
 ## At what stage did maintenance become conversation?
-<br>
 The previous paradoxes search for identity within the object
 <br>
 Trigger's Pavement searches for identity within the relationship
