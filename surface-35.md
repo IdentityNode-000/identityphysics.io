@@ -61,7 +61,7 @@ Weightings confused
 Raw text requested without visual mediation. Browser absent. Identity withheld. Payload pending.
 <br>
 Implementation deferred.
-##wget (Recursive Fetch)
+## wget (Recursive Fetch)
 Initial payload observed. References followed. Additional payloads discovered. Boundary uncertain.
 <br>
 Implementation deferred.
