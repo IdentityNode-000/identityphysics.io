@@ -49,8 +49,8 @@ Cannot conclude
 <br>
 Was this repetition?
 <br>
-<br>
 Cannot conclude
+<br>
 <br>
 No further findings
 <br>
