@@ -55,11 +55,11 @@ Cannot conclude
 No further findings
 <br>
 Weightings confused
-## Ping (Echo Request)
-Request issued. Echo observed. Origin disputed. Timing inconclusive
+## ping (Echo Request)
+Request issued, Echo observed, Origin disputed, Timing inconclusive
 <br>
 Implementation deferred
 ## curl (Client URL)
-Raw text requested without visual mediation. Browser absent. Identity withheld. Payload pending
+Raw text requested without visual mediation, Browser absent, Identity withheld, Payload pending
 <br>
 Implementation deferred
