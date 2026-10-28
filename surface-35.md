@@ -40,7 +40,7 @@ Payload received
 <br>
 Payload returned
 <br>
-Observations almost unchanged
+Observations quasistatic
 <br>
 <br>
 Was this sufficient?
