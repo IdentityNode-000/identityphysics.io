@@ -82,5 +82,7 @@ Mutual persistence detected
 <br>
 Operations continue as normal
 ## Trigger was not trying to be funny. He was just gedankening
+Does wear or decay appear first where interaction is greatest?
+
 
 
