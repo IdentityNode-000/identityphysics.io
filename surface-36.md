@@ -80,5 +80,10 @@ The pavement remains
 Neither remains unchanged
 <br>
 Identity location: Undetermined
-Mutual persistence detected.
-Operations continue as normal.
+<br>
+Mutual persistence detected
+<br>
+Operations continue as normal
+## Trigger was not trying to be funny. He was just gedankening.
+
+
