@@ -52,7 +52,6 @@ Was this repetition?
 <br>
 Cannot conclude
 <br>
-<br>
 No further findings
 <br>
 Weightings confused
