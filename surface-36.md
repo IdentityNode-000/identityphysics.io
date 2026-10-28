@@ -8,42 +8,76 @@ Asks whether narrative can survive the loss of every original component. The mat
 ## Trigger's Broom
 Asks whether continuity of function is sufficient for identity. The handles change. The heads change. Yet the broom remains the broom because it continues to perform the same task.
 Each paradox proposes a different location for identity:
-
-•	History
-•	Institution
-•	Narrative
-•	Function
+<br>
+History
+<br>
+Institution
+<br>
+Narrative
+<br>
+Function
+<br>
+<br>
 A supplemental question has however been recorded.
 ## Question: Would the pavement remember the broom?
-The broom was replaced.
-The handle was replaced.
-The head was replaced.
-The pavement was not.
-For thirty years the broom followed the same route.
-Particles transferred.
-Surfaces changed.
-Edges wore down.
-Pathways became familiar.
-The broom altered the pavement.
-The pavement altered the broom.
+The broom was replaced
+<br>
+The handle was replaced
+<br>
+The head was replaced
+<br>
+The pavement was not
+<br>
+For thirty years the broom followed the same route
+<br>
+Particles transferred
+<br>
+Surfaces changed
+<br>
+Edges wore down
+<br>
+Pathways became familiar
+<br>
+The broom altered the pavement
+<br>
+The pavement altered the broom
+<br>
+<br>
 At what stage did maintenance become conversation?
-The previous paradoxes search for identity within the object.
-Trigger's Pavement searches for identity within the relationship.
-The traditional paradox treats identity as a property contained within a thing.
-The alternative position is that identity may emerge from repeated interaction between things.
+<br>
+The previous paradoxes search for identity within the object
+<br>
+Trigger's Pavement searches for identity within the relationship
+<br>
+The traditional paradox treats identity as a property contained within a thing
+<br>
+The alternative position is that identity may emerge from repeated interaction between things
 ## Under this model:
-•	An object is not merely what it is.
-•	An object is what it repeatedly does.
-•	An object is what repeatedly happens to it.
-•	An object is the trace it leaves on its environment.
-The Ship remembers its voyages.
-Victory remembers its commission.
-The Axe remembers its story.
-The Broom remembers its function.
-The Pavement remembers them all.
-The broom remains.
-The pavement remains.
-Neither remains unchanged.
-Identity location: Undetermined.
+An object is not merely what it is
+<br>
+An object is what it repeatedly does
+<br>
+An object is what repeatedly happens to it
+<br>
+An object is the trace it leaves on its environment
+<br>
+<br>
+The Ship remembers its voyages
+<br>
+Victory remembers its commission
+<br>
+The Axe remembers its story
+<br>
+The Broom remembers its function
+<br>
+The Pavement remembers them all
+<br>
+The broom remains
+<br>
+The pavement remains
+<br>
+Neither remains unchanged
+<br>
+Identity location: Undetermined
 Mutual persistence detected.
 Operations continue as normal.
