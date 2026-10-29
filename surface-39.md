@@ -1,5 +1,5 @@
 # Gedankenexperiment: The Point
-# # Foundational Observation
+## Foundational Observation
 A point appears empty
 <br>
 Investigation suggests otherwise
