@@ -1,7 +1,7 @@
 gedankenexperiments: Trigger's Pavement II
 The previous question asked whether the pavement remembered the broom.
 A further question has since emerged.
-
+<br>
 How many times must two things interact before the interaction itself becomes a thing?
 The first sweep leaves a mark.
 The second confirms a direction.
