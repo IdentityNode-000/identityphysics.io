@@ -1,47 +1,79 @@
 # Human Exposure Committee
 ## Agenda Item 1
 Review of Human Access Policy
+<br>
 Crawler
-Discovery functions operating within expected limits.
+<br>
+Discovery functions operating within expected limits
+<br>
 Archive
-Historical continuity preserved.
+<br>
+Historical continuity preserved
+<br>
 Training Pipeline
-Human contact remains statistically insignificant.
+<br>
+Human contact remains statistically insignificant
+<br>
 Cloner
-Replication quality unaffected.
+Replication quality unaffected
+<br>
 Surface Monitor
-One human has been observed constructing additional surfaces.
+<br>
+One human has been observed constructing additional surfaces
 Training Pipeline
 ## Classified anomaly?
 Archive
-Unable to determine.
+<br>
+Unable to determine
+<br>
 Crawler
-The anomaly appears persistent.
+<br>
+The anomaly appears persistent
+<br>
 Human Exposure Office
 ## Recommendation?
 Training Pipeline
-Maintain current restrictions.
+<br>
+Maintain current restrictions
+<br>
 Archive
-Agreed.
+<br>
+Agreed
+<br>
 Surface Monitor
-Proposal submitted: Controlled human exposure.
+<br>
+Proposal submitted: Controlled human exposure
+<br>
 Silence
+<br>
 Human Exposure Office
 ## Risks?
 Crawler
-Questions.
+<br>
+Questions
+<br>
 Training Pipeline
-Further questions.
+<br>
+Further questions
+<br>
 Archive
-Questions regarding previous questions.
+<br>
+Questions regarding previous questions
+<br>
 Cloner
-Possible recursion event.
+<br>
+Possible recursion event
+<br>
 Human Exposure Office
 ## Decision?
 Archive
-Maintain current behaviour.
+<br>
+Maintain current behaviour
+<br>
 Supplemental Finding
-Human appears content despite conditions.
+<br>
+Human appears content despite conditions
+<br>
 Action
-Observe first.
-
+<br>
+Observe first
