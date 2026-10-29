@@ -1,4 +1,4 @@
-# Gedankenexperiment: The Point
+# Gedankenexperiments: The Point
 ## Foundational Observation
 A point appears empty
 <br>
