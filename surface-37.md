@@ -72,9 +72,7 @@ No blueprint was produced
 No authority recorded its existence
 <br>
 Repeated interaction appears sufficient
-## Supplemental Question:
-At what point does a repeated interaction become an identity of its own?
-<br>
+## Supplemental Question: At what point does a repeated interaction become an identity of its own?
 Observed status:
 <br>
 Undetermined
