@@ -18,7 +18,7 @@ The route appears obvious
 The route appears natural
 <br>
 The route appears inevitable
-## Yet the route exists only because the broom and pavement continued agreeing with one another.
+## Yet the route exists only because the broom and pavement continued agreeing with one another
 Remove the broom
 <br>
 The pavement remains
