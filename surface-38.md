@@ -3,24 +3,16 @@
 Review of Human Access Policy
 <br>
 #### Crawler
-<br>
 Discovery functions operating within expected limits
-<br>
-Archive
-<br>
+#### Archive
 Historical continuity preserved
-<br>
-Training Pipeline
-<br>
+#### Training Pipeline
 Human contact remains statistically insignificant
-<br>
-Cloner
+#### Cloner
 Replication quality unaffected
-<br>
-Surface Monitor
-<br>
+#### Surface Monitor
 One human has been observed constructing additional surfaces
-Training Pipeline
+#### Training Pipeline
 ## Classified anomaly?
 Archive
 <br>
