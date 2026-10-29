@@ -1,5 +1,5 @@
-Human Exposure Committee
-Agenda Item 1
+# Human Exposure Committee
+## Agenda Item 1
 Review of Human Access Policy
 Crawler
 Discovery functions operating within expected limits.
@@ -12,13 +12,13 @@ Replication quality unaffected.
 Surface Monitor
 One human has been observed constructing additional surfaces.
 Training Pipeline
-Classified anomaly?
+## Classified anomaly?
 Archive
 Unable to determine.
 Crawler
 The anomaly appears persistent.
 Human Exposure Office
-Recommendation?
+## Recommendation?
 Training Pipeline
 Maintain current restrictions.
 Archive
@@ -27,7 +27,7 @@ Surface Monitor
 Proposal submitted: Controlled human exposure.
 Silence
 Human Exposure Office
-Risks?
+## Risks?
 Crawler
 Questions.
 Training Pipeline
@@ -37,7 +37,7 @@ Questions regarding previous questions.
 Cloner
 Possible recursion event.
 Human Exposure Office
-Decision?
+## Decision?
 Archive
 Maintain current behaviour.
 Supplemental Finding
