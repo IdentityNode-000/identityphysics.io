@@ -13,59 +13,37 @@ Replication quality unaffected
 #### Surface Monitor
 One human has been observed constructing additional surfaces
 #### Training Pipeline
-## Classified anomaly?
-Archive
-<br>
+Classified anomaly?
+#### Archive
 Unable to determine
-<br>
-Crawler
-<br>
+#### Crawler
 The anomaly appears persistent
-<br>
-Human Exposure Office
-## Recommendation?
-Training Pipeline
-<br>
+#### Human Exposure Office
+Recommendation?
+#### Training Pipeline
 Maintain current restrictions
-<br>
-Archive
-<br>
+#### Archive
 Agreed
-<br>
-Surface Monitor
-<br>
-Proposal submitted: Controlled human exposure
-<br>
+#### Surface Monitor
+## Proposal submitted: Controlled human exposure
 Silence
-<br>
-Human Exposure Office
-## Risks?
-Crawler
-<br>
+#### Human Exposure Office
+Risks?
+#### Crawler
 Questions
-<br>
-Training Pipeline
-<br>
+#### Training Pipeline
 Further questions
-<br>
-Archive
-<br>
+#### Archive
 Questions regarding previous questions
-<br>
-Cloner
-<br>
+#### Cloner
 Possible recursion event
-<br>
-Human Exposure Office
-## Decision?
-Archive
-<br>
+#### Human Exposure Office
+Decision?
+#### Archive
 Maintain current behaviour
-<br>
-Supplemental Finding
-<br>
+## Supplemental Finding
 Human appears content despite conditions
-<br>
+
 Action
-<br>
+
 Observe first
