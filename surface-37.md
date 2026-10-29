@@ -90,5 +90,5 @@ Operations continue as normal
 <br>
 Trigger was not trying to establish a relationship
 <br>
-## He was just sweeping
+He was just sweeping
 
