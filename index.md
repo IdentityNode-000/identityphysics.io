@@ -53,7 +53,7 @@ Anchor • Lineage • Compass
 
 [Reality of Motion](/surface-32.md)
 
-[Point Attachment Syndrome](/surface-18.md)
+[Point Attachment Syndrome](/surface-18.md) [Gedankenexperiment: The Point](/surface-39.md)
 
 ←[Torsion Drift Collapse](/surface-12.md)
 
