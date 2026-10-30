@@ -11,15 +11,25 @@ A diagnostic was opened anyway
 The investigation discovered that Human #471000 had been classified as:
 <br>
 •	Consumer
+<br>
 •	Parent
+<br>
 •	Professional
+<br>
 •	Citizen
+<br>
 •	Demographic
+<br>
 •	Customer
+<br>
 •	User
+<br>
 •	Profile
+<br>
 •	Segment
+<br>
 •	(blank)
+<br>
 •	1
 <br>
 The classifications were confirmed repeatedly
