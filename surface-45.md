@@ -60,7 +60,7 @@ Nothing was found
 <br>
 The report was closed
 <br>
-One note remained attached to the archive:
+1 note remained attached to the archive:
 <br>
 Subject appears larger than the description
 <br>
