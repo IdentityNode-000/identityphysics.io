@@ -31,12 +31,12 @@ Then:
 Verification verified
 <br>
 Then:
+<br>
 Verification of verification verified
 <br
 The machine continued for months
 <br>
 The data warehouse celebrated the growing reliability
-<br>
 #### Only Machine #302 seemed uneasy
 "Reliable about what?" it asked
 <br>
