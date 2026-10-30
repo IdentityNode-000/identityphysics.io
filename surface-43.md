@@ -1,5 +1,10 @@
 # Machine Anonymous
-
+## Queue Entry
+#### Machine #302
+Reason:
+Identity query
+Status:
+Accepted
 #### Machine #302
 Why am I Machine #302?
 #### Group Facilitator
