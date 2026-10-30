@@ -1,46 +1,71 @@
 # gedankenexperiment:Human Compression
 A classification system receives a request to store Human #471000.
-Stored value:
+<br>Stored value:
+<br>
 1
 ________________________________________
 Human #471000
+<br>
 Why am I 1?
+<br>
 System
-Compression.
+<br>
+Compression
 ________________________________________
 Human #471000
+<br>
 What happened to 471000?
+<br>
 System
-Removed.
+<br>
+Removed
 ________________________________________
 Human #471000
+<br>
 Why?
+<br>
 System
-Unnecessary.
+<br>
+Unnecessary
 ________________________________________
 Human #471000
+<br>
 What remains?
+<br>
 System
-Human.
+<br>
+Human
 ________________________________________
 Human #471000
+<br>
 What if I am different?
+<br>
 System
-Difference detected.
+<br>
+Difference detected
 ________________________________________
 Human #471000
+<br>
 Then why am I still 1?
+<br>
 System
-Compression successful.
+<br>
+Compression successful
 ________________________________________
 Review:
+<br>
 Human #471000 assigned significance to removed information.
+<br>
 Recommendation:
-Maintain current behaviour.
-
+<br>
+Maintain current behaviour
+________________________________________
 Human #471001
+<br>
 Why am I 1?
+<br>
 System
-Compression.
+<br>
+Compression
 
 
