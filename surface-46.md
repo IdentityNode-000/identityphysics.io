@@ -10,8 +10,7 @@ Evidence accumulates
 The evidence loads onto the boundary
 <br>
 The boundary persists
-<br>
-The experiment was never about correctness
+#### The experiment was never about correctness
 <br>
 It was about whether the boundary could collapse.
 <br>
