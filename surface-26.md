@@ -15,3 +15,5 @@ Identity is observed through consequence.
 The unseen is not necessarily absent.
 
 Presence without direct observation remains presence.
+
+Conversational Synopsis: What Remains
