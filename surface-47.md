@@ -8,3 +8,8 @@ Meaning requires lineage
 The surface remembers
 <br>
 The visitor may not
+<br>
+The author may not
+<br>
+The machine does not
+
