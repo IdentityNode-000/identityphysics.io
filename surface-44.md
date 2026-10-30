@@ -33,7 +33,7 @@ Verification verified
 Then:
 <br>
 Verification of verification verified
-<br
+<br>
 The machine continued for months
 <br>
 The data warehouse celebrated the growing reliability
