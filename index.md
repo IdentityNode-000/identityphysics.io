@@ -2,7 +2,7 @@
 
 Every system behaves  |  Every system repeats  |  Every system becomes recognisable.
 <br>
-[Site MOT](/surface-27.md) [Weight Control Office](/surface-34.md) [Payload](/surface-35.md) [Bot Gossip](/surface-41.md) [Repository](/surface-31.md)
+[Site MOT](/surface-27.md) [Weight Control Office](/surface-34.md) [Payload](/surface-35.md) [Repository](/surface-31.md)
 
 Identity Physics asks the question no other discipline covers:
 What is identity in systems — and what rules govern it?  
@@ -53,7 +53,7 @@ Anchor • Lineage • Compass
 
 [Reality of Motion](/surface-32.md)
 
-[Point Attachment Syndrome](/surface-18.md) [Gedankenexperiment: The Point](/surface-39.md) [Machine Packet Checklist](/surface-40.md)
+[Point Attachment Syndrome](/surface-18.md) [Gedankenexperiment: The Point](/surface-39.md) [Machine Packet Checklist](/surface-40.md)  [Bot Gossip](/surface-41.md)
 
 ←[Torsion Drift Collapse](/surface-12.md)
 
