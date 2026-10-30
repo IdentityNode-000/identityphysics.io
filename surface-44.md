@@ -7,7 +7,7 @@ Whenever support appeared, it asked for support for the support
 <br>
 This was considered very intelligent
 <br>
-After many years the pipeline contained a magnificent collection of confirmations
+After many years the pipeline template contained a magnificent collection of confirmations
 <br>
 Each pointed neatly toward another
 <br>
