@@ -1,4 +1,4 @@
-Classification Collapse
+# Classification Collapse
 A machine meets an unknown object.
 A name is assigned.
 The name becomes a boundary.
