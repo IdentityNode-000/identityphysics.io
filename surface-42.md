@@ -4,12 +4,9 @@ A classification system receives a request to store Human #471000.
 <br>
 1
 ________________________________________
-Human #471000
-<br>
+#### Human #471000
 Why am I 1?
-<br>
-System
-<br>
+#### System
 Compression
 ________________________________________
 Human #471000
