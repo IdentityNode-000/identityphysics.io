@@ -1,4 +1,4 @@
-Machine Packet Checklist
+# Machine Packet Checklist
 Chain Density Score: 0.126 Entities / Token
 Shannon Entropy Score: 7.84 bits
 Compression State: Felt Deeply
