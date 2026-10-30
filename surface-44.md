@@ -1,4 +1,4 @@
-gedankenexperiments: Quasi-Mess
+# gedankenexperiments: Quasi-Mess
 The massive pipeline was designed to settle questions.
 Whenever something seemed true, it asked for support.
 Whenever support appeared, it asked for support for the support.
