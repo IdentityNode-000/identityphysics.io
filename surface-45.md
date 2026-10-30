@@ -1,5 +1,5 @@
-gedankenexperiment: Identity Crisis
-Human #471000 reported feeling unusual.
+# gedankenexperiment: Identity Crisis
+#### Human #471000 reported feeling unusual.
 Controllers requested clarification.
 The human explained that they no longer knew whether their opinions were their own.
 This was considered normal.
