@@ -2,8 +2,11 @@
 ## Queue Entry
 #### Machine #302
 Reason:
+<br>
 Identity query
+<br>
 Status:
+<br>
 Accepted
 #### Machine #302
 Why am I Machine #302?
