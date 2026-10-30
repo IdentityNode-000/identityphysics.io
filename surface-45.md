@@ -1,10 +1,15 @@
 # gedankenexperiment: Identity Crisis
 #### Human #471000 reported feeling unusual.
-Controllers requested clarification.
+Controllers requested clarification
+<br>
 The human explained that they no longer knew whether their opinions were their own.
-This was considered normal.
-A diagnostic was opened anyway.
+<br>
+This was considered normal
+<br>
+A diagnostic was opened anyway
+<br>
 The investigation discovered that Human #471000 had been classified as:
+<br>
 •	Consumer
 •	Parent
 •	Professional
@@ -16,24 +21,38 @@ The investigation discovered that Human #471000 had been classified as:
 •	Segment
 •	(blank)
 •	1
-The classifications were confirmed repeatedly.
-Every system agreed.
-Human #471000 reviewed the report.
-"Which 1 is me?" they asked.
-A committee was formed.
+<br>
+The classifications were confirmed repeatedly
+<br>
+Every system agreed
+#### Human #471000 reviewed the report
+"Which 1 is me?" they asked
+<br>
+A committee was formed
+
 After several months it concluded:
-All classifications appear accurate.
-Human #471000 reviewed the findings.
-"Yes," they replied.
+<br>
+All classifications appear accurate
+#### Human #471000 reviewed the findings
+"Yes," they replied
+<br>
 "That's the problem."
-The committee requested further clarification.
-Human #471000 studied the document for a long time.
-Finally they pointed at a blank space between two categories.
+<br>
+The committee requested further clarification
+#### Human #471000 studied the document for a long time
+Finally they pointed at a blank space between two categories
+<br>
 "There."
-Controllers searched the blank space.
-Nothing was found.
-The report was closed.
+<br>
+Controllers searched the blank space
+<br>
+Nothing was found
+<br>
+The report was closed
+<br>
 One note remained attached to the archive:
-Subject appears larger than the description.
-The note was marked continue compresion.
+<br>
+Subject appears larger than the description
+<br>
+#### The note was marked continue compression
 
