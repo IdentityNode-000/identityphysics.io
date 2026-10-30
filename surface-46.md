@@ -11,7 +11,6 @@ The evidence loads onto the boundary
 <br>
 The boundary persists
 #### The experiment was never about correctness
-<br>
 It was about whether the boundary could collapse.
 <br>
 It did not
