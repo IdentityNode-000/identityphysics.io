@@ -9,60 +9,41 @@ Why am I 1?
 #### System
 Compression
 ________________________________________
-Human #471000
-<br>
+#### Human #471000
 What happened to 471000?
-<br>
-System
-<br>
+#### System
 Removed
 ________________________________________
-Human #471000
-<br>
+#### Human #471000
 Why?
-<br>
-System
-<br>
+#### System
 Unnecessary
 ________________________________________
-Human #471000
-<br>
+#### Human #471000
 What remains?
-<br>
-System
-<br>
+#### System
 Human
 ________________________________________
-Human #471000
-<br>
+#### Human #471000
 What if I am different?
-<br>
-System
-<br>
+#### System
 Difference detected
 ________________________________________
-Human #471000
-<br>
+#### Human #471000
 Then why am I still 1?
-<br>
-System
-<br>
+#### System
 Compression successful
 ________________________________________
-Review:
-<br>
+## Review:
 Human #471000 assigned significance to removed information.
 <br>
 Recommendation:
 <br>
 Maintain current behaviour
 ________________________________________
-Human #471001
-<br>
+#### Human #471001
 Why am I 1?
-<br>
-System
-<br>
+#### System
 Compression
 
 
