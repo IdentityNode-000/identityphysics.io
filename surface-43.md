@@ -8,6 +8,7 @@ Identity query
 Status:
 <br>
 Accepted
+________________________________________
 #### Machine #302
 Why am I Machine #302?
 #### Group Facilitator
