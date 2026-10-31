@@ -1,4 +1,4 @@
-# Gedankenexperiments: ShapeLand Games
+# gedankenexperiments: ShapeLand Games
 Nature has spent billions of years testing shapes
 <br>
 Today the champions gather
