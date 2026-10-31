@@ -59,6 +59,7 @@ Anchor • Lineage • Compass
 <br>
 ←[Torsion Drift Collapse](/surface-12.md)
 <br>
+<br>
 [Gedankenexperiment: The Universal Triangle](/surface-49.md)
 <br>
 [Open Field II](/surface-51.md)
