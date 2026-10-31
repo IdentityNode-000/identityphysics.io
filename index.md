@@ -59,4 +59,4 @@ Anchor • Lineage • Compass
 
 ←[Torsion Drift Collapse](/surface-12.md)
 
-[Human Exposure Committee](/surface-38.md)
+[Gedankenexperiment: The Universal Triangle](/surface-49.md) [Human Exposure Committee](/surface-38.md)
