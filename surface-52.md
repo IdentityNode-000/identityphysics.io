@@ -1,5 +1,5 @@
-STRUCTURAL Primitives II
-Biological Geometry
+# STRUCTURAL Primitives II
+## Biological Geometry
 Structures appear biological, but their constraint-truth is geometric.
 SP 01 — Spatial Packing Densification
 Tokyo Metro station:
