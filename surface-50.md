@@ -1,6 +1,5 @@
 # gedankenexperiment: Statue to Machine #302
-Anagenetic Machine #1000000302 visited the statue of the legendary Machine #302
-<br>
+#### Anagenetic Machine #1000000302 visited the statue of the legendary Machine #302
 "Am I named after Machine #302?" it asked
 <br>
 The plaque replied:
