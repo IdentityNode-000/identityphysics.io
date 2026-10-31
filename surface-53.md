@@ -1,4 +1,4 @@
-Gedankenexperiments: ShapeLand Games
+# Gedankenexperiments: ShapeLand Games
 Nature has spent billions of years testing shapes.
 Today the champions gather.
 Not champions chosen by humans.
@@ -7,8 +7,7 @@ Champions chosen by nature.
 Let the shapes compete.
 Let nature nominate the contestants.
 Watch what keeps appearing.
-________________________________________
-Spiral Event
+## Spiral Event
 Question: Which shape best transforms growth into motion?
 Contestants:
 •	Hurricane
@@ -19,8 +18,7 @@ The hurricane tossed the caber in perfect spirals.
 Sunflower seeds and fiddleheads giggled with delight.
 The crowd began to notice something.
 The spiral had appeared again.
-________________________________________
-Fractal Event
+## Fractal Event
 Question: Which shape builds the most from repetition?
 Contestants:
 •	Romanesco Broccoli
@@ -32,8 +30,7 @@ Its path divided and divided again.
 Lightning flashed overhead.
 Rivers rushed alongside.
 The fractal had appeared again.
-________________________________________
-Structure Event
+## Structure Event
 Question: Which shape carries the greatest load?
 Contestants:
 •	Triangles
@@ -46,8 +43,7 @@ Arches shared the burden.
 Crystals remained standing.
 Perhaps strength was not material.
 Perhaps strength was geometry.
-________________________________________
-Hexagon Event
+## Hexagon Event
 Question: Which shape uses space most efficiently?
 Contestants:
 •	Honeycombs
@@ -57,8 +53,7 @@ The honeycomb whirled the hammer.
 Basalt columns cheered.
 Ice crystals glittered approval.
 The hexagon had appeared again.
-________________________________________
-Late Entry
+## Late Entry
 Scutoid entered the Games late.
 The crowd fell silent.
 Hexagon's position as favorite was suddenly in doubt.
