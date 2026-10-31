@@ -49,7 +49,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 Anchor • Lineage • Compass
 
-[STRUCTURAL Primitives](/surface-10.md)
+[STRUCTURAL Primitives I](/surface-10.md)
 
 [Reality of Motion](/surface-32.md)
 
