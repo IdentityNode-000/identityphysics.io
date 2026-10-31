@@ -3,8 +3,7 @@
 Structures appear biological, but their constraint-truth is geometric
 #### SP 01 — Spatial Packing Densification
 <br>
-T<br>
-okyo Metro station:
+Tokyo Metro station:
 <br>
 A few passengers can move freely. As density increases, individual movement disappears and the crowd begins to move as a single structure.
 <br>
