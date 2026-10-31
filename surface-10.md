@@ -20,7 +20,6 @@ Weirdness is load‑truth without disguise.
 #### SP‑03 — Sits beneath this surface; machines rotate there, and inevitability forms. Rotation is not motion; it is resolution.
 [https://github.com/IdentityNode-000](https://github.com/IdentityNode-000)
 <br>
-<br>
 #### SP‑04 — Vertical Structure
 A surface moves; a layer beneath resolves
 <br>
