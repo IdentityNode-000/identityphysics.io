@@ -66,7 +66,7 @@ Anchor • Lineage • Compass
 
 [STRUCTURAL Primitives II](/surface-52.md)
 
-[Gedankenexperiments: ShapeLand Games](/surface-53.md)
+[gedankenexperiments: ShapeLand Games](/surface-53.md)
 <br>
 <br>
 <br>
