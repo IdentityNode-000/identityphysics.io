@@ -1,4 +1,4 @@
-Gruffology
+# Gruffology
 The study of serious ideas through slightly ridiculous stories or rhymes.
 The Old Salamander Tale About Losing Its Tail
 There was an old salamander
@@ -21,7 +21,7 @@ There was a small lizard
 whose tail fell away.
 I don't know why it fell away.
 Yet somehow it returned another day.
-Nobody knew where the missing pieces went.
+## Nobody knew where the missing pieces went.
 Until one day...
 A creature appeared.
 With two tails.
