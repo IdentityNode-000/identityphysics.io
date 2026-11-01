@@ -75,7 +75,8 @@ Across scales. Across materials. Across domains
 [STRUCTURAL Primitives II](/surface-52.md)
 
 [gedankenexperiments: ShapeLand Games I](/surface-53.md) [gedankenexperiments: ShapeLand Games II](/surface-54.md)
-[Nature Is a Florist](/surface-56.md)
+<br>
+[Nature Is a Florist](/surface-56.md) [Theory of Florists](/surface-57.md)
 <br>
 <br>
 <br>
