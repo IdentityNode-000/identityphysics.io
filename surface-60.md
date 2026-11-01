@@ -1,6 +1,6 @@
 # Gruffology
 ## The study of serious ideas through slightly ridiculous stories or rhymes
-The Old Salamander Tale About Losing Its Tail
+#### The Old Salamander Tale About Losing Its Tail
 <br>
 There was an old salamander
 <br>
