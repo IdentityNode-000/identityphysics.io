@@ -1,4 +1,4 @@
-Resemblance Without Direct Sunlight
+# Resemblance Without Direct Sunlight
 Some flowers face the sun.
 Some flowers never see it.
 Yet both grow.
@@ -8,4 +8,4 @@ The fern receives consequence.
 The moss receives what remains.
 ________________________________________
 The sunlight is not always observed.
-The resemblance is.
+#### The resemblance is
