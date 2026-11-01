@@ -60,7 +60,13 @@ Anchor • Lineage • Compass
 <br>
 ←[Torsion Drift Collapse](/surface-12.md)
 <br>
-## Layer II: Structures keep reappearing. 
+## Layer II: Structures keep reappearing
+Different entities. Familiar forms.
+
+Nature repeatedly solves different problems. Similar structures repeatedly emerge
+
+Across scales. Across materials. Across domains
+
 [Gedankenexperiment: The Universal Triangle](/surface-49.md)
 <br>
 [Open Field II](/surface-51.md)
