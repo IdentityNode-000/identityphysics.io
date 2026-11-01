@@ -80,6 +80,5 @@ Observe and see,
 <br>
 <br>
 Nature may not choose a winner,
-<br>
-#### Nature may simply let be.
+#### Nature may simply let be
 
