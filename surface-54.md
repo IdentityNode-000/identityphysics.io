@@ -1,4 +1,4 @@
-Gedankenexperiments: ShapeLand Games II
+# gedankenexperiments: ShapeLand Games II
 The stadium was no longer a field.
 It was the vacuum of space itself, bounded by the cosmic horizon.
 Every organism attended.
@@ -23,7 +23,7 @@ The cosmic horizon dimmed.
 The crowd settled.
 The Hunger for the Games began.
 ________________________________________
-Marathon Event
+## Marathon Event
 Question: Which design creates the most surface from the least space?
 Contestants:
 •	Lungs
@@ -37,7 +37,7 @@ The trees remained standing.
 Hours later the trees were still collecting.
 The branching pattern had appeared again.
 ________________________________________
-Swimming Event
+## Swimming Event
 Question: Which form moves best through a fluid?
 Contestants:
 •	Tuna
@@ -53,7 +53,7 @@ The current transported everyone.
 Driftwood accepted assistance.
 The fluid had appeared again.
 ________________________________________
-Javelin Event
+## Javelin Event
 Question: Which form reaches furthest with the least material?
 Contestants:
 •	Thorns
@@ -66,7 +66,7 @@ Some carried food.
 Some carried forests.
 The point had appeared again.
 ________________________________________
-High Jump Event
+## High Jump Event
 Question: Which structure rises highest without collapse?
 Contestants:
 •	Trees
@@ -81,7 +81,7 @@ Few broke.
 Perhaps height was not strength.
 Perhaps strength was flexibility.
 ________________________________________
-Relay Event
+## Relay Event
 Question: Which network transfers information most effectively?
 Contestants:
 •	Neurons
@@ -95,7 +95,7 @@ Instructions travelled.
 Nobody could find the baton.
 The network had appeared again.
 ________________________________________
-Hammer Throw Event
+## Hammer Throw Event
 Question: Which form best transforms rotation into motion?
 Contestants:
 •	Hurricanes
@@ -108,7 +108,7 @@ The galaxy remained composed.
 The sunflower seeds looked familiar.
 The spiral had appeared again.
 ________________________________________
-Pole Vault Event
+## Pole Vault Event
 Question: Which structure stores the most energy before release?
 Contestants:
 •	Tendons
@@ -122,13 +122,13 @@ The crowd became nervous.
 Nobody snapped.
 Elasticity had appeared again.
 ________________________________________
-Late Entry
+## Late Entry
 Jellyfish entered the Games late.
 The crowd fell silent.
 Nobody could agree which event it belonged in.
 Nature submitted no explanation.
 ________________________________________
-Unofficial ShapeLand Law II
+## Unofficial ShapeLand Law II
 Whenever the Games appear complete,
 nature discovers another way to play.
 
