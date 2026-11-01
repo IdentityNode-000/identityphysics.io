@@ -31,4 +31,5 @@ Not from memory
 Not from instruction
 ## From lineage
 Build back identical
+<br>
 Perhaps identity recovery is nature's compensation payout scheme for structural loss
