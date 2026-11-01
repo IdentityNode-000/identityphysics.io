@@ -5,20 +5,17 @@ Equifinality argued for it
 <br>
 Catastrophe theory waited patiently in the background
 <br>
-<br>
 A salamander loses its tail
 <br>
 An axolotl regrows a limb without a scar
 <br>
 A starfish returns an arm to the sea and grows another
 <br>
-<br>
 Failure appears
 <br>
 Noise enters
 <br>
 Identity remains
-<br>
 <br>
 The trigger is not the success
 <br>
