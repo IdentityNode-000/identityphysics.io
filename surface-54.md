@@ -30,7 +30,6 @@ Others claimed it borrowed its fire from the first star
 More recently there had been rumours of a volcanic origin
 <br>
 Torch knew the truth
-<br>
 #### Torch would never lit and tell
 The cosmic horizon dimmed.
 <br>
@@ -40,6 +39,7 @@ Hunger before the Games began
 ## Marathon Event
 #### Question: Which design creates the most surface from the least space?
 Contestants:
+<br>
 •	Lungs
 <br>
 •	Fish Gills
