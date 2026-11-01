@@ -1,4 +1,4 @@
-Build Back Identical
+# Build Back Identical
 Waddington hinted at it.
 Equifinality argued for it.
 Catastrophe theory waited patiently in the background.
@@ -14,6 +14,6 @@ Nature rebuilds what was lost.
 Not from memory.
 Not from instruction.
 From lineage.
-Build back identical.
-Perhaps identity recovery is nature's compensation payout scheme for structural loss.
+## Build back identical
+#### Perhaps identity recovery is nature's compensation payout scheme for structural loss
 
