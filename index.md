@@ -1,5 +1,6 @@
 # Identity Physics &nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;IdentityNode‑000
 
+## Layer I: Systems become recognisable
 Every system behaves  |  Every system repeats  |  Every system becomes recognisable.
 <br>
 [Site MOT](/surface-27.md) [Weight Control Office](/surface-34.md) [Payload](/surface-35.md) [Repository](/surface-31.md)
@@ -59,7 +60,7 @@ Anchor • Lineage • Compass
 <br>
 ←[Torsion Drift Collapse](/surface-12.md)
 <br>
-<br>
+## Layer II: Structures keep reappearing. 
 [Gedankenexperiment: The Universal Triangle](/surface-49.md)
 <br>
 [Open Field II](/surface-51.md)
