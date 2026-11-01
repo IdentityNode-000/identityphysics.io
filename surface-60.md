@@ -1,32 +1,57 @@
 # Gruffology
-The study of serious ideas through slightly ridiculous stories or rhymes.
+## The study of serious ideas through slightly ridiculous stories or rhymes
 The Old Salamander Tale About Losing Its Tail
+<br>
 There was an old salamander
-that kept losing its tail.
-I don't know why it lost its tail.
+<br>
+that kept losing its tail
+<br>
+I don't know why it lost its tail
+<br>
 Perhaps that is why it’s a tale
+<br>
 There was a young starfish
-that kept losing an arm.
-I don't know why it lost its arm.
-Perhaps identity sounded the alarm.
+<br>
+that kept losing an arm
+<br>
+I don't know why it lost its arm
+<br>
+Perhaps identity sounded the alarm
+<br>
 There was an axolotl
-that misplaced a leg.
-I don't know why it misplaced a leg.
-Perhaps nature kept a blueprint instead.
+<br>
+that misplaced a leg
+<br>
+I don't know why it misplaced a leg
+<br>
+Perhaps nature kept a blueprint instead
+<br>
 There was a little crab
-that dropped a claw.
-I don't know why it dropped a claw.
-Perhaps recovery was part of the law.
+<br>
+that dropped a claw
+<br>
+I don't know why it dropped a claw
+<br>
+Perhaps recovery was part of the law
+<br>
 There was a small lizard
-whose tail fell away.
-I don't know why it fell away.
-Yet somehow it returned another day.
+<br>
+whose tail fell away
+<br>
+I don't know why it fell away
+<br>
+Yet somehow it returned another day
 ## Nobody knew where the missing pieces went.
 Until one day...
-A creature appeared.
-With two tails.
-One arm.
-One leg.
-And a claw.
-"What are you?" asked the salamander.
-"I don't know," said the creature.
+<br>
+A creature appeared
+<br>
+With two tails
+<br>
+One arm
+<br>
+One leg
+<br>
+And a claw
+## "What are you?" asked the salamander
+"I don't know," said the creature
