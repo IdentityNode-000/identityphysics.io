@@ -1,11 +1,17 @@
 # Resemblance Without Direct Sunlight
-Some flowers face the sun.
-Some flowers never see it.
-Yet both grow.
-________________________________________
-The oak receives light.
-The fern receives consequence.
-The moss receives what remains.
-________________________________________
-The sunlight is not always observed.
+Some flowers face the sun
+<br>
+Some flowers never see it
+<br>
+Yet both grow
+<br>
+<br>
+The oak receives light
+<br>
+The fern receives consequence
+<br>
+The moss receives what remains
+<br>
+<br>
+The sunlight is not always observed
 #### The resemblance is
