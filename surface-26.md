@@ -15,3 +15,4 @@ The unseen is not necessarily absent
 <br>
 Presence without direct observation remains presence
 #### Conversational Synopsis: What Remains
+# [Threshold](/index.md) ⌂
