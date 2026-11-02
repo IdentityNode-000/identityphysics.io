@@ -27,9 +27,9 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [NET Topia](/surface-22.md) 
 <br>
 [The canonical model is being shaped now](/surface-07.md) 
-<br>
-[io — the node where identity forms](/surface-02.md)
 #### Emergence Stack
+[io — the node where identity forms](/surface-02.md)
+<br>
 [Pre Emerging Disorder](/surface-15.md)
 <br>
 ⟿[Emerging Emergence](/surface-04.md)
@@ -42,6 +42,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Becoming Identity](/surface-21.md)
 <br>
+[Identity Prevalence](/surface-29.md)
 
 #### What Am I Stack
 [Tracking Every Bit Disorder](/surface-19.md)
@@ -60,8 +61,6 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 ←[One Lens Too Many](/surface-63.md)
 ### [Compressed io‑chain invariant](/surface-06.md)
-
-[Identity Prevalence](/surface-29.md)
 ### [gedankenexperiments: Trigger's Pavement I](/surface-36.md)
 
 [Dark Data Incubation Effect](/surface-16.md)→[Exhaust Hoarding Disorder](/surface-08.md)→[Emergent Personality Bias](/surface-17.md)
