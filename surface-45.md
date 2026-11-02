@@ -1,4 +1,4 @@
-# gedankenexperiment: Identity Crisis
+# gedankenexperiments: Identity Crisis
 #### Human #471000 reported feeling unusual.
 Controllers requested clarification
 <br>
