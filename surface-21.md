@@ -100,4 +100,4 @@ Identity may be what survives becoming.
 <br>
 <br>
 Emmy survives.
-# [Threshold](/index.md) ⌂
+# ↬
