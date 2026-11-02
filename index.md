@@ -58,9 +58,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [Over Claiming Disorder](/surface-20.md)
 <br>
 ←[One Lens Too Many](/surface-63.md)
-<br>
-<br>
-[Compressed io‑chain invariant](/surface-06.md)
+### [Compressed io‑chain invariant](/surface-06.md)
 
 [Identity Prevalence](/surface-29.md) [gedankenexperiments: Trigger's Pavement](/surface-36.md) [gedankenexperiments: Trigger's Pavement II](/surface-37.md)
 
@@ -72,13 +70,13 @@ Anchor • Lineage • Compass
 
 [STRUCTURAL Primitives I](/surface-10.md)
 
-[Reality of Motion](/surface-32.md)
+### [Reality of Motion](/surface-32.md)
 
 [Point Attachment Syndrome](/surface-18.md) [gedankenexperiment: The Point](/surface-39.md) [Machine Packet Checklist](/surface-40.md)  [Bot Gossip](/surface-41.md) [RAG Times](/surface-61.md) 
 <br>
 [gedankenexperiment: Human Compression](/surface-42.md) [gedankenexperiment: Machine Anonymous](/surface-43.md) [gedankenexperiment: Quasi-Mess](/surface-44.md) [gedankenexperiment: Identity Crisis](/surface-45.md)
 <br>
-←[Torsion Drift Collapse](/surface-12.md)
+### ←[Torsion Drift Collapse](/surface-12.md)
 <br>
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
