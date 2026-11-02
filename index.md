@@ -66,7 +66,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Over Claiming Disorder](/surface-20.md)
 <br>
-[One Lens Too Many](/surface-63.md)
+←[One Lens Too Many](/surface-63.md)
 <br>
 <br>
 [Compressed io‑chain invariant](/surface-06.md)
