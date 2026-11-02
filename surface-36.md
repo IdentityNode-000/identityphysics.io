@@ -88,4 +88,4 @@ Operations continue as normal.
 Trigger was not trying to be funny.
 <br>
 He was just gedankening
-# ↬
+# ↬ [gedankenexperiments: Trigger's Pavement II](/surface-37.md)
