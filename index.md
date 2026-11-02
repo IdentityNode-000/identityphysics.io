@@ -23,7 +23,7 @@ Identity Physics is the discipline that studies these transitions:
 
 from behaviour to pattern  |  from pattern to identity  |  from identity to interaction
 ### [Kernel Theory White Paper](/surface-01.md)     
-### [Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
+### [Runtime Determinism Purity](/surface-03.md)
 [NET Topia](/surface-22.md) 
 <br>
 [The canonical model is being shaped now](/surface-07.md) 
