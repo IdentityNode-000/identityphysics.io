@@ -13,3 +13,5 @@ It is not repetition.
 It is continuity surviving difference.
 
 Persistent emergence is the persistence of recognizability within change.
+
+# ↬
