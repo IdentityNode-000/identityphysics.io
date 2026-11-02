@@ -76,7 +76,8 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 Anchor • Lineage • Compass
 <br>
 [gedankenexperiments: Trigger's Pavement I](/surface-36.md)
-[STRUCTURAL Primitives I](/surface-10.md)
+<br>
+[Structural Primitives I](/surface-10.md)
 
 ### [Reality of Motion](/surface-32.md)
 
