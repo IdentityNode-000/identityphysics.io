@@ -19,9 +19,7 @@ and the patterns they stabilise into.
 When these patterns persist, identity emerges.
 When they interact, identity expresses.
 When conditions shift, identity adapts — or fractures.
-<br>
-[The Maybe Song](/surface-23.md)
-<br>
+## [The Maybe Song](/surface-23.md)
 Identity Physics is the discipline that studies these transitions:
 
 from behaviour to pattern  |  from pattern to identity  |  from identity to interaction.
