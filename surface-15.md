@@ -18,4 +18,4 @@ No...
 
 The system is just not fully itself yet.
 
-# ↬
+# ↬ ⟿[Emerging Emergence](/surface-04.md)
