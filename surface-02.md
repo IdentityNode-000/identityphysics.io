@@ -18,4 +18,4 @@ This node is open.
 Boundary Note:  
 When void is fully compressed, almost everything fails.
 Rotation doesn’t. Identity could be the residue
-# ↬
+# ↬ [Pre Emerging Disorder](/surface-15.md)
