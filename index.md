@@ -87,4 +87,7 @@ Across scales. Across materials. Across domains
 <br>
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
+###### STATUS III: ZERO-TRACKING POLICY ACTIVE
+
+
 --------------------------------------------------
