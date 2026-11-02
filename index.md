@@ -30,7 +30,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 #### Emergence Stack
 [io — the node where identity forms](/surface-02.md)
 <br>
-[Pre Emerging Disorder](/surface-15.md)
+⟿[Pre Emerging Disorder](/surface-15.md)
 <br>
 ⟿[Emerging Emergence](/surface-04.md)
 <br>
@@ -40,7 +40,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 ⟿[Persistent Emergence](/surface-14.md)
 <br>
-[Becoming Identity](/surface-21.md)
+⟿[Becoming Identity](/surface-21.md)
 <br>
 [Identity Prevalence](/surface-29.md)
 
