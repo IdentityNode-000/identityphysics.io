@@ -72,7 +72,9 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Classification Collapse](/surface-46.md)
 <br>
+<br>
 Anchor • Lineage • Compass
+<br>
 [gedankenexperiments: Trigger's Pavement I](/surface-36.md)
 [STRUCTURAL Primitives I](/surface-10.md)
 
