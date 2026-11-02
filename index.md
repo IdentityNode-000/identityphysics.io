@@ -100,14 +100,13 @@ Nature repeatedly solves different problems. Similar structures repeatedly emerg
 ### [The Evolution Song](/surface-55.md)
 
 Across scales. Across materials. Across domains
-
-
+<br>
+### [Open Field II](/surface-51.md)
+### [Structural Primitives II](/surface-52.md)
+<br>
+<br>
 [gedankenexperiments: The Universal Triangle](/surface-49.md)
 <br>
-[Open Field II](/surface-51.md)
-
-[Structural Primitives II](/surface-52.md)
-
 [gedankenexperiments: ShapeLand Games I](/surface-53.md)
 <br>
 [Nature Is a Florist](/surface-56.md)
@@ -119,7 +118,6 @@ Across scales. Across materials. Across domains
 <br>
 <br>
 <br>
-
 [Human Exposure Committee](/surface-38.md)
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
