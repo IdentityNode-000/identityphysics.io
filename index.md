@@ -108,13 +108,10 @@ Across scales. Across materials. Across domains
 
 [STRUCTURAL Primitives II](/surface-52.md)
 
-[gedankenexperiments: ShapeLand Games I](/surface-53.md)
-<br>
+### [gedankenexperiments: ShapeLand Games I](/surface-53.md)
 [Nature Is a Florist](/surface-56.md) [Theory of Florists](/surface-57.md) [Resemblance Without Direct Sunlight](/surface-58.md)
-
 ### [Gruffology](/surface-60.md)
-<br>
-[Shy Albumen](/surface-62.md)
+### [Shy Albumen](/surface-62.md)
 <br>
 <br>
 <br>
