@@ -85,8 +85,13 @@ Anchor • Lineage • Compass
 <br>
 [RAG Times](/surface-61.md) 
 <br>
-[gedankenexperiment: Human Compression](/surface-42.md) [gedankenexperiment: Machine Anonymous](/surface-43.md) [gedankenexperiment: Quasi-Mess](/surface-44.md) [gedankenexperiment: Identity Crisis](/surface-45.md)
+[gedankenexperiment: Human Compression](/surface-42.md)
 <br>
+[gedankenexperiment: Machine Anonymous](/surface-43.md) 
+<br>
+[gedankenexperiment: Quasi-Mess](/surface-44.md)
+<br>
+[gedankenexperiment: Identity Crisis](/surface-45.md)
 ### ←[Torsion Drift Collapse](/surface-12.md)
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
