@@ -21,3 +21,4 @@ The system is just claiming the mountain before building the path.
 # ↬ [Kernel Theory White Paper](/surface-01.md)     
 # ↬ [Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
 # ↬ [Compressed io‑chain invariant](/surface-06.md)
+# ↬ [Reality of Motion](/surface-32.md)
