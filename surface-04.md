@@ -45,4 +45,4 @@ It is the first meta‑node in the field.
 
 Emerging Emergence describes the moment emergence stabilizes into a generative node capable of producing new emergence.
 
-# [Generative Emergence](/surface-11.md)
+# ↬ [Generative Emergence](/surface-11.md)
