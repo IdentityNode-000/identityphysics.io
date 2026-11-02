@@ -105,4 +105,5 @@ The crowd fell silent
 #### Hexagon's position as favorite was suddenly in doubt.
 
 ## Unofficial ShapeLand law:
-Whenever the crowd becomes certain, nature enters another contestant ↬ [gedankenexperiments: ShapeLand Games II](/surface-54.md)
+Whenever the crowd becomes certain, nature enters another contestant
+## ↬ [gedankenexperiments: ShapeLand Games II](/surface-54.md)
