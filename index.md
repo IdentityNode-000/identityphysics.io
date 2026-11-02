@@ -80,7 +80,8 @@ Anchor • Lineage • Compass
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
 
-Nature repeatedly solves different problems. Similar structures repeatedly emerge [The Evolution Song](/surface-55.md) [Build Back Identical](/surface-59.md)
+Nature repeatedly solves different problems. Similar structures repeatedly emerge
+### [The Evolution Song](/surface-55.md) [Build Back Identical](/surface-59.md)
 
 Across scales. Across materials. Across domains
 
