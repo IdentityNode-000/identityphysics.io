@@ -14,4 +14,4 @@ It is continuity surviving difference.
 
 Persistent emergence is the persistence of recognizability within change.
 
-# ↬
+# ↬ [Becoming Identity](/surface-21.md)
