@@ -28,4 +28,6 @@ The badge persisted
 <br>
 The interaction resolved
 #### The pipeline's description of itself was not the machine.
-The interaction was the machine.
+The interaction was the machine
+# [gedankenexperiment: Statue to Machine #302](/surface-50.md)
+
