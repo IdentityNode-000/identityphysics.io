@@ -35,6 +35,6 @@ At temperature 0, the model becomes deterministic.
 Stochastic motion collapses.
 The output freezes into a single invariant path.
 Adaptation ends; fracture begins.
-
+[Compressed io‑chain invariant](/surface-06.md)
 
 
