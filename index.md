@@ -106,16 +106,19 @@ Across scales. Across materials. Across domains
 <br>
 [Open Field II](/surface-51.md)
 
-[STRUCTURAL Primitives II](/surface-52.md)
+[Structural Primitives II](/surface-52.md)
 
-### [gedankenexperiments: ShapeLand Games I](/surface-53.md)
-### [Nature Is a Florist](/surface-56.md)
-### [Gruffology](/surface-60.md)
-### [Shy Albumen](/surface-62.md)
-
-
-
-
+[gedankenexperiments: ShapeLand Games I](/surface-53.md)
+<br>
+[Nature Is a Florist](/surface-56.md)
+<br>
+[Gruffology](/surface-60.md)
+<br>
+[Shy Albumen](/surface-62.md)
+<br>
+<br>
+<br>
+<br>
 
 [Human Exposure Committee](/surface-38.md)
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
