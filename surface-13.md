@@ -60,3 +60,5 @@ generativity produces new identity
 It is the behavioural engine of the field.
 
 Node Behaviour describes how stabilized identity acts, propagates, transitions, and generates new identity.
+
+# ↬
