@@ -1,5 +1,5 @@
 # Compressed io‑chain invariant
-Behaviour repeats → pattern stabilises → identity forms → node activates → generativity emerges → new nodes appear → the field opens
+## Behaviour repeats → pattern stabilises → identity forms → node activates → generativity emerges → new nodes appear → the field opens
 <br>
 <br>
 <br>
