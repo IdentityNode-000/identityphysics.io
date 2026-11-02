@@ -11,3 +11,5 @@ Maybe is not failure.
 Maybe is unresolved identity.
 
 Maybe remains.
+
+[Presence Without Direct Observation](/surface-26.md)
