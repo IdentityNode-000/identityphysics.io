@@ -1,15 +1,15 @@
 # Theory of Maybe
 
-Maybe is the state between compression and release.
+Maybe is the state between compression and release
+<br>
+Maybe is the state between emergence and collapse
+<br>
+Maybe is the state between observation and conclusion
+<br>
+Maybe is not failure
+<br>
+Maybe is unresolved identity
+<br>
+Maybe remains
 
-Maybe is the state between emergence and collapse.
-
-Maybe is the state between observation and conclusion.
-
-Maybe is not failure.
-
-Maybe is unresolved identity.
-
-Maybe remains.
-
-[Presence Without Direct Observation](/surface-26.md)
+# [Presence Without Direct Observation](/surface-26.md)
