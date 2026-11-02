@@ -68,7 +68,7 @@ Nature repeatedly solves different problems. Similar structures repeatedly emerg
 Across scales. Across materials. Across domains
 
 
-[Gedankenexperiment: The Universal Triangle](/surface-49.md)
+[gedankenexperiments: The Universal Triangle](/surface-49.md)
 <br>
 [Open Field II](/surface-51.md)
 
