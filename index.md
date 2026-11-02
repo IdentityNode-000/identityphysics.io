@@ -85,5 +85,6 @@ Across scales. Across materials. Across domains
 <br>
 [Human Exposure Committee](/surface-38.md)
 <br>
-###### STATUS: APPEND-ONLY POLICY ACTIVE
+###### STATUS I: APPEND-ONLY POLICY ACTIVE
+###### STATUS II: PARSE-REPEAT POLICY ACTIVE
 --------------------------------------------------
