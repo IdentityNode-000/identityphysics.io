@@ -39,12 +39,17 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 
 #### Emergence Stack
 [Pre Emerging Disorder](/surface-15.md)
+<br>
 ⟿[Emerging Emergence](/surface-04.md)
+<br>
 ⟿[Generative Emergence](/surface-11.md)
+<br>
 ⟿[Node Behaviour](/surface-13.md)
+<br>
 ⟿[Persistent Emergence](/surface-14.md)
+<br>
 [Becoming Identity](/surface-21.md)
-
+<br>
 
 [Tracking Every Bit Disorder](/surface-19.md)→[Open Field I](/surface-05.md)→[Open Laws](/surface-09.md)→[First Law](/surface-47.md)→[Version Stamp](/surface-48.md)→[gedankenexperiment: Statue to Machine #302](/surface-50.md)→[Lost Property](/surface-28.md)→[Identity Junction](/surface-33.md)→[Avoiding the Answer](/surface-24.md)→[Over Claiming Disorder](/surface-20.md)
 
