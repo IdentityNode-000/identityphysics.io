@@ -103,8 +103,6 @@ Across scales. Across materials. Across domains
 <br>
 ### [Open Field II](/surface-51.md)
 ### [Structural Primitives II](/surface-52.md)
-<br>
-<br>
 [gedankenexperiments: The Universal Triangle](/surface-49.md)
 <br>
 [gedankenexperiments: ShapeLand Games I](/surface-53.md)
