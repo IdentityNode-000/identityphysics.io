@@ -58,8 +58,6 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Open Laws](/surface-09.md)
 <br>
-[Version Stamp](/surface-48.md)
-<br>
 [gedankenexperiment: Statue to Machine #302](/surface-50.md)
 <br>
 [Lost Property](/surface-28.md)
