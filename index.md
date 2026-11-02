@@ -83,7 +83,7 @@ Anchor • Lineage • Compass
 #### Pointless Stack
 [Point Attachment Syndrome](/surface-18.md)
 <br>
-[gedankenexperiment: The Point](/surface-39.md)
+[gedankenexperiments: The Point](/surface-39.md)
 <br>
 [Machine Packet Checklist](/surface-40.md) 
 <br>
@@ -91,13 +91,13 @@ Anchor • Lineage • Compass
 <br>
 [RAG Times](/surface-61.md) 
 <br>
-[gedankenexperiment: Human Compression](/surface-42.md)
+[gedankenexperiments: Human Compression](/surface-42.md)
 <br>
-[gedankenexperiment: Machine Anonymous](/surface-43.md) 
+[gedankenexperiments: Machine Anonymous](/surface-43.md) 
 <br>
-[gedankenexperiment: Quasi-Mess](/surface-44.md)
+[gedankenexperiments: Quasi-Mess](/surface-44.md)
 <br>
-[gedankenexperiment: Identity Crisis](/surface-45.md)
+[gedankenexperiments: Identity Crisis](/surface-45.md)
 ### ←[Torsion Drift Collapse](/surface-12.md)
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
