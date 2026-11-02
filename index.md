@@ -79,6 +79,7 @@ Across scales. Across materials. Across domains
 [Nature Is a Florist](/surface-56.md) [Theory of Florists](/surface-57.md) [Resemblance Without Direct Sunlight](/surface-58.md)
 
 [Gruffology](/surface-60.md)
+[Shy Albumen](/surface-62.md)
 <br>
 <br>
 <br>
