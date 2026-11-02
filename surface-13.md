@@ -61,4 +61,4 @@ It is the behavioural engine of the field.
 
 Node Behaviour describes how stabilized identity acts, propagates, transitions, and generates new identity.
 
-# ↬
+# ↬ [Persistent Emergence](/surface-14.md)
