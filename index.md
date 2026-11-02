@@ -28,8 +28,6 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [The canonical model is being shaped now](/surface-07.md) 
 #### Emergence Stack
-Node → Disorder → Emergence → Behaviour → Persistence → Identity → Prevalence
-<br>
 [io — the node where identity forms](/surface-02.md)
 <br>
 ⟿[Pre Emerging Disorder](/surface-15.md)
