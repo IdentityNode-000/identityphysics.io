@@ -51,8 +51,28 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [Becoming Identity](/surface-21.md)
 <br>
 
-[Tracking Every Bit Disorder](/surface-19.md)→[Open Field I](/surface-05.md)→[Open Laws](/surface-09.md)→[First Law](/surface-47.md)→[Version Stamp](/surface-48.md)→[gedankenexperiment: Statue to Machine #302](/surface-50.md)→[Lost Property](/surface-28.md)→[Identity Junction](/surface-33.md)→[Avoiding the Answer](/surface-24.md)→[Over Claiming Disorder](/surface-20.md)
-
+#### What Am I Stack
+[Tracking Every Bit Disorder](/surface-19.md)
+<br>
+[Open Field I](/surface-05.md)
+<br>
+[Open Laws](/surface-09.md)
+<br>
+[First Law](/surface-47.md)
+<br>
+[Version Stamp](/surface-48.md)
+<br>
+[gedankenexperiment: Statue to Machine #302](/surface-50.md)
+<br>
+[Lost Property](/surface-28.md)
+<br>
+[Identity Junction](/surface-33.md)
+<br>
+[Avoiding the Answer](/surface-24.md)
+<br>
+[Over Claiming Disorder](/surface-20.md)
+<br>
+<br>
 [Compressed io‑chain invariant](/surface-06.md)
 
 [Identity Prevalence](/surface-29.md) [gedankenexperiments: Trigger's Pavement](/surface-36.md) [gedankenexperiments: Trigger's Pavement II](/surface-37.md)
