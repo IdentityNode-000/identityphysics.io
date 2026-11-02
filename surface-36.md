@@ -87,4 +87,5 @@ Operations continue as normal.
 <br>
 Trigger was not trying to be funny.
 <br>
-He was just gedankening.
+He was just gedankening
+# ↬
