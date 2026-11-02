@@ -43,7 +43,9 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 ⟿[Becoming Identity](/surface-21.md)
 <br>
 [Identity Prevalence](/surface-29.md)
-
+<br>
+<br>
+[Identity Persistence Framework](/surface-30.md)
 #### What Am I Stack
 [Tracking Every Bit Disorder](/surface-19.md)
 <br>
@@ -68,8 +70,6 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [Exhaust Hoarding Disorder](/surface-08.md)
 <br>
 [Emergent Personality Bias](/surface-17.md)
-<br>
-[Identity Persistence Framework](/surface-30.md)
 <br>
 [Classification Collapse](/surface-46.md)
 <br>
