@@ -1,4 +1,4 @@
-# gedankenexperiment: Human Compression
+# gedankenexperiments: Human Compression
 ## Request #471000:
 A classification system receives a request to store Human #471000.
 <br>Stored value:
