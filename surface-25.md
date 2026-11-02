@@ -12,4 +12,4 @@ Maybe is unresolved identity
 <br>
 Maybe remains
 
-# [Presence Without Direct Observation](/surface-26.md)
+# ↬ [Presence Without Direct Observation](/surface-26.md)
