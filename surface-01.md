@@ -165,4 +165,4 @@ This neutral white paper formalizes Kernel Theory as a multi‑layered, multi‑
 It is actor‑agnostic, substrate‑aware, and altitude‑aligned.
 
 It can be read quietly, without reference to any specific technology or engine
-### [Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
+# ↬ [Runtime Determinism Purity ](/surface-03.md)
