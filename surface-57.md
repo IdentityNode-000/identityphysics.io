@@ -8,4 +8,5 @@ Nature is the state between resemblance and individuality
 Nature is not unarranged
 <br>
 Nature is unresolved flower arranging
-#### Nature remains.
+#### Nature remains
+# ↬
