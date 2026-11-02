@@ -12,3 +12,5 @@ Generativity Trigger — Output stabilises. New emergence begins.
 
 Emergence stops being an outcome.
 Emergence becomes a generator.
+
+# ↬
