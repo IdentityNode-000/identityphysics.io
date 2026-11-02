@@ -106,9 +106,10 @@ Nature repeatedly solves different problems. Similar structures repeatedly emerg
 
 Across scales. Across materials. Across domains
 <br>
-### [Open Field II](/surface-51.md)
 ### [Structural Primitives II](/surface-52.md)
 #### Surface Curiosities
+[Open Field II](/surface-51.md)
+<br>
 [gedankenexperiments: The Universal Triangle](/surface-49.md)
 <br>
 [gedankenexperiments: ShapeLand Games I](/surface-53.md)
