@@ -9,4 +9,4 @@ Nature is not unarranged
 <br>
 Nature is unresolved flower arranging
 #### Nature remains
-# ↬
+# ↬ [Resemblance Without Direct Sunlight](/surface-58.md)
