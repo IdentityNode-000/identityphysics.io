@@ -74,7 +74,16 @@ Anchor • Lineage • Compass
 
 ### [Reality of Motion](/surface-32.md)
 
-[Point Attachment Syndrome](/surface-18.md) [gedankenexperiment: The Point](/surface-39.md) [Machine Packet Checklist](/surface-40.md)  [Bot Gossip](/surface-41.md) [RAG Times](/surface-61.md) 
+#### Pointless Stack
+[Point Attachment Syndrome](/surface-18.md)
+<br>
+[gedankenexperiment: The Point](/surface-39.md)
+<br>
+[Machine Packet Checklist](/surface-40.md) 
+<br>
+[Bot Gossip](/surface-41.md)
+<br>
+[RAG Times](/surface-61.md) 
 <br>
 [gedankenexperiment: Human Compression](/surface-42.md) [gedankenexperiment: Machine Anonymous](/surface-43.md) [gedankenexperiment: Quasi-Mess](/surface-44.md) [gedankenexperiment: Identity Crisis](/surface-45.md)
 <br>
