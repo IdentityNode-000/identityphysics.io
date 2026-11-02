@@ -63,8 +63,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 ←[One Lens Too Many](/surface-63.md)
 ### [Compressed io‑chain invariant](/surface-06.md)
-[gedankenexperiments: Trigger's Pavement I](/surface-36.md)
-<br>
+#### Disorderly Stack
 [Dark Data Incubation Effect](/surface-16.md)
 <br>
 [Exhaust Hoarding Disorder](/surface-08.md)
@@ -74,7 +73,7 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 [Classification Collapse](/surface-46.md)
 <br>
 Anchor • Lineage • Compass
-
+[gedankenexperiments: Trigger's Pavement I](/surface-36.md)
 [STRUCTURAL Primitives I](/surface-10.md)
 
 ### [Reality of Motion](/surface-32.md)
