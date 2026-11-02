@@ -15,4 +15,4 @@ Undisclosed Law = single point end.
 Hodge convergence appears where mismatched identities return to foundation.
 Void is identity in its silent state.
 <br>
-# [First Law](/surface-47.md)
+# ↬ [First Law](/surface-47.md)
