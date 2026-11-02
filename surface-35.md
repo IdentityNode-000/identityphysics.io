@@ -62,4 +62,4 @@ Implementation deferred
 ## curl (Client URL)
 Raw text requested without visual mediation, Browser absent, Identity withheld, Payload pending
 <br>
-Implementation deferred
+Implementation deferred  [Landing Page](/index.md)
