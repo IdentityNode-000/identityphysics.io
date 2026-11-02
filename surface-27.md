@@ -51,4 +51,4 @@ Several open questions continue to operate within accepted tolerances.
 
 Before adjustment, correction, interpretation, conclusion, optimization, clarification, categorization, or overclaiming:
 
-Observe first. [Weight Control Office](/surface-34.md)
+Observe first → [Weight Control Office](/surface-34.md)
