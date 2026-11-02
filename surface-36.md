@@ -1,4 +1,4 @@
-# gedankenexperiments: Trigger's Pavement
+# gedankenexperiments: Trigger's Pavement I
 ## The Ship of Theseus 
 Asks whether an object remains the same when all of its parts are replaced. Its answer is often sought in historical continuity. The ship remains the ship because its journey remains connected to its past.
 ## HMS Victory
