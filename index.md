@@ -61,7 +61,8 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 ←[One Lens Too Many](/surface-63.md)
 ### [Compressed io‑chain invariant](/surface-06.md)
 
-[Identity Prevalence](/surface-29.md) [gedankenexperiments: Trigger's Pavement](/surface-36.md) [gedankenexperiments: Trigger's Pavement II](/surface-37.md)
+[Identity Prevalence](/surface-29.md)
+### [gedankenexperiments: Trigger's Pavement](/surface-36.md) [gedankenexperiments: Trigger's Pavement II](/surface-37.md)
 
 [Dark Data Incubation Effect](/surface-16.md)→[Exhaust Hoarding Disorder](/surface-08.md)→[Emergent Personality Bias](/surface-17.md)
 
