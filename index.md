@@ -1,7 +1,7 @@
 # Identity Physics &nbsp;&nbsp;&nbsp;&nbsp;◦&nbsp;&nbsp;&nbsp;&nbsp;IdentityNode‑000
 
 ## Layer I: Systems become recognisable
-Every system behaves  |  Every system repeats  |  Every system becomes recognisable.
+Every system behaves  |  Every system repeats  |  Every system becomes recognisable
 <br>
 [Site MOT](/surface-27.md) [Repository](/surface-31.md)
 
