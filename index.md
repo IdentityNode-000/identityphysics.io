@@ -77,10 +77,8 @@ Anchor • Lineage • Compass
 <br>
 [gedankenexperiments: Trigger's Pavement I](/surface-36.md)
 <br>
-[Structural Primitives I](/surface-10.md)
-
+### [Structural Primitives I](/surface-10.md)
 ### [Reality of Motion](/surface-32.md)
-
 #### Pointless Stack
 [Point Attachment Syndrome](/surface-18.md)
 <br>
