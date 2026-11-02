@@ -15,3 +15,4 @@ Motion may be the only invariant
 <br>
 <br>
 Perhaps → Reality → Patterns → Things → Objects → Shape → Motion → ?
+## If motion is the invariant, what anchors identity?
