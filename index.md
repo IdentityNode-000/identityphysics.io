@@ -77,7 +77,6 @@ Anchor • Lineage • Compass
 [gedankenexperiment: Human Compression](/surface-42.md) [gedankenexperiment: Machine Anonymous](/surface-43.md) [gedankenexperiment: Quasi-Mess](/surface-44.md) [gedankenexperiment: Identity Crisis](/surface-45.md)
 <br>
 ### ←[Torsion Drift Collapse](/surface-12.md)
-<br>
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
 
