@@ -5,7 +5,7 @@ A flame forgets its fuel,
 <br>
 A forest changes trees again,
 <br>
-Yet something keeps its rule.
+Yet something keeps its rule
 <br>
 <br>
 Maybe this,
@@ -16,7 +16,7 @@ Maybe patterns come and go,
 <br>
 Maybe what survives the drift
 <br>
-Is all we really know.
+Is all we really know
 <br>
 <br>
 A node becomes a network,
@@ -25,7 +25,7 @@ A network finds a name,
 <br>
 The name becomes a story,
 <br>
-Yet nothing stays the same.
+Yet nothing stays the same
 <br>
 <br>
 Maybe this,
@@ -36,7 +36,7 @@ Maybe shadows help us see,
 <br>
 Maybe what survives the change
 <br>
-Is what identity may be.
+Is what identity may be
 <br>
 <br>
 Observe the path,
@@ -47,7 +47,7 @@ Observe what can remain,
 <br>
 Perhaps the thing that survives drift
 <br>
-Will come around again.
+Will come around again
 <br>
 <br>
 Maybe this,
@@ -58,11 +58,11 @@ Perhaps not,
 <br>
 observe and see,
 <br>
-<br>
 Identity may not be found,
 <br>
-Identity may simply be.
+Identity may simply be
 
+# [Theory of Maybe](/surface-25.md) 
 
 
 
