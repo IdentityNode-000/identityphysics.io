@@ -112,12 +112,12 @@ Across scales. Across materials. Across domains
 [Nature Is a Florist](/surface-56.md) [Theory of Florists](/surface-57.md) [Resemblance Without Direct Sunlight](/surface-58.md)
 ### [Gruffology](/surface-60.md)
 ### [Shy Albumen](/surface-62.md)
-<br>
-<br>
-<br>
-<br>
+
+
+
+
+
 [Human Exposure Committee](/surface-38.md)
-<br>
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
 ###### STATUS III: ZERO-TRACKING POLICY ACTIVE
