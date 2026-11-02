@@ -37,5 +37,4 @@ GP01: Intentionally left ungoverned.
 <br>
 <br>
 Once governance governs governance, who is governing?
-
-
+# [Threshold](/index.md) ⌂
