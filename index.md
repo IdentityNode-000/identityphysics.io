@@ -118,7 +118,6 @@ Across scales. Across materials. Across domains
 <br>
 [Shy Albumen](/surface-62.md)
 ### [Gruffology](/surface-60.md)
-[Salamander's Puzzle: What Am I?](/surface-64.md)
 <br>
 <br>
 <br>
