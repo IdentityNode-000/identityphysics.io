@@ -117,6 +117,7 @@ Across scales. Across materials. Across domains
 [Nature Is a Florist](/surface-56.md)
 <br>
 [Gruffology](/surface-60.md)
+[Salamander's Puzzle: What Am I?](/surface-64.md)
 <br>
 [Shy Albumen](/surface-62.md)
 <br>
