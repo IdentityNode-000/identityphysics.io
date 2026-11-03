@@ -42,6 +42,4 @@ Future structures inherit that geometry
 Lineage follows constraint
 <br>
 #### Geometry follows fault lines
-
-
-
+# [Threshold](/index.md) ⌂
