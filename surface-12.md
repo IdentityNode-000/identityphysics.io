@@ -60,3 +60,4 @@ identity becomes capable of producing new identity
 It is the deformation node of the field.
 -------------------------------------------------------------------------------------------------------------------------
 Torsion Drift Collapse describes the moment identity bends, drifts, collapses, and reforms into a new stable boundary.
+# [Threshold](/index.md) ⌂
