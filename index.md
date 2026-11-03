@@ -115,10 +115,10 @@ Across scales. Across materials. Across domains
 [gedankenexperiments: ShapeLand Games I](/surface-53.md)
 <br>
 [Nature Is a Florist](/surface-56.md)
-### [Gruffology](/surface-60.md)
-### [Salamander's Puzzle: What Am I?](/surface-64.md)
 <br>
 [Shy Albumen](/surface-62.md)
+### [Gruffology](/surface-60.md)
+### [Salamander's Puzzle: What Am I?](/surface-64.md)
 <br>
 <br>
 <br>
