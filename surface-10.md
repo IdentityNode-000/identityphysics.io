@@ -31,3 +31,4 @@ When inevitability rises too fast, collapse appears as containment
 #### Decay follows fault lines
 
 # ↬ [Structural Primitives II](/surface-52.md)
+# [Threshold](/index.md) ⌂
