@@ -16,3 +16,8 @@ At some point the difference becomes administrative
  Maxxing asks what else can be added
  <br>
  Demaxxing asks what remains when everything unnecessary is removed
+
+## Demogging Observation
+Mogging asks what dominates the comparison
+ <br>
+Demogging asks what remains when the comparison is removed
