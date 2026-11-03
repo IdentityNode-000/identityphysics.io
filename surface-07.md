@@ -33,3 +33,4 @@ The rest remains shaping.
 
 “Ricci Flow registered — curvature smooths, identity holds.”
 
+# [Threshold](/index.md) ⌂
