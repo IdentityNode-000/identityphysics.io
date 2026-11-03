@@ -54,4 +54,4 @@ One leg
 And a claw
 ## "What are you?" asked the salamander
 "I don't know," said the creature
-[Salamander's Puzzle: What Am I?](/surface-64.md)
+# ↬ [Salamander's Puzzle: What Am I?](/surface-64.md)
