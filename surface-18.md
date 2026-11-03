@@ -48,9 +48,9 @@ Void ↔ Point
 <br>
 Motion
 <br>
-
+<br>
 Objects may be memories of shape
-
+<br>
 Shape may be stabilized motion.
-
-Motion may be the only invariant.
+<br>
+Motion may be the only invariant
