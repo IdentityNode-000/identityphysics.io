@@ -51,6 +51,5 @@ Motion
 <br>
 Objects may be memories of shape
 <br>
-Shape may be stabilized motion.
-<br>
-Motion may be the only invariant
+Shape may be stabilized motion
+#### Motion may be the only invariant
