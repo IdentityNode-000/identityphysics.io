@@ -152,6 +152,7 @@ With me, there is form
 What am I?
 ### Letter: _
 #### The creature looked at the six letters.
+### Letter: _ _ _ _ _ _
 The salamander smiled.
 <br>
 The creature studied them for a long time
