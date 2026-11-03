@@ -96,4 +96,4 @@ He was just sweeping
 Nobody agreed
 <br>
 Everybody behaved as though they had
-# [Threshold](/index.md) ⌂
+# ↬ [gedankenexperiments: Trigger's Pavement III](/surface-65.md)
