@@ -26,3 +26,32 @@ The squircle could not decide either
 The boundary becomes the container
 <br>
 The container becomes invariant
+## Boundary Persistence
+Years later a second object arrived
+<br>
+It did not fit
+<br>
+The boundary accepted it anyway
+<br>
+A third object arrived
+<br>
+The boundary accepted that too
+<br>
+Controllers were pleased
+<br>
+The classification appeared remarkably robust
+<br>
+Eventually every object occupied the same category
+<br>
+The system reported perfect consistency
+<br>
+Nobody could remember what the category meant
+<br>
+The squircle became uneasy
+<br>
+It was beginning to fit in
+
+
+
+
+
