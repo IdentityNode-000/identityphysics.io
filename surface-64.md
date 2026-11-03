@@ -161,4 +161,8 @@ Then it asked:
 <br>
 "If that is what I am made of..."
 #### "...what am I?"
+## Salamander's Fable
+We think we know what it is made of
+<br>
+We still don't know what it is
 # [Threshold](/index.md) ⌂
