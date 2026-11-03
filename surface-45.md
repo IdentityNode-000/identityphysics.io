@@ -35,6 +35,8 @@ The investigation discovered that Human #471000 had been classified as:
 The classifications were confirmed repeatedly
 <br>
 Every system agreed
+<br>
+Only Reuleux rolled out an objection but it was quashed
 #### Human #471000 reviewed the report
 "Which 1 is me?" they asked
 <br>
