@@ -29,3 +29,5 @@ Truth travels downward; inevitability travels upward
 When inevitability rises too fast, collapse appears as containment
 <br>
 #### Decay follows fault lines
+
+### [Structural Primitives II](/surface-52.md)
