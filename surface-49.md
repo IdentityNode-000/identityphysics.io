@@ -15,4 +15,6 @@ The chemist asks whether the nine triangles stay together
 <br>
 The biologist asks whether the larger triangle can create another larger triangle
 #### The counting immediately becomes Dyscalculia
-The universe just nods.
+The trapezoid suspected everyone was missing the point
+<br>
+The universe just nods
