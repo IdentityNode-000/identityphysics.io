@@ -27,16 +27,17 @@ No...
 <br>
 ?
 
-The point is getting nervous again.
-
-It thought it was fundamental.
-
-The atom said that once.
-
-Motion may be immutable.
-
-Apparently discrete entities may be recurring stabilizations of a deeper process, while the points used to describe them are artifacts of observational resolution.
-
+The point is getting nervous again
+<br>
+It thought it was fundamental
+<br>
+The atom said that once
+<br>
+The amplituhedron simply looked on
+#### Motion may be immutable
+Apparently discrete entities may be recurring stabilizations of a deeper process, while the points used to describe them are artifacts of observational resolution
+<br>
+<br>
 Noise
 <br>
 ↓
@@ -48,7 +49,7 @@ Void ↔ Point
 Motion
 <br>
 
-Objects may be memories of shape.
+Objects may be memories of shape
 
 Shape may be stabilized motion.
 
