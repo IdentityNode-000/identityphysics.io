@@ -22,7 +22,7 @@ Many speak my name
 Few leave me unchanged
 <br>
 What am I?
-### Letter: _
+#### Letter: _
 ## Salamander's Puzzle #2
 What am I?
 <br>
@@ -45,7 +45,7 @@ I am not the change
 I am what the change preserves.
 <br>
 What am I?
-### Letter: _
+#### Letter: _
 ## Salamander's Puzzle #3
 What am I?
 <br>
@@ -68,7 +68,7 @@ Nature creates me
 Crowds become me
 <br>
 What am I?
-### Letter: _
+#### Letter: _
 ## Salamander's Puzzle #4
 What am I?
 <br>
@@ -92,7 +92,7 @@ I lose nothing by becoming shorter
 <br>
 I merely become denser
 What am I?
-### Letter: _
+#### Letter: _
 ## Salamander's Puzzle #5
 What am I?
 <br>
@@ -119,7 +119,7 @@ The universe does not command me
 The universe follows me
 <br>
 What am I?
-### Letter: _
+#### Letter: _
 ## Salamander's Puzzle #6
 What am I?
 <br>
@@ -150,9 +150,9 @@ Without me, there is only collection
 With me, there is form
 <br>
 What am I?
-### Letter: _
+#### Letter: _
 #### The creature looked at the six letters.
-### Letter: _ _ _ _ _ _
+#### Letters: _ _ _ _ _ _
 The salamander smiled.
 <br>
 The creature studied them for a long time
