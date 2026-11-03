@@ -51,3 +51,4 @@ Observe.
 <br>
 <br>
 Observed Law 01 — [Intentionally Unobserved]
+[The canonical model is being shaped now](/surface-07.md) 
