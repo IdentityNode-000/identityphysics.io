@@ -21,6 +21,8 @@ Sometimes the boundary changes
 <br>
 Sometimes, however hard you try, neither will turn
 <br>
+The squircle could not decide either
+<br>
 The boundary becomes the container
 <br>
 The container becomes invariant
