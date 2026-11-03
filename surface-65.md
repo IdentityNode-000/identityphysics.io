@@ -1,7 +1,7 @@
-gedankenexperiments: Trigger's Pavement III
+# gedankenexperiments: Trigger's Pavement III
 The previous question asked whether a relationship could acquire an identity.
 A further question has since emerged.
-Can a movement be recognized from a single moment?
+## Can a movement be recognized from a single moment?
 A ship crossing a calm sea does not move as it does in a storm.
 An axe beginning a cut does not move as it does while splitting wood.
 A broom crossing smooth pavement does not move as it does over loose gravel.
