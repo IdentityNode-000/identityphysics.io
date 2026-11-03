@@ -26,7 +26,7 @@ The squircle could not decide either
 The boundary becomes the container
 <br>
 The container becomes invariant
-## Boundary Persistence
+#### Boundary Persistence
 Years later a second object arrived
 <br>
 It did not fit
