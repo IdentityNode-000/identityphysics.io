@@ -51,7 +51,6 @@ The Broom preserves a function
 <br>
 The Moment preserves a motion
 ## Supplemental Question:
-<br>
 If a single instant can reveal an entire movement, where is the identity located?
 <br>
 Observed status:
