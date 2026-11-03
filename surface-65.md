@@ -33,7 +33,6 @@ The observer reconstructs it
 #### What was the movement before the moment?
 #### What will the movement be after the moment?
 #### How much of a movement must be observed before its identity becomes visible?
-<br>
 A second?
 <br>
 A frame?
@@ -52,6 +51,7 @@ The Broom preserves a function
 <br>
 The Moment preserves a motion
 ## Supplemental Question:
+<br>
 If a single instant can reveal an entire movement, where is the identity located?
 <br>
 Observed status:
