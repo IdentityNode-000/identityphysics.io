@@ -72,6 +72,8 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Classification Collapse](/surface-46.md)
 <br>
+[Good Bot, Bad Bot](/surface-66.md)
+<br>
 <br>
 Anchor • Lineage • Compass
 <br>
