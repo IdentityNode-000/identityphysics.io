@@ -118,6 +118,8 @@ Across scales. Across materials. Across domains
 <br>
 [Nature Is a Florist](/surface-56.md)
 <br>
+[Banding Together](/surface-67.md)
+<br>
 [Shy Albumen](/surface-62.md)
 ### [Gruffology](/surface-60.md)
 <br>
