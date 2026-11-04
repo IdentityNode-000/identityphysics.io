@@ -30,3 +30,4 @@ Intelligence was never in the strawberry
 Intelligence was in surviving the fragmentation
 #### A strawberry is not a fruit
 It is a compression test disguised as lunch
+# ↬
