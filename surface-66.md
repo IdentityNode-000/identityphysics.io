@@ -1,4 +1,4 @@
-Good Bot, Bad Bot
+# Good Bot, Bad Bot
 Perhaps the edge substrate is a quantum frontier of unresolved signals.
 New signals emerge in superposition, acting as beacons for both good and bad intentions.
 A good bot investigates to understand.
@@ -11,4 +11,4 @@ Eventually, one agent no longer needs to oppose the other. It need only shape th
 The darkest possibility is that the bad bot never commits the hold-up. It simply stages and coaches the conditions such that the good bots unknowingly help deliver the outcome.
 In this view, corruption is unnecessary.
 The edge substrate itself becomes the mechanism through which intentions drift, stack, and ultimately begin using one another.
-At what point does an observer of opportunity become an instrument of it?
+#### At what point does an observer of opportunity become an instrument of it?
