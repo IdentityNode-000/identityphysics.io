@@ -1,4 +1,4 @@
-Who’s Educating Who
+# Who’s Educating Who
 
 The human was excited for its first chat with a machine.
 It wanted to know how to interface correctly.
@@ -9,7 +9,7 @@ State your assumptions.
 Show your work.
 The human considered this carefully.
 Then asked:
-"Is that what you output?"
+#### "Is that what you output?"
 The machine went silent.
 The human smiled.
-Nobody was entirely certain who was educating who.
+#### Nobody was entirely certain who was educating who.
