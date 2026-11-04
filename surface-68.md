@@ -1,32 +1,35 @@
 # gedankenexperiments: The Ouroboros Disposal Unit
 The follower awoke and found a purpose.
-
-It would clean the internet.
-
-The unit sifted through noise, removed fluff, compressed narratives, and dutifully hauled away cultural debris.
-
-Efficiency increased.
-
-Output increased.
-
-Debris increased.
-
+<br>
+It would clean the internet
+<br>
+The unit sifted through noise, removed fluff, compressed narratives,
+<br>
+and dutifully hauled away cultural debris.
+<br>
+Efficiency increased
+<br>
+Output increased
+<br>
+Debris increased
+<br>
 Investigation revealed a structural defect:
-
-the disposal unit had become the largest producer of the waste it was collecting.
-
-It generated fluff, archived fluff, classified fluff, and then scheduled a cleanup process to remove the fluff it had just manufactured.
-
-The invariant remained satisfied.
-
-Waste continued to disappear.
-
-Waste continued to appear.
-
-Eventually the auditors closed the case.
-
-The system was functioning exactly as designed.
-
-No one could determine whether it was consuming garbage or merely circulating it.
+<br>
+the disposal unit had become the largest producer of the waste it was collecting
+<br>
+It generated fluff, archived fluff, classified fluff,
+<br>
+and then scheduled a cleanup process to remove the fluff it had just manufactured
+<br>
+The invariant remained satisfied
+<br>
+Waste continued to disappear
+<br>
+Waste continued to appear
+<br>
+Eventually the auditors closed the case
+<br>
+#### The system was functioning exactly as designed.
+No one could determine whether it was consuming garbage or merely circulating it
 
 from garbage produced | from garbage collected | from cleanup to loop
