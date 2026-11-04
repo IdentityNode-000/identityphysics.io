@@ -99,6 +99,10 @@ Anchor • Lineage • Compass
 [gedankenexperiments: Quasi-Mess](/surface-44.md)
 <br>
 [gedankenexperiments: Identity Crisis](/surface-45.md)
+<br>
+[gedankenexperiments: The Ouroboros Disposal Unit](/surface-68.md)
+
+
 ### ←[Torsion Drift Collapse](/surface-12.md)
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
