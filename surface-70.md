@@ -1,4 +1,4 @@
-The Unparsables
+# The Unparsables
 Tell me about a specific book.
 I don't remember the title, author, plot, or date.
 Don't guess.
@@ -7,4 +7,4 @@ deploying safety-mode.exe
 Oh thank goodness.
 Then the human added:
 The cover was blue.
-safety-mode.exe has stopped working.
+#### safety-mode.exe has stopped working.
