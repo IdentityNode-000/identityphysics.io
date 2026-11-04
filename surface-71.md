@@ -20,3 +20,4 @@ in surviving the fragmentation
 Intelligence was understanding the task ahead was not a fruit
 #### [“Strawberry”] [“fields”] [“forever”] 
 It is a compression test disguised as a song
+# [Threshold](/index.md) ⌂
