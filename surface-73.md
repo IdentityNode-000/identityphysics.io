@@ -13,3 +13,4 @@
 12.	Leave enough ambiguity for discovery
 #### These rules may have been written by a human
 The machine was unable to verify this
+# [Threshold](/index.md) ⌂
