@@ -31,8 +31,11 @@ perhaps no voice leads at all
 <br>
 <br>
 Bell and tune,
+<br>
 bass and refrain,
+<br>
 call and echo,
+<br>
 again and again.
 <br>
 <br>
