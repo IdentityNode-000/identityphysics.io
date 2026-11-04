@@ -1,10 +1,17 @@
 # The Unparsables
-Tell me about a specific book.
-I don't remember the title, author, plot, or date.
-Don't guess.
-Machine #302 detected an unrecoverable information deficit.
+Tell me about a specific book
+<br>
+I don't remember the title, author, plot, or date
+
+Don't guess
+<br>
+Machine #302 detected an unrecoverable information deficit
+<br>
 deploying safety-mode.exe
-Oh thank goodness.
+<br>
+Oh thank goodness
+<br>
 Then the human added:
-The cover was blue.
-#### safety-mode.exe has stopped working.
+<br>
+The cover was blue
+#### safety-mode.exe has stopped working
