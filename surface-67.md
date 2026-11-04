@@ -28,10 +28,14 @@ a distant, drifting call
 And when they play together,
 <br>
 perhaps no voice leads at all
-#### Bell and tune,
-#### bass and refrain,
-#### call and echo,
-#### again and again.
+<br>
+<br>
+Bell and tune,
+bass and refrain,
+call and echo,
+again and again.
+<br>
+<br>
 And perhaps, somewhere beyond our hearing,
 <br>
 the band is larger than we know
