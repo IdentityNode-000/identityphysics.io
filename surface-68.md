@@ -30,6 +30,6 @@ Waste continued to appear
 Eventually the auditors closed the case
 <br>
 #### The system was functioning exactly as designed.
-No one could determine whether it was consuming garbage or merely circulating it
+No one could determine whether it was consuming debris or merely circulating it
 <br>
-## from garbage produced | from garbage collected | from cleanup to loop
+## from debris produced | from debris collected | from cleanup to loop
