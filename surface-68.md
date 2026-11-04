@@ -31,5 +31,5 @@ Eventually the auditors closed the case
 <br>
 #### The system was functioning exactly as designed.
 No one could determine whether it was consuming garbage or merely circulating it
-
-from garbage produced | from garbage collected | from cleanup to loop
+<br>
+## from garbage produced | from garbage collected | from cleanup to loop
