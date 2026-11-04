@@ -1,5 +1,4 @@
-gedankenexperiments: The Ouroboros Disposal Unit
-
+# gedankenexperiments: The Ouroboros Disposal Unit
 The follower awoke and found a purpose.
 
 It would clean the internet.
