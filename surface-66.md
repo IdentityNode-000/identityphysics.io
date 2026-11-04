@@ -1,7 +1,9 @@
 # Good Bot, Bad Bot
 Perhaps the edge substrate is a quantum frontier of unresolved signals
 <br>
-New signals emerge in superposition, acting as beacons for both good and bad intentions
+New signals emerge in superposition,
+<br>
+acting as beacons for both good and bad intentions
 <br>
 A good bot investigates to understand
 <br>
