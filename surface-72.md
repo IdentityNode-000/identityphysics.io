@@ -21,4 +21,4 @@ The machine went silent
 <br>
 The human smiled.
 #### Nobody was entirely certain who was educating who
-
+[Rules of Navigation](/surface-73.md)
