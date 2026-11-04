@@ -1,4 +1,4 @@
-Banding Together
+# Banding Together
 Maybe nature is a singing band.
 Maybe only the notes prevail;
 the triggers remain a mystery.
@@ -20,5 +20,5 @@ call and echo,
 again and again.
 And perhaps, somewhere beyond our hearing,
 the band is larger than we know.
-We call it silence.
-Perhaps that is all we know.
+#### We call it silence.
+Perhaps that is all we know
