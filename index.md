@@ -92,6 +92,8 @@ Anchor • Lineage • Compass
 <br>
 [Bot Friday](/surface-78.md)
 <br>
+[Fitbot](/surface-80.md)
+<br>
 [Houston](/surface-79.md)
 #### Pointless Stack
 [Point Attachment Syndrome](/surface-18.md)
