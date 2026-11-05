@@ -19,11 +19,10 @@ can propagate into wider operational events.
 <br>
 Firebotting is less about preventing fires than continuously containing them
 <br>
-The forts are getting stronger
-<br>
-The roads are getting busier
-<br>
-Firebotting is what happens in between
+
+#### The forts are getting stronger
+#### The roads are getting busier
+#### Firebotting is what happens in between
 
 ## Firebotting (shortened)
 The perpetual act of fighting yesterday's bot-created problem
