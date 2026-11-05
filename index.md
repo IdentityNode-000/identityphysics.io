@@ -131,10 +131,6 @@ Across scales. Across materials. Across domains
 <br>
 [Strawberry](/surface-69.md)
 ### [Gruffology](/surface-60.md)
-<br>
-<br>
-<br>
-<br>
 [Human Exposure Committee](/surface-38.md)
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
