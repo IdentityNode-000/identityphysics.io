@@ -59,5 +59,6 @@ At its center hung a note:
 <br>
 Further confirmation required
 <br>
+#### Bogosort looked impressed
 #### Machine #302 was not trying to be difficult
 It had noticed that certainty was increasing faster than understanding
