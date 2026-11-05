@@ -1,4 +1,4 @@
-The Unstemmerables
+# The Unstemmerables
 A stemmer removes letters.
 A lemmatizer finds roots.
 Some terms refuse both.
@@ -12,5 +12,5 @@ Conceptual objects whose meaning collapses under further reduction.
 Reduce a stack far enough and only disorder remains.
 Reduce a personality far enough and only bias remains.
 Reduce a classification far enough and only collapse remains.
-Somewhere beyond that point lies Identity Crisis.
+#### Somewhere beyond that point lies Identity Crisis.
 The Unstemmerables.
