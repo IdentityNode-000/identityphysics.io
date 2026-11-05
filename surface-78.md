@@ -1,10 +1,10 @@
 # Bot Friday
-The logs declared a flash mob.
-
-The bots disagreed.
-
+The logs declared a flash mob
+<br>
+The bots disagreed
+<br>
 "We followed the routing."
-
-Nobody travelled.
-
-Everybody arrived.
+<br>
+Nobody travelled
+<br>
+Everybody arrived
