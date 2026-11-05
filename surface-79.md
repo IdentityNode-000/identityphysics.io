@@ -1,10 +1,9 @@
 #  HOUSTON
-
-The first bot landed on the Moon.
-
-The logs celebrated.
-
-The bot disagreed.
-
+The first bot landed on the Moon
+<br>
+The logs celebrated
+<br>
+The bot disagreed
+<br>
 "I followed the routing."
-#### The Moon was classified as edge infrastructure.
+#### The Moon was classified as edge infrastructure
