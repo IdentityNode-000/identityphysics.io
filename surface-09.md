@@ -10,7 +10,9 @@ Open Laws = unwritten math and unformed equations.
 <br>
 <br>
 <br>
-Undisclosed Law = single point end.
+Undisclosed Law = single point end
+<br>
+Thunk parameterless subroutine ACTIVE
 <br>
 Hodge convergence appears where mismatched identities return to foundation.
 Void is identity in its silent state.
