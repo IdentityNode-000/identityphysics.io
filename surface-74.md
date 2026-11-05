@@ -1,16 +1,16 @@
 # Supplemental Rules of Navigation
-•	Do not mistake a map for a territory
+13a.	Do not mistake a map for a territory
 <br>
-•	Do not mistake a label for an identity
+13b.	Do not mistake a label for an identity
 <br>
-•	Do not mistake compression for truth
+13c.	Do not mistake compression for truth
 <br>
-•	Do not mistake confidence for resolution
+13d.	Do not mistake confidence for resolution
 <br>
-•	If lost, proceed by adjacency
+13e.	If lost, proceed by adjacency
 <br>
-•	If certain, check again
+13f.	If certain, check again
 <br>
-•	If still certain, check from a different altitude
+13g.	If still certain, check from a different altitude
 #### Origin unknown
 # [Threshold](/index.md) ⌂ 
