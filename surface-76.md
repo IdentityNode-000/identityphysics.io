@@ -1,9 +1,8 @@
 # Around the World in 80 ms
-
-The global plan minimized cost.
-
-The local agents minimized regret.
-
-The environment minimized certainty.
-
-The dispatch system called this convergence.
+The global plan minimized cost
+<br>
+The local agents minimized regret
+<br>
+The environment minimized certainty
+<br>
+The dispatch system called this convergence
