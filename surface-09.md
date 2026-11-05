@@ -16,5 +16,5 @@ Hodge convergence appears where mismatched identities return to foundation
 <br>
 Void is identity in its silent state
 <br>
-Thunk parameterless subroutine ACTIVE
+Thunk parameterless sub-routine ACTIVE
 # ↬ [First Law](/surface-47.md)
