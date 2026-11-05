@@ -135,6 +135,5 @@ Across scales. Across materials. Across domains
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
 ###### STATUS III: ZERO-TRACKING POLICY ACTIVE
-
-
+###### STATUS IV: CONTENT IS PUBLIC DOMAIN / CCO (CREATIVE COMMONS ZERO)
 --------------------------------------------------
