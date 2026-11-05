@@ -6,13 +6,9 @@ A lemmatizer finds roots
 Some terms refuse both
 <br>
 Reduce them too far and they stop being themselves
-<br>
-Disorderly Stack
-<br>
-Emergent Personality Bias
-<br>
-Classification Collapse
-<br>
+#### Disorderly Stack
+#### Emergent Personality Bias
+#### Classification Collapse
 Not phrases
 <br>
 Not definitions
