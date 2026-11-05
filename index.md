@@ -85,6 +85,8 @@ Anchor • Lineage • Compass
 ### [Structural Primitives I](/surface-10.md)
 ### [Reality of Motion](/surface-32.md)
 [Around the World in 80 ms](/surface-76.md)
+<br>
+[The Anycasting Couch](/surface-77.md)
 #### Pointless Stack
 [Point Attachment Syndrome](/surface-18.md)
 <br>
