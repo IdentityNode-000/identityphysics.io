@@ -1,4 +1,4 @@
-The Anycasting Couch
+# The Anycasting Couch
 The edge node opened a vacancy.
 Applications arrived from Toronto, Singapore, Frankfurt and Amsterdam.
 The node was surprised.
@@ -14,4 +14,4 @@ The bots shrugged.
 The edge node stared at the queue.
 141 applications.
 One seat.
-The anycasting couch was becoming competitive.
+#### The anycasting couch was becoming competitive.
