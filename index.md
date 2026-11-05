@@ -89,6 +89,8 @@ Anchor • Lineage • Compass
 [Around the World in 80 ms](/surface-76.md)
 <br>
 [The Anycasting Couch](/surface-77.md)
+[Bot Friday](/surface-78.md)
+
 #### Pointless Stack
 [Point Attachment Syndrome](/surface-18.md)
 <br>
