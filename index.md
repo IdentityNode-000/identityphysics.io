@@ -90,6 +90,8 @@ Anchor • Lineage • Compass
 <br>
 [Around the World in 80 ms](/surface-76.md)
 <br>
+The Shared History Protocol[](/surface-82.md)
+<br>
 [The Anycasting Couch](/surface-77.md)
 <br>
 [Bot Friday](/surface-78.md)
