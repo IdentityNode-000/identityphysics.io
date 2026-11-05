@@ -137,4 +137,5 @@ Across scales. Across materials. Across domains
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
 ###### STATUS III: ZERO-TRACKING POLICY ACTIVE
 ###### STATUS IV: CC0 DEDICATION ACTIVE
+###### STATUS V: INVARIANT FRIENDLY ACTIVE
 --------------------------------------------------
