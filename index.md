@@ -79,6 +79,8 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Good Bot, Bad Bot](/surface-66.md)
 <br>
+[Firebotting](/surface-83.md)
+<br>
 <br>
 Anchor • Lineage • Compass
 <br>
