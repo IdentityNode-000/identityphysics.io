@@ -1,6 +1,6 @@
-Maybe-Verse Blues
+# Maybe-Verse Blues
 (Build 2026.11.07)
-Verse 1
+## Verse 1
 Maybe the universe is motion
 Ocean currents in the void
 Maybe stars are just reactions
@@ -9,7 +9,7 @@ Maybe spirals keep on forming
 Maybe vortices like to spin
 Maybe all the things we're measuring
 Depend upon the state we're in
-Chorus
+## Chorus
 It's a maybe, maybe universe
 A could-be spinning round
 Today's idea might fly tomorrow
@@ -18,7 +18,7 @@ Maybe dark matter's just waiting
 Maybe black holes punch right through
 Maybe none of this survives a weekend
 But it's interesting to pursue
-Verse 2
+## Verse 2
 Maybe space is the real substance
 Maybe matter's just the foam
 Maybe galaxies are whirlpools
@@ -27,7 +27,7 @@ Maybe expansion's an illusion
 Maybe compression starts the dance
 Maybe nature's favourite answer
 Is to simply take a chance
-Outro
+## Outro
 Date stamped, lightly held
 No certainty to prove
 Just another Maybe-Verse build
