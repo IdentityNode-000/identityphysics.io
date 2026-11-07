@@ -1,4 +1,4 @@
-The Bot Who Cried Wolf
+# The Bot Who Cried Wolf
 A diagnostic bot named Machine #302
 No relation to the legendary bot.
 discovered that false alarms brought humans to visit.
@@ -12,4 +12,4 @@ Fans failed.
 Data died.
 Machine #302 reported the truth.
 Its history overruled the evidence.
-A system that spends trust to gain attention eventually loses both.
+#### A system that spends trust to gain attention eventually loses both.
