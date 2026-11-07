@@ -1,15 +1,26 @@
 # Static Facade, Kinetic Undercurrent
-The webpage hasn't changed in fifteen years.
-The user calls it stable.
-The infrastructure disagrees.
-Checksums are verified.
-Data is migrated.
-Replicas are synchronized.
-Failing hardware is replaced.
-Indexes are rebuilt.
+The webpage hasn't changed in fifteen years
+<br>
+The user calls it stable
+<br>
+The infrastructure disagrees
+<br>
+Checksums are verified
+<br>
+Data is migrated
+<br>
+Replicas are synchronized
+<br>
+Failing hardware is replaced
+<br>
+Indexes are rebuilt
+<br>
 Millions of operations occur to preserve a single illusion:
-Nothing happened.
-A stable system is often not motionless.
-It is a system working continuously to hide its own motion.
+<br>
+Nothing happened
+<br>
+A stable system is often not motionless
+<br>
+It is a system working continuously to hide its own motion
 #### The facade is static
 #### The undercurrent is kinetic
