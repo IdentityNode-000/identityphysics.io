@@ -130,6 +130,8 @@ Anchor • Lineage • Compass
 [Static Facade, Kinetic Undercurrent](/surface-86.md)
 <br>
 [The Extrapolated Substrate](/surface-87.md)
+<br>
+[Greenhouse](/surface-88.md)
 
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
