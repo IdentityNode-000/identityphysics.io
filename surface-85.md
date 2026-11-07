@@ -1,4 +1,4 @@
-The Spinning Ghost
+# The Spinning Ghost
 A fifteen-year-old file was requested.
 The storage system woke up.
 Disks spun.
@@ -12,5 +12,5 @@ In reality it is continuous resistance against forgetting.
 The ghost does not haunt the machine.
 The machine haunts the ghost by refusing to let it dissolve into noise.
 
-The Spinning Ghost is data refusing to die today.
-The Glass Ghost is data promising to live forever.
+#### The Spinning Ghost is data refusing to die today.
+#### The Glass Ghost is data promising to live forever.
