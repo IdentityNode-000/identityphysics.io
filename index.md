@@ -128,6 +128,8 @@ Anchor • Lineage • Compass
 [The Spinning Ghost](/surface-85.md)
 <br>
 [Static Facade, Kinetic Undercurrent](/surface-86.md)
+<br>
+[The Extrapolated Substrate](/surface-87.md)
 
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
