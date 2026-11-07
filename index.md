@@ -126,6 +126,7 @@ Anchor • Lineage • Compass
 ### ←[Torsion Drift Collapse](/surface-12.md)
 #### Ghost Stack
 [The Spinning Ghost](/surface-85.md)
+<br>
 [Static Facade, Kinetic Undercurrent](/surface-86.md)
 
 ## Layer II: Structures keep reappearing
