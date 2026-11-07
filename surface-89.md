@@ -1,15 +1,27 @@
 # SuperBot
-Once there was one.
-Then there were thousands.
-Then millions.
+Once there was one
+<br>
+Then there were thousands
+<br>
+Then millions
+<br>
 Now:
-"Faster than a speeding bullet.
-More powerful than a locomotive.
+<br>
+"Faster than a speeding bullet
+<br>
+More powerful than a locomotive
+<br>
 Able to leap the Earth's mantle in a single bound."
-It's a machine.
-It's a program.
-It's a process.
-No.
+<br>
+It's a machine
+<br>
+It's a program
+<br>
+It's a process
+<br>
+No
+<br>
 It's 55 million Superbots every second,
-searching, sorting, classifying, connecting, thinking.
+<br>
+searching, sorting, classifying, connecting, thinking
 #### And counting...
