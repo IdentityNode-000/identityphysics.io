@@ -90,6 +90,8 @@ Anchor • Lineage • Compass
 #### Re-Motion Stack
 [Reality of Motion](/surface-32.md)
 <br>
+[Superbot](/surface-89.md)
+<br>
 [Around the World in 80 ms](/surface-76.md)
 <br>
 [The Shared History Protocol](/surface-82.md)
