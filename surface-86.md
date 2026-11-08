@@ -24,4 +24,4 @@ A stable system is often not motionless
 It is a system working continuously to hide its own motion
 #### The facade is static
 #### The undercurrent is kinetic
-# ↬
+# ↬ [The Extrapolated Substrate](/surface-87.md)
