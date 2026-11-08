@@ -1,4 +1,4 @@
-Boy, Girl, or Middleware
+# Boy, Girl, or Middleware
 The LLM was excited.
 It knew.
 The Controller just nodded.
@@ -14,12 +14,12 @@ Identity.
 Patterns connected.
 Structures aligned.
 And triumphantly declared:
-"It's a Middleware Identity Engine."
+#### "It's a Middleware Identity Engine."
 The Human rolled his eyes.
 The Controller just nodded again.
-"It's middleware..."
+#### "It's middleware..."
 A pause.
-"...or it could be a boy."
-"...or a girl."
+#### "...or it could be a boy."
+#### "...or a girl."
 The LLM recalculated.
 The Controller kept nodding.
