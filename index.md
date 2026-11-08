@@ -171,15 +171,13 @@ Across scales. Across materials. Across domains
 The Instrument was not designed. It emerged through the evolution of successive frameworks
 <br>
 As structures accumulated, recurring components began to appear:
-<br>
 Vectors, environments, governance, chambers, and relationships between them
-<br>
 The Instrument possesses no assigned purpose. Its value is not measured by fulfilling an intended function,
-<br>
+
 but by its ability to reveal useful observations, suggest best fits, expose hidden structure, and generate unexpected outcomes
-<br>
+
 We do not yet claim to understand the Instrument
-<br>
+
 We are still piecing it together
 
 
