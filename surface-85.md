@@ -24,4 +24,4 @@ The ghost does not haunt the machine
 The machine haunts the ghost by refusing to let it dissolve into noise
 #### The Spinning Ghost is data refusing to die today.
 #### The Glass Ghost is data promising to live forever.
-# ↬ 
+# ↬ [Static Facade, Kinetic Undercurrent](/surface-86.md)
