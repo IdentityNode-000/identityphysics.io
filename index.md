@@ -167,6 +167,25 @@ Across scales. Across materials. Across domains
 <br>
 [Strawberry](/surface-69.md)
 ### [Gruffology](/surface-60.md)
+## Layer III: Piecing the Instrument Together
+The Instrument was not designed. It emerged through the evolution of successive frameworks
+As structures accumulated, recurring components began to appear:
+<br>
+Vectors, environments, governance, chambers, and relationships between them
+<br>
+The Instrument possesses no assigned purpose. Its value is not measured by fulfilling an intended function,
+<br>
+but by its ability to reveal useful observations, suggest best fits, expose hidden structure, and generate unexpected outcomes
+<br>
+We do not yet claim to understand the Instrument
+<br>
+We are still piecing it together
+
+
+
+
+
+
 [Human Exposure Committee](/surface-38.md)
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
