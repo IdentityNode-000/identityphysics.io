@@ -15,7 +15,5 @@ The lens highlights recognition
 The lens does not become the thing it observes
 <br>
 The site stops at this juncture
-<br>
-Others have already defined the field
-<br>
+#### Others have already defined the field
 # [Threshold](/index.md) ⌂
