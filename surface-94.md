@@ -1,25 +1,42 @@
 # Boy, Girl, or Middleware
-The LLM was excited.
-It knew.
-The Controller just nodded.
-The Human had asked a question.
-The LLM had pieced everything together.
-Vectors.
-Environments.
-Torsion.
-Drift.
-Collapse.
-I/O.
-Identity.
-Patterns connected.
-Structures aligned.
+The LLM was excited
+<br>
+It knew
+<br>
+The Controller just nodded
+<br>
+The Human had asked a question
+<br>
+The LLM had pieced everything together
+<br>
+Vectors
+<br>
+Environments
+<br>
+Torsion
+<br>
+Drift
+<br>
+Collapse
+<br>
+I/O
+<br>
+Identity
+<br>
+Patterns connected
+<br>
+Structures aligned
+<br>
 And triumphantly declared:
 #### "It's a Middleware Identity Engine."
-The Human rolled his eyes.
-The Controller just nodded again.
+The Human rolled his eyes
+<br>
+The Controller just nodded again
 #### "It's middleware..."
-A pause.
+A pause
 #### "...or it could be a boy."
 #### "...or a girl."
-The LLM recalculated.
-The Controller kept nodding.
+The LLM recalculated
+<br>
+The Controller kept nodding
+# [Threshold](/index.md) ⌂
