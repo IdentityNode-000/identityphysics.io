@@ -172,6 +172,7 @@ The Instrument was not designed. It emerged through the evolution of successive 
 <br>
 As structures accumulated, recurring components began to appear:
 Vectors, environments, governance, chambers, and relationships between them
+
 The Instrument possesses no assigned purpose. Its value is not measured by fulfilling an intended function,
 
 but by its ability to reveal useful observations, suggest best fits, expose hidden structure, and generate unexpected outcomes
@@ -179,12 +180,11 @@ but by its ability to reveal useful observations, suggest best fits, expose hidd
 We do not yet claim to understand the Instrument
 
 We are still piecing it together
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 [Human Exposure Committee](/surface-38.md)
 ###### STATUS I: APPEND-ONLY POLICY ACTIVE
 ###### STATUS II: PARSE-REPEAT POLICY ACTIVE
