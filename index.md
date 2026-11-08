@@ -169,6 +169,7 @@ Across scales. Across materials. Across domains
 ### [Gruffology](/surface-60.md)
 ## Layer III: Piecing the Instrument Together
 The Instrument was not designed. It emerged through the evolution of successive frameworks
+<br>
 As structures accumulated, recurring components began to appear:
 <br>
 Vectors, environments, governance, chambers, and relationships between them
