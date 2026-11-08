@@ -1,3 +1,5 @@
-Formal Methods
-This project is not related to Lean 4.
-No proofs were harmed during the construction of this repository.
+# Formal Methods
+This project is not related to Lean 4
+
+No proofs were harmed during the construction of this repository
+# [Threshold](/index.md) ⌂
