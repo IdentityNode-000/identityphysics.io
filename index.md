@@ -66,6 +66,8 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Over Claiming Disorder](/surface-20.md)
 <br>
+[The Bot Who Cried Wolf](/surface-90.md)
+
 ←[One Lens Too Many](/surface-63.md)
 ### [Compressed io‑chain invariant](/surface-06.md)
 #### Disorderly Stack
