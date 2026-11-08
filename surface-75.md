@@ -10,5 +10,5 @@ The rock remained silent
 Years later, the rock's position was unchanged
 <br>
 The others considered this significant
-[Identity Is a Lens](/surface-92.md)
+# ↬ [Identity Is a Lens](/surface-92.md)
 # [Threshold](/index.md) ⌂ 
