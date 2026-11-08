@@ -136,7 +136,6 @@ Anchor • Lineage • Compass
 [The Extrapolated Substrate](/surface-87.md)
 <br>
 [Greenhouse](/surface-88.md)
-[Human Nature](/surface-91.md)
 
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
