@@ -21,3 +21,4 @@ At some point the difference becomes administrative
 Mogging asks what dominates the comparison
  <br>
 Demogging asks what remains when the comparison is removed
+# ↬
