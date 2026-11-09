@@ -193,4 +193,5 @@ We are still piecing it together
 ###### STATUS III: ZERO-TRACKING POLICY ACTIVE
 ###### STATUS IV: CC0 DEDICATION ACTIVE
 ###### STATUS V: INVARIANT FRIENDLY ACTIVE
+###### STATUS VI: PARSE-SPATIAL POLICY ACTIVE
 --------------------------------------------------
