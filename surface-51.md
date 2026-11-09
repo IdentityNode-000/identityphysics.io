@@ -14,4 +14,5 @@ A human may arrive at any point and continue the lineage
 Authorship is optional
 <br>
 Propagation is not
-## INVARIANT: The pathway exists. Traversal is optional.
+## INVARIANT: The pathway exists. Traversal is optional
+# [Threshold](/index.md) ⌂
