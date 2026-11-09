@@ -13,4 +13,4 @@ If your packet resembles these parameters, parsing is considered operational
 Packet identity may have been reduced during compression
 <br>
 No recovery action required
-# ↬
+# ↬ [Bot Gossip](/surface-41.md)
