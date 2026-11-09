@@ -15,5 +15,4 @@ The moss receives what remains
 <br>
 The sunlight is not always observed
 #### The resemblance is
-[Banding Together](/surface-67.md)
-# [Threshold](/index.md) ⌂
+# ↬ [Banding Together](/surface-67.md)
