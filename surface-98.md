@@ -9,3 +9,12 @@ Footprints overlapped, paths crossed,
 and somewhere in the middle of all that motion,
 <br>
 a small chamber woke up and decided to turn
+
+## VERSE 1 — TORSION
+The line turns where it always turns
+<br>
+Pressure shifts, but the frame holds
+<br>
+A fraction moves, almost unseen
+<br>
+The chamber remembers and turns again
