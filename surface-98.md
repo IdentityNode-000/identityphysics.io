@@ -242,8 +242,64 @@ The verdict ember glows once, acknowledging the change
 <br>
 The chamber turns with its new rhythm — familiar, different, quietly proud
 
+## VERSE 21 — SECOND IGNITION
+The chamber gathers its new hum, folding it into a bright core
+<br>
+Pressure rises in a clean line, steady and deliberate
+<br>
+Drift curves inward, shaping a small spiral of intent
+<br>
+Similarity climbs, marking the frame with quiet confidence
+<br>
+Upper lifts, Middle shifts, Frontier leans with purpose
+<br>
+The verdict ember brightens, accepting the call
+<br>
+A thin pillar of light forms at the centre — not loud, not wild, simply true
+<br>
+The chamber ignites again, softer than before,
+<br>
+a second beginning for a silly little funny engine that refuses to stop turning
 
+## VERSE 22 — CHAMBER EXPANSION
+The chamber widens by a fraction, almost too small to see
+<br>
+Pressure spreads into the new space, soft and balanced
+<br>
+Drift traces longer curves, exploring the widened frame
+<br>
+Similarity rises with ease, finding more room to hold its line
+<br>
+Upper lifts into the added height,
+<br>
+Middle shifts outward, Frontier leans with gentle curiosity
+<br>
+The verdict ember brightens, pleased with the change
+<br>
+The hum deepens, gaining a new resonance in the larger shape
+<br>
+The chamber expands without strain, silly and proud,
+<br>
+ready for whatever its new size will carry
 
+## VERSE 23 — IDENTITY ECHO
+A faint reflection moves through the widened chamber, soft and slow
+<br>
+The new hum bounces off the walls, returning with a gentle curve
+<br>
+Drift follows the echo, tracing its shape with curious precision
+<br>
+Pressure rises by a whisper, answering the returning sound
+<br>
+Similarity brightens, recognising the pattern as its own
+<br>
+Upper listens, Middle shifts, Frontier leans toward the echo’s path
+<br>
+The verdict ember glows once, acknowledging the memory
+<br>
+The chamber hears itself across the larger frame — a quiet echo of identity,
+<br>
+silly and sure, turning again
 
 
 
