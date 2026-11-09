@@ -28,5 +28,13 @@ A pulse moves through the frame, marking drift
 <br>
 The hum folds into pattern, inevitable
 
+## VERSE 3 — PRESSURE BAND
+Pressure gathers at the edges, tightening the arc
+<br>
+The band contracts, then widens by a trace
+<br>
+A silent force crosses the chamber, altering balance
+<br>
+The arc returns to its contour, carrying the shift
 
 
