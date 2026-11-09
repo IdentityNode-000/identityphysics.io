@@ -56,8 +56,6 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Open Laws](/surface-09.md)
 <br>
-[Formal Methods](/surface-93.md)
-<br>
 [Lost Property](/surface-28.md)
 <br>
 [Identity Junction](/surface-33.md)
