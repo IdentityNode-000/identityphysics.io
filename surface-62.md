@@ -11,4 +11,4 @@ Biochemistry points to proteins such as ovomucin
 If source and payload are identical, what preserves distinction?
 <br>
 Perhaps distinction survives similarity
-# ↬
+# ↬ [Strawberry](/surface-69.md)
