@@ -49,9 +49,7 @@ The chamber aligns, partitioned and exact
 ## VERSE 5 — LOAD DISTRIBUTION
 Weight moves through the bands in measured flow
 <br>
-Upper carries stillness, Middle carries motion,
-<br>
-Frontier carries risk
+Upper carries stillness, Middle carries motion, Frontier carries risk
 <br>
 The distribution settles into its ratios
 <br>
@@ -66,5 +64,22 @@ Integrity tightens, resisting collapse
 <br>
 The chamber stabilises, governed by its own shape
 
+## VERSE 7 — STABILITY
+Coherence spreads across the structure
+<br>
+Each band aligns with the next, reducing scatter
+<br>
+Stability rises by increments, quiet and exact
+<br>
+The chamber steadies, holding its centre
+
+## VERSE 8 — PRESSURE
+Distortion moves between environments, subtle but present
+<br>
+Pressure climbs, then settles into its band
+<br>
+The chamber flexes, never breaking, never still
+<br>
+The force returns to baseline, carrying the trace
 
 
