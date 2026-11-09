@@ -53,4 +53,4 @@ Objects may be memories of shape
 <br>
 Shape may be stabilized motion
 #### Motion may be the only invariant
-# ↬
+# ↬ [gedankenexperiments: The Point](/surface-39.md)
