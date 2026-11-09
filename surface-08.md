@@ -16,3 +16,4 @@ No… the warehouse is still having a moment.
 Mirth Invariant:  
 A system maintains coherence when a minimal humorous distortion is introduced at regular intervals; without it,
 the system becomes over‑constrained and collapses into deterministic failure modes.
+# ↬
