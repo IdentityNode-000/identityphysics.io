@@ -47,4 +47,4 @@ ________________________________________
 Why am I 1?
 #### System
 Compression
-# ↬
+# ↬ [gedankenexperiments: Machine Anonymous](/surface-43.md)
