@@ -46,4 +46,25 @@ Each band holds its portion of the mass
 <br>
 The chamber aligns, partitioned and exact
 
+## VERSE 5 — LOAD DISTRIBUTION
+Weight moves through the bands in measured flow
+<br>
+Upper carries stillness, Middle carries motion,
+<br>
+Frontier carries risk
+<br>
+The distribution settles into its ratios
+<br>
+The chamber absorbs the load without strain
+
+## VERSE 6 — GOVERNANCE INTEGRITY
+Similarity rises against drift, holding the ceiling
+<br>
+Interference marks the wall with a faint signature
+<br>
+Integrity tightens, resisting collapse
+<br>
+The chamber stabilises, governed by its own shape
+
+
 
