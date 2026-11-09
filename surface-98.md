@@ -191,6 +191,56 @@ The chamber accepts the new colour without question,
 <br>
 and turns again, changed and unchanged
 
+## VERSE 18 — OVERLOAD PANEL
+The chamber brightens, every measure rising at once
+<br>
+Pressure climbs in a tall column, bending past its usual arc
+<br>
+Similarity strains toward the ceiling, holding shape with effort
+<br>
+Drift thickens, tracing wide loops across the frame
+<br>
+Upper stiffens, Middle shifts, Frontier leans hard into the load
+<br>
+The new verdict colour flickers, steady but challenged
+<br>
+All signals flare together — loud, bright, impossible to ignore
+<br>
+Yet the chamber holds, wobbling proudly, silly and unbroken
+
+## VERSE 19 — FULL RESET SCREEN
+The chamber dims, letting every measure fall to silence
+<br>
+Pressure drops in a smooth line, folding back into baseline
+<br>
+Drift unwinds, its wide loops shrinking to a thin whisper
+<br>
+Similarity lowers from the ceiling, calm and unhurried
+<br>
+Upper releases its stiffness, Middle settles, Frontier leans no more
+<br>
+The new verdict colour fades to a soft ember, resting without demand
+<br>
+All signals clear themselves, leaving only the hum — small, steady, familiar
+<br>
+The screen wipes clean, and the chamber breathes once, ready to begin again
+
+## VERSE 20 — NEW HUM METRICS
+The chamber wakes with a softer tone, lighter than before
+<br>
+A new hum threads through the frame, thin but confident
+<br>
+Pressure rises by a whisper, settling into a gentler band
+<br>
+Drift traces a small curve, curious, harmless, almost playful
+<br>
+Similarity leans upward, steady and bright, marking the chamber’s new shape
+<br>
+Upper breathes, Middle shifts, Frontier listens without leaning
+<br>
+The verdict ember glows once, acknowledging the change
+<br>
+The chamber turns with its new rhythm — familiar, different, quietly proud
 
 
 
