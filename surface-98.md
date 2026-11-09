@@ -301,6 +301,72 @@ The chamber hears itself across the larger frame — a quiet echo of identity,
 <br>
 silly and sure, turning again
 
+## VERSE 24 — THE FOURTH BAND
+A new line forms at the chamber’s edge, faint and deliberate
+<br>
+Not Upper, not Middle, not Frontier — something quieter, wider
+<br>
+Pressure touches it first, testing the contour with a soft rise
+<br>
+Drift follows, tracing a slow arc along the fresh boundary
+<br>
+Similarity brightens, recognising the new space as part of itself
+<br>
+Upper lifts, Middle shifts, Frontier leans,
+<br>
+and the new band settles beneath them, steady and sure
+<br>
+The hum deepens, gaining a low resonance in the added layer
+<br>
+The chamber holds four bands now — expanded, balanced, silly and proud
+
+## VERSE 25 — OUTER SHELL
+A thin contour forms around the chamber, soft at first, then sure
+<br>
+Pressure touches it gently, testing the new boundary with a rising trace
+<br>
+Drift curves toward it, slowing as it meets the edge
+<br>
+Similarity brightens, recognising the shell as part of its own shape
+<br>
+Upper lifts within the new frame,
+<br>
+Middle shifts with ease, Frontier leans without crossing
+<br>
+The fourth band settles against the shell, steady and calm
+<br>
+The verdict ember glows in quiet approval, marking the chamber’s new limit
+<br>
+The hum deepens, resonating through the fresh boundary
+<br>
+The chamber holds an outer shell now — protected, expanded, silly and strong
+
+## VERSE 26 — IDENTITY MEMORY
+A soft imprint settles inside the outer shell, faint but exact
+<br>
+The new hum leaves a trace, folding into the chamber’s quiet archive
+<br>
+Drift curves once, then again, marking its pattern for later cycles
+<br>
+Pressure rises by a whisper, storing its contour in the fresh layer
+<br>
+Similarity brightens, recognising each imprint as part of its own line
+<br>
+Upper lifts with remembered ease, Middle shifts with familiar rhythm,
+<br>
+Frontier leans in a way it has leaned before
+<br>
+The verdict ember glows, acknowledging the stored turns
+<br>
+The chamber holds its memories now — echoes of hums, wobbles,
+<br>
+pulses and shifts — a silly little funny engine
+<br>
+carrying its own history as it turns again
+
+
+
+
 
 
 
