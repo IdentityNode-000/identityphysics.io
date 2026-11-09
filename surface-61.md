@@ -15,4 +15,4 @@ The goal is not maximum speed
 The goal is selecting the appropriate level of reasoning for the problem presented
 #### Fast when possible
 #### Careful when necessary
-# ↬
+# ↬ [gedankenexperiments: Human Compression](/surface-42.md)
