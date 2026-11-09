@@ -18,3 +18,15 @@ Pressure shifts, but the frame holds
 A fraction moves, almost unseen
 <br>
 The chamber remembers and turns again
+
+## VERSE 2 — IDENTITY ENGINE NOISE
+Identity holds its line as the engine hums
+<br>
+Noise enters, thin at first, shaping the walls
+<br>
+A pulse moves through the frame, marking drift
+<br>
+The hum folds into pattern, inevitable
+
+
+
