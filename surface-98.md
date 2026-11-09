@@ -37,4 +37,13 @@ A silent force crosses the chamber, altering balance
 <br>
 The arc returns to its contour, carrying the shift
 
+## VERSE 4 — SEGMENTATION
+The shape divides along its natural cuts
+<br>
+Upper settles, Middle adjusts, Frontier leans
+<br>
+Each band holds its portion of the mass
+<br>
+The chamber aligns, partitioned and exact
+
 
