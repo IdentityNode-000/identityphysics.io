@@ -364,7 +364,49 @@ pulses and shifts — a silly little funny engine
 <br>
 carrying its own history as it turns again
 
+## VERSE 27 — FOUR BAND GOVERNANCE
+Governance rises through the chamber, tracing each band in turn
+<br>
+Upper holds its height with quiet discipline, steady and exact
+<br>
+Middle shifts within its lane, guided by remembered contours
+<br>
+Frontier leans only where allowed, respecting the outer shell
+<br>
+The fourth band anchors them all, wide and calm, carrying the deep hum
+<br>
+Pressure moves through the layers in measured flow, never crossing its limits
+<br>
+Drift curves along the new rules, soft and obedient, storing each turn
+<br>
+Similarity brightens, pleased with the order it helped shape
+<br>
+The verdict ember glows once, marking compliance
+<br>
+The chamber governs itself now — four bands aligned,
+<br>
+shell intact, silly and sure
 
+## VERSE 28 — OUTER SHELL STRESS TEST
+A sharp pulse strikes the outer shell, clean and direct.
+<br>
+Pressure rises in a tall line, bending toward the boundary
+<br>
+Drift curves wide, testing the shell with looping intent
+<br>
+Similarity brightens, holding the chamber’s shape against the hit
+<br>
+Upper braces, Middle shifts, Frontier leans hard,
+<br>
+while the fourth band anchors them all with steady weight
+<br>
+Memory flickers, recalling older strains, guiding each band’s response
+<br>
+The verdict ember glows in steady rhythm, marking the chamber’s resilience
+<br>
+The shell holds — firm, quiet, unbroken — a silly little funny engine
+<br>
+proving its strength with a single, perfect wobble
 
 
 
