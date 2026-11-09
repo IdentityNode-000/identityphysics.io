@@ -67,4 +67,4 @@ The report was closed
 Subject appears larger than the description
 <br>
 #### The note was marked continue compression
-# ↬
+# ↬ [gedankenexperiments: The Ouroboros Disposal Unit](/surface-68.md)
