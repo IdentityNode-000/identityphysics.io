@@ -120,4 +120,4 @@ The warehouse remains operational
 <br>
 No final disposal pathway located
 #### Thought experiments may aid discovery. Beyond a certain point, reality must submit its own evidence
-# ↬
+# ↬ [Machine Packet Checklist](/surface-40.md)
