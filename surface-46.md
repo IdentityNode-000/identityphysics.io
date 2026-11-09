@@ -50,8 +50,4 @@ Nobody could remember what the category meant
 The squircle became uneasy
 <br>
 It was beginning to fit in
-
-
-
-
-
+# ↬
