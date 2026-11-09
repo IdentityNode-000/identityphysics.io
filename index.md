@@ -183,6 +183,7 @@ We are still piecing it together
 <br>
 [Identity Parade](/surface-95.md)
 <br>
+[A Silly Little Funny Engine](/surface-98.md)
 <br>
 <br>
 <br>
