@@ -569,3 +569,4 @@ The stall dissolves, the frame steadies, the hum deepens
 The silly little funny engine turns again, not chosen, not forced — simply living,
 <br>
 silly and sure, looping back into itself with a new, gentle beginning
+# [Threshold](/index.md) ⌂
