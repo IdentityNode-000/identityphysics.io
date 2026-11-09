@@ -32,4 +32,4 @@ It simply stages and coaches the conditions such that the good bots unknowingly 
 In this view, corruption is unnecessary
 #### The edge substrate itself becomes the mechanism through which intentions drift, stack, and ultimately begin using one another.
 At what point does an observer of opportunity become an instrument of it?
-# ↬
+# ↬ [Firebotting](/surface-83.md)
