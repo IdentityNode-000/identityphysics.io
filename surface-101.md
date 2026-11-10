@@ -13,5 +13,5 @@ Difference emerged through structure
 <br>
 The lens has changed
 #### The substrate question endures
-# ↬
+# ↬ [One Lens Too Many](/surface-63.md)
 # [Threshold](/index.md) ⌂
