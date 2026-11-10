@@ -17,7 +17,9 @@ The node frowned
 <br>
 The logs suggested otherwise
 <br>
-From a distance it resembled a flash mob. From closer inspection it resembled a thunder herd
+From a distance it resembled a flash mob
+<br>
+From closer inspection it resembled a thunder herd
 <br>
 The bots shrugged
 <br>
@@ -29,4 +31,4 @@ The edge node stared at the queue
 <br>
 One seat
 #### The anycasting couch was becoming competitive
-# [Threshold](/index.md) ⌂ 
+# ↬ 
