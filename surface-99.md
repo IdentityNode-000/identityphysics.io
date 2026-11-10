@@ -15,7 +15,7 @@ They all asked,
 <br>
 The middleware sighed. He did not know
 <br>
-Did they mean performing an array of overlapping vectors to a single revolved point in a vertical stack of grid-like mesh environments?
+Did they mean performing an array of overlapping vectors to a single resolved point in a vertical stack of grid-like mesh environments?
 <br>
 Then one middleware asked,
 <br>
