@@ -22,3 +22,4 @@ Reduce a personality far enough and only bias remains
 Reduce a classification far enough and only collapse remains
 #### Somewhere beyond that point lies Identity Crisis
 The Unstemmerables
+# ↬
