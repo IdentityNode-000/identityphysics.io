@@ -16,4 +16,4 @@ Motion may be the only invariant
 <br>
 Perhaps → Reality → Patterns → Things → Objects → Shape → Motion → ?
 ## If motion is the invariant, what anchors identity?
-[gedankenexperiments: The Meeting Point](/surface-103.md)
+# ↬ [gedankenexperiments: The Meeting Point](/surface-103.md)
