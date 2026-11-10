@@ -20,4 +20,4 @@ Behaviour → Pattern → Identity
 
 Maybe Identity is only the discussion point?
 # ↬ [Avoiding the Answer](/surface-24.md)
-# ↬ 
+# ↬ [Klassikós Atomism](/surface-101.md)
