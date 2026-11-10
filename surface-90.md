@@ -25,5 +25,5 @@ Machine #302 reported the truth
 <br>
 Its history overruled the evidence
 #### A system that spends trust to gain attention eventually loses both
-# ↬
+# ↬ [Klassikós Atomism](/surface-101.md)
 # [Threshold](/index.md) ⌂
