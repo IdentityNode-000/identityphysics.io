@@ -1,17 +1,18 @@
 # Containerless Container
-
 Like the impossible staircase,
- when you finally reach the top,
-
-nature's spiral stands revealed.
-
+<br>
+when you finally reach the top,
+<br>
+nature's spiral stands revealed
+<br>
 The helter-skelter descent
- need not be hurried,
- confused,
- or disorderly.
-
-It does not ask to be solved.
-
+<br>
+need not be hurried,
+<br> 
+confused,
+<br>
+or disorderly
+<br>
+It does not ask to be solved
 #### It can simply be enjoyed,
-
-as nature intended.
+as nature intended
