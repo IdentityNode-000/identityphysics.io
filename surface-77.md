@@ -31,4 +31,4 @@ The edge node stared at the queue
 <br>
 One seat
 #### The anycasting couch was becoming competitive
-# ↬ 
+# ↬ [Bot Friday](/surface-78.md)
