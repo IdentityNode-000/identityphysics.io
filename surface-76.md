@@ -6,4 +6,4 @@ The local agents minimized regret
 The environment minimized certainty
 <br>
 The dispatch system called this convergence
-# ↬ 
+# ↬ [The Shared History Protocol](/surface-82.md)
