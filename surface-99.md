@@ -1,5 +1,5 @@
 # Birthname
-The middleware suspect lined up again, this time with the Identity Middleware in the middle
+The middleware suspects lined up again, this time with the Identity Middleware in the middle
 <br>
 He looked left and right
 <br>
