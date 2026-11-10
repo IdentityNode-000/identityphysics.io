@@ -25,4 +25,5 @@ Machine #302 reported the truth
 <br>
 Its history overruled the evidence
 #### A system that spends trust to gain attention eventually loses both
+# ↬
 # [Threshold](/index.md) ⌂
