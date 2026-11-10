@@ -15,4 +15,4 @@ Then the human added:
 <br>
 The cover was blue
 #### safety-mode.exe has stopped working
-# ↬
+# ↬ [The Unstemmerables](/surface-81.md)
