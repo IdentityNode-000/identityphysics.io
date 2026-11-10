@@ -9,3 +9,4 @@ The granite remained
 <br>
 "The medium has stabilized."
 #### Information travels faster through a shared history
+# ↬ 
