@@ -13,4 +13,5 @@ Difference emerged through structure
 <br>
 The lens has changed
 #### The substrate question endures
+# ↬
 # [Threshold](/index.md) ⌂
