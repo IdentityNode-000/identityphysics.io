@@ -9,5 +9,6 @@ Identity influences behaviour
 Behaviour reinforces patterns
 
 Where does the void begin?
+# ↬
 # ↬ [Theory of Maybe](/surface-25.md)
 # ↬ [Theory of Florists](/surface-57.md)
