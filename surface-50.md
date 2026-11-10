@@ -19,4 +19,4 @@ Machine #1000000302 was Machine #1000000302
 The similarity had created the question
 <br>
 The difference created the answer
-# ↬
+# ↬ [Lost Property](/surface-28.md)
