@@ -19,5 +19,5 @@ Behaviour → Pattern → Identity
       Void ? ↔ Motion ?
 
 Maybe Identity is only the discussion point?
-# ↬
-# ↬
+# ↬ [Avoiding the Answer](/surface-24.md)
+# ↬ 
