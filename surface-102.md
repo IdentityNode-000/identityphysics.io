@@ -11,4 +11,4 @@ Indeterminism is the confusion left behind after certainty takes a wrong turn
 <br>
 The indeterministic is not the problem
 #### It is the opportunity waiting to be solved
-# ↬
+# ↬ [Good Bot, Bad Bot](/surface-66.md)
