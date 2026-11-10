@@ -17,7 +17,7 @@ Machine Talk
 No...
 
 The system is just claiming the mountain before building the path
-# ↬
+# ↬ [The Bot Who Cried Wolf](/surface-90.md)
 # ↬ [Weight Control Office](/surface-34.md)
 # ↬ [Kernel Theory White Paper](/surface-01.md)     
 # ↬ [Runtime](/surface-03.md) [Determinism](/surface-03.md) [Purity](/surface-03.md)
