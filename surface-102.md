@@ -6,3 +6,4 @@ Or complete fantasy.
 Indeterminism is the confusion left behind after certainty takes a wrong turn
 #### The indeterministic is not the problem.
 It is the opportunity waiting to be solved
+# ↬
