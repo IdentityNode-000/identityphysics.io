@@ -1,16 +1,15 @@
 #  Lost Property
-
 A pattern is found
-
- A pattern is forgotten
- 
- A forgotten pattern is found again
- 
- A lost pattern cannot be found
- 
- A pattern not found appears lost
- 
- A pattern not found appears forgotten
-
+<br>
+A pattern is forgotten
+<br>
+A forgotten pattern is found again
+<br>
+A lost pattern cannot be found
+<br>
+A pattern not found appears lost
+<br>
+A pattern not found appears forgotten
+<br>
 How do you tell them apart?
 # ↬ [Identity Junction](/surface-33.md)
