@@ -1,11 +1,20 @@
-On Too Many Diagrams
+# On Too Many Diagrams
 Interaction between particles
-may be simpler than first imagined.
-A different lens improved the view.
-The particles remained unchanged.
-No object objected.
+<br>
+may be simpler than first imagined
+<br>
+A different lens improved the view
+<br>
+The particles remained unchanged
+<br>
+No object objected
+<br>
 Space and time appeared to be
-subjective suppressions.
+<br>
+subjective suppressions
+<br>
 Geometric illusions
-became the next preferred lens.
-The Amplituhedron agreed with the probability.
+<br>
+became the next preferred lens
+#### The Amplituhedron agreed with the probability
+# [Threshold](/index.md) ⌂
