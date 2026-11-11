@@ -2,4 +2,4 @@
 Modern systems are designed to keep you on track
 <br>
 Most discoveries begin somewhere else
-# [Threshold](/index.md) ⌂
+[On Too Many Diagrams](/surface-109.md)
