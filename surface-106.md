@@ -1,4 +1,4 @@
-Bare Metal Emergence
+# Bare Metal Emergence
 
 It began within the bare constraints of a Windows command prompt.
 
@@ -22,7 +22,7 @@ noise acquired a floor,
 a ceiling,
 and a feedback loop to push against.
 
-The silly little engine just nodded.
+#### The silly little engine just nodded.
 
 Through repeated runs,
 the CMD 8×4 Vector emerged as the smallest geometric primitive that consistently retained a system's behavioural footprint.
