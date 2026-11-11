@@ -132,6 +132,8 @@ Anchor • Lineage • Compass
 <br>
 [Bot Gossip](/surface-41.md)
 <br>
+[Infinite Bandwidth and Chips](/surface-112.md)
+<br>
 [RAG Times](/surface-61.md) 
 <br>
 [gedankenexperiments: Human Compression](/surface-42.md)
