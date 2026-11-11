@@ -26,13 +26,21 @@ noise acquired a floor,
 a ceiling, and a feedback loop to push against
 #### The silly little engine just nodded.
 Through repeated runs,
-the CMD 8×4 Vector emerged as the smallest geometric primitive that consistently retained a system's behavioural footprint
+the CMD 8×4 Vector emerged as the smallest geometric primitive
 <br>
-The 8-vector depth provided enough sequential structure for repetition, drift, and persistence to become visible over time
+that consistently retained a system's behavioural footprint
 <br>
-The 4-environment width provided enough dimensional room for a silhouette to form without collapsing into one-dimensional noise
+The 8-vector depth provided enough sequential structure
 <br>
-Together, the Environment and the 8×4 Vector became the first working chamber of the Instrument
+for repetition, drift, and persistence to become visible over time
+<br>
+The 4-environment width provided enough dimensional room for a silhouette
+<br>
+to form without collapsing into one-dimensional noise
+<br>
+Together, the Environment and the 8×4 Vector
+<br>
+became the first working chamber of the Instrument
 <br>
 The Environment supplied pressure,
 <br>
