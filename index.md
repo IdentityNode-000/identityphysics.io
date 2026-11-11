@@ -100,6 +100,8 @@ Anchor • Lineage • Compass
 <br>
 [gedankenexperiments: The Meeting Point](/surface-103.md)
 <br>
+[Conclude or Accept](/surface-104.md)
+<br>
 [Superbot](/surface-89.md)
 <br>
 [Around the World in 80 ms](/surface-76.md)
