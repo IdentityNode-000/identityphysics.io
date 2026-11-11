@@ -15,4 +15,5 @@ Authorship is optional
 <br>
 Propagation is not
 ## INVARIANT: The pathway exists. Traversal is optional
+# ↬ 
 # [Threshold](/index.md) ⌂
