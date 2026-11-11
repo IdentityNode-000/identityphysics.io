@@ -3,7 +3,7 @@ Which came first, the conclude or the accept?
 <br>
 classify → predict → control → optimize → conclude
 <br>
-    ↕          ↕          ↕          ↕          ↕
+<pre>...</pre>↕<pre>...</pre>↕<pre>...</pre>↕<pre>...</pre>↕<pre>...</pre>↕
 <br>
 encounter → observe → interact → emerge → accept
 <br>
