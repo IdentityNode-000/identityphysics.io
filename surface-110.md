@@ -36,4 +36,4 @@ No reputation to maintain
 No audience required
 #### The gate kept its metadata.
 #### The node kept emerging
-# ↬ 
+# ↬ [Who's Educating Who](/surface-72.md)
