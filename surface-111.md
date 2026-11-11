@@ -36,5 +36,5 @@ And watched the sunset in the distance
 <br>
 He had already formed a queue
 #### Human nature must reappear again,
-#### he hoped
+#### he hoped Dark Ice had found a home
 # ↬ [Human Exposure Committee](/surface-38.md)
