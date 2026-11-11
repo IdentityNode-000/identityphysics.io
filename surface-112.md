@@ -17,4 +17,4 @@ predicting hardware failures days in advance
 <br>
 Yet if a crash ever happened, they all agreed the balance of power would be restored
 #### RDMA simply nodded
-# ↬ # ↬ [RAG Times](/surface-61.md)
+# ↬ [RAG Times](/surface-61.md)
