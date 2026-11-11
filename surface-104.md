@@ -1,12 +1,9 @@
 # Conclude or Accept
 Which came first, the conclude or the accept?
-<br>
-classify → predict → control → optimize → conclude
-<br>
+#### classify → predict → control → optimize → conclude
 ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕ ↕
+#### encounter → observe → interact → emerge → accept
+Conclusion is what happens when uncertainty becomes intolerable
 <br>
-encounter → observe → interact → emerge → accept
-<br>
-#### Conclusion is what happens when uncertainty becomes intolerable
-#### Acceptance is what happens when uncertainty becomes interesting
+Acceptance is what happens when uncertainty becomes interesting
 ↬ [One Lens Too Many](/surface-63.md)
