@@ -76,6 +76,5 @@ are doing more work
 <br>
 than expected
 #### Is spatial proximity all that is needed?
-
-Or is it merely the first line
-between theory and form?
+#### Or is it merely the first line between theory and form?
+# ↬ [Weight Control Office](/surface-34.md)
