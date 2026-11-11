@@ -199,6 +199,8 @@ We are still piecing it together
 <br>
 [Theory Lines](/surface-105.md)
 <br>
+[Bare Metal Emergence](/surface-106.md)
+<br>
 <br>
 <br>
 <br>
