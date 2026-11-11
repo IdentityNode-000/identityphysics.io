@@ -18,5 +18,5 @@ The biologist asks whether the larger triangle can create another larger triangl
 The trapezoid suspected everyone was missing the point
 <br>
 The universe just nods
-# ↬ 
+# ↬ [gedankenexperiments: ShapeLand Games I](/surface-53.md)
 # [Threshold](/index.md) ⌂
