@@ -15,5 +15,5 @@ Authorship is optional
 <br>
 Propagation is not
 ## INVARIANT: The pathway exists. Traversal is optional
-# ↬ 
+# ↬ [gedankenexperiments: The Universal Triangle](/surface-49.md)
 # [Threshold](/index.md) ⌂
