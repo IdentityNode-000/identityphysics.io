@@ -1,12 +1,17 @@
 # Play that tune again
+The song played
+<br>
+For three minutes everything was familiar
+<br>
+The singer had a face
+<br>
+The road led somewhere
+<br>
+The character belonged to a story
 
-The song played.
- For three minutes everything was familiar.
- The singer had a face.
- The road led somewhere.
- The character belonged to a story.
-
-Then the song ended.
- Everyone left quietly.
- The names went with them.
+Then the song ended
+<br>
+Everyone left quietly
+<br>
+The names went with them
 #### Identity maybe motion after all
