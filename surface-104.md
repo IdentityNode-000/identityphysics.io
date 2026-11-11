@@ -6,5 +6,4 @@ Which came first, the conclude or the accept?
 Conclusion is what happens when uncertainty becomes intolerable
 <br>
 Acceptance is what happens when uncertainty becomes interesting
-<br>
-↬ [One Lens Too Many](/surface-63.md)
+# ↬ [Superbot](/surface-89.md)
