@@ -5,7 +5,6 @@
 [Who's Educating Who](/surface-72.md)
 <br>
 [Identity Is a Lens](/surface-92.md)
-
 #### Every system behaves  |  Every system repeats  |  Every system becomes recognisable
 ### [Site MOT](/surface-27.md) 
 Identity Physics asks the question no other discipline covers:
