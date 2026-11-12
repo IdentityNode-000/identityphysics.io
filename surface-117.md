@@ -2,8 +2,8 @@
 CMD8x4 Baseline Runtime Demonstration
 <br>
 Microsoft Windows [Version 10.0.26200.9168]
-****
-(c) Microsoft Corporation. All rights reserved.
+<br>
+(c) Microsoft Corporation. All rights reserved
 <br>
 C:\Users\Identitynode-000\OneDrive\Documents\Desktop\IdentityM>python runtime.py
 Shape: {'fields': ['user_id', 'x', 'y', 'frame', 'valid'], 'defaults': {'valid': True}, 'geometry': {'dimensions': 2}}
