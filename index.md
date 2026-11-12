@@ -234,9 +234,7 @@ The middleware smiled. He did know
 <br>
 Then he frowned. Did being called "middleware" introduce a label?
 <br>
-By allowing a suffix,
-<br>
-did it unwittingly classify gender?
+By allowing a suffix, did it unwittingly classify gender?
 <br>
 Was his nickname just another piece of metadata?
 <br>
