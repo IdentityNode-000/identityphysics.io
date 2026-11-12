@@ -1,5 +1,4 @@
-werdenexperiments:CMD8x4
-werdenexperiments:CMD15x5
+# werdenexperiments:CMD15x5
 CMD15x5 Upgrade Runtime Demonstration	
 Microsoft Windows [Version 10.0.26200.9168]
 (c) Microsoft Corporation. All rights reserved.
