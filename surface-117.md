@@ -6,6 +6,7 @@ Microsoft Windows [Version 10.0.26200.9168]
 (c) Microsoft Corporation. All rights reserved
 <br>
 C:\Users\Identitynode-000\OneDrive\Documents\Desktop\IdentityM>python runtime.py
+<br>
 Shape: {'fields': ['user_id', 'x', 'y', 'frame', 'valid'], 'defaults': {'valid': True}, 'geometry': {'dimensions': 2}}
 Identity frames: [{'identity': <Primitive dna={'user_id': 'alpha', 'x': 0, 'y': 0, 'frame': 1, 'valid': True} modifiers={} temporal={} system={}>, 'temporal': 'stable'}, {'identity': <Primitive dna={'user_id': 'beta', 'x': 5, 'y': 5, 'frame': 1, 'valid': True} modifiers={} temporal={} system={}>, 'temporal': 'stable'}, {'identity': <Primitive dna={'user_id': 'gamma', 'x': 10, 'y': 10, 'frame': 1, 'valid': True} modifiers={} temporal={'timestamp': None} system={}>, 'temporal': 'stable'}, {'identity': <Primitive dna={'user_id': 'delta', 'x': 20, 'y': 20, 'frame': 1, 'valid': True} modifiers={} temporal={} system={'channel': 'system'}>, 'temporal': 'stable'}]
 Constructed identities: [{'user_id': 'alpha', 'x': 0, 'y': 0, 'frame': 1, 'valid': True, 'geometry': {'dimensions': 2}}, {'user_id': 'beta', 'x': 5, 'y': 5, 'frame': 1, 'valid': True, 'geometry': {'dimensions': 2}}, {'user_id': 'gamma', 'x': 10, 'y': 10, 'frame': 1, 'valid': True, 'geometry': {'dimensions': 2}}, {'user_id': 'delta', 'x': 20, 'y': 20, 'frame': 1, 'valid': True, 'geometry': {'dimensions': 2}}]
