@@ -219,9 +219,6 @@ We are still piecing it together
 <br>
 [Meta Scalable Determinism](/surface-116.md)
 #### Instrumental Rote Proofs
-<br>
-<br>
-<br>
 [Permafrost Data Centre](/surface-111.md)
 <br>
 [Human Exposure Committee](/surface-38.md)
