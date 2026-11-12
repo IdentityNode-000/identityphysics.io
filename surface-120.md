@@ -1,8 +1,13 @@
 # werdenexperiments: GMD15x5x6
 GMD15x5 Governance Runtime Demo Stage4-6
+<br>
 Microsoft Windows [Version 10.0.26200.9168]
+<br>
 (c) Microsoft Corporation. All rights reserved.
+<br>
 C:\Users\Identitynode-000\OneDrive\Documents\Desktop\IdentityM>python cmd15x5.py
+<br>
+
 === CMD15x5 OUTPUT (SEALED) ===
 Identity ID:          test_identity_001
 Fingerprint:          2964.547181
