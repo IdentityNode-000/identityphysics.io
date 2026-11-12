@@ -10,4 +10,4 @@ Humans would require a lens to view them
 A dashboard appeared to be the most obvious candidate
 #### Whether that dashboard is user-created
 #### or IdentityM retrofitted remains undecided
-# ↬ 
+# ↬ [Meta Scalable Determinism](/surface-116.md)
