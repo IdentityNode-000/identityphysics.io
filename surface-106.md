@@ -54,5 +54,4 @@ and context
 There was no blueprint
 <br>
 No doctrine
-[Scalable Determinism](/surface-114.md)
-# [Threshold](/index.md) ⌂
+# ↬ [Scalable Determinism](/surface-114.md)
