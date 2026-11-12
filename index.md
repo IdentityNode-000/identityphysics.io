@@ -213,6 +213,8 @@ We are still piecing it together
 <br>
 [Bare Metal Emergence](/surface-106.md)
 <br>
+[Scalable Determinism](/surface-114.md)
+<br>
 <br>
 <br>
 <br>
