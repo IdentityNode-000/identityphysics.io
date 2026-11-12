@@ -217,6 +217,8 @@ We are still piecing it together
 <br>
 [Governance 12345678 Yes / No](/surface-115.md)
 <br>
+[Meta Scalable Determinism](/surface-116.md)
+<br>
 <br>
 <br>
 <br>
