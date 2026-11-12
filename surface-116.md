@@ -3,4 +3,4 @@
 The Instrument has not yet discovered whether the boundary scales,
 <br>
 only that the question remains open
-# ↬ 
+# [Threshold](/index.md) ⌂
