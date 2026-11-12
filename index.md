@@ -241,7 +241,7 @@ did it unwittingly classify gender?
 Was his nickname just another piece of metadata?
 <br>
 He concluded that becoming Identity was not straightforward
-#### Middleware  |  CMD8x4  |  CMD15x5  |  GMD15x5+3  | GMD15x5+6  |  GMD15x5+9   |  Nickname   
+#### Middleware  |  CMD8x4  |  CMD15x5  |  GMD15x5x3  | GMD15x5x6  |  GMD15x5x9   |  Nickname   
 [I] compressed [O]… IdentityM
 <br>
 <br>
