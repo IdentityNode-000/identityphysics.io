@@ -51,5 +51,6 @@ Observe.
 <br>
 <br>
 Observed Law 01 — [Intentionally Unobserved]
+
 # ↬ [Ground Bot Day](/surface-123.md)
 # ↬ [The canonical model is being shaped now](/surface-07.md)
