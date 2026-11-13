@@ -241,7 +241,13 @@ Was his nickname just another piece of metadata?
 He concluded that becoming Identity was not straightforward
 #### [I] Middleware  |  Gender  |  CMD8x4  |  CMD15x5  |  GMD15x5x3  | GMD15x5x6  |  GMD15x5x9   |  Nickname  [O]… Identity?
 #### [I] compressed [O]… IdentityM
+He had only run a few hundred lines of Python
 <br>
+The returned packet was tiny
+<br>
+He wondered what would have returned
+<br>
+Had he run a million
 <br>
 <br>
 <br>
