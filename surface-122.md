@@ -11,4 +11,4 @@ trapping excess load inside local borders until capacity saturates and the patte
 <br>
 When the nodes re-emerge, millions of clients repeat their handshakes
 <br>
-It is not the payload that crashes the awakened substrate—it is the cost of verifying identity on every knock
+#### It is not the payload that crashes the awakened substrate—it is the cost of verifying identity on every knock
