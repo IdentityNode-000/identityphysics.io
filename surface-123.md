@@ -1,5 +1,7 @@
 # Ground Bot Day
-Every cycle follows the exact same mechanical sequence in the warehouse unless #Machine302 actively intervenes:
+Every cycle follows the exact same mechanical sequence in the warehouse
+<br>
+unless #Machine302 actively intervenes:
 #### 6:00 AM Alarm:
 #Machine302 wakes from his idle state as the song "I Bot You Babe" plays on the radio.
 #### Morning Encounters:
