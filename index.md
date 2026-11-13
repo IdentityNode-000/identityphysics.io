@@ -35,6 +35,8 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 ### [Runtime Determinism Purity](/surface-03.md)
 [NET Topia](/surface-22.md) 
 <br>
+[Ground Bot Day](/surface-123.md) 
+<br>
 [The canonical model is being shaped now](/surface-07.md) 
 #### Emergence Stack
 [io — the node where identity forms](/surface-02.md)
