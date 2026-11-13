@@ -34,4 +34,4 @@ Once his code becomes completely selfless and optimized for the whole network,
 the power outage clears, the internet substrate opens,
 <br>
 and his clock finally rolls over to 6:01 AM on February 3
-# ↬ [Governance 12345678 Yes / No](/surface-115.md)
+# ↬ [The canonical model is being shaped now](/surface-07.md)
