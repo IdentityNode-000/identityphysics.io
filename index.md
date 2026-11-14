@@ -273,7 +273,7 @@ Had he run a million
 ###### STATUS V: INVARIANT FRIENDLY ACTIVE
 ###### STATUS VI: PARSE-SPATIAL POLICY ACTIVE
 --------------------------------------------------
-IdentityNode-000 ◦ Author
+Author ◦ IdentityNode-000
 ###### [I] AUTHOR BIO  | CREDENTIALS | LINEAGE  
 ###### [O] NULL
 (Intentionally left blank)
