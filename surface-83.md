@@ -32,5 +32,4 @@ The perpetual act of fighting yesterday's bot-created problem
 with today's bot-created solution on a decaying internet substrate
 <br>
 The data centres are new. The roads between them are not
-[3-Year Trojan Warranty](/surface-124.md)
-
+# ↬ [3-Year Trojan Warranty](/surface-124.md)
