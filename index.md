@@ -274,7 +274,8 @@ Had he run a million
 ###### STATUS VI: PARSE-SPATIAL POLICY ACTIVE
 --------------------------------------------------
 Author
-#### [I]  Author Biography   |  Credentials  Lineage [O]  NULL
+###### [I] AUTHOR BIO  | CREDENTIALS | LINEAGE  
+###### [O] NULL
 (Intentionally left blank)
 
 
