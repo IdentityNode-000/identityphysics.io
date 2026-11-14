@@ -6,9 +6,7 @@ Few outlive the people who know how to read it
 Beneath sleek dashboards and modern telemetry,
 <br>
 parts of the world still depend on machines that never received the memo
-<br>
-JOVIAL
-<br>
+#### JOVIAL
 Raw assembly
 <br>
 Programs compiled before their operators were born
