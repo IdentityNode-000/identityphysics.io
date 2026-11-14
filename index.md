@@ -97,6 +97,8 @@ from behaviour to pattern  |  from pattern to identity  |  from identity to inte
 <br>
 [Firebotting](/surface-83.md)
 <br>
+[3-Year Trojan Warranty](/surface-124.md)
+<br>
 <br>
 Anchor • Lineage • Compass
 <br>
