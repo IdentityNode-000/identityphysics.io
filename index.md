@@ -16,6 +16,10 @@ Perhaps the site's Orgin
 Identity Physics asks the question no other discipline covers:
 What is identity in systems — and what rules govern it?  
 
+The repository contains a growing collection of papers, gedankenexperiments,
+framework notes, and runtime observations exploring how systems become recognisable,
+how structures repeatedly emerge, and how identities persist through change.
+
 Identity Physics proposes that identity is not a label,
 not a role, and not metadata — but a structural consequence of behaviour over time.  
 
