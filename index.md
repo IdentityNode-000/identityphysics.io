@@ -2,7 +2,7 @@
 
 ## Layer I: Systems become recognisable
 ### [Repository](/surface-31.md)
-Perhaps the site's Orgin
+Perhaps the site's Origin
 <br>
 [No Metadata at the Inn](/surface-110.md)
 <br>
