@@ -161,6 +161,8 @@ Anchor • Lineage • Compass
 [gedankenexperiments: Identity Crisis](/surface-45.md)
 <br>
 [gedankenexperiments: The Ouroboros Disposal Unit](/surface-68.md)
+<br>
+[Inter-NET WORTH-less](/surface-127.md) 
 
 
 ### ←[Torsion Drift Collapse](/surface-12.md)
