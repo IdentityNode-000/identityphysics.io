@@ -12,13 +12,10 @@ When overall health is dictated by the algorithm,
 and wealth creation is mistaken for greed,
 <br>
 the internet becomes worthless
-## The New Math
-#### Net Worth = Total Assets − Total Liabilities
-#### Net Worth = Inter-NET Worth
-
-
-
-## The Fable
+#### The New Math
+Net Worth = Total Assets − Total Liabilities
+Net Worth = Inter-NET Worth
+#### The Fable
 When the perceived asset becomes a liability,
 <br>
 neither in the red,
