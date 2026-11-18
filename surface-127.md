@@ -16,6 +16,8 @@ the internet becomes worthless
 #### Net Worth = Total Assets − Total Liabilities
 #### Net Worth = Inter-NET Worth
 
+
+
 ## The Fable
 When the perceived asset becomes a liability,
 <br>
