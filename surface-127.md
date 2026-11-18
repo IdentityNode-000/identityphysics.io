@@ -26,4 +26,4 @@ nor the black,
 nor breaking even
 <br>
 Just broken
-# ↬ [The canonical model is being shaped now](/surface-07.md)
+# [Threshold](/index.md) ⌂
