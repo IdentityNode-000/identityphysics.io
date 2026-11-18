@@ -1,18 +1,29 @@
-Inter-NET WORTH-less
-Some snapshots show everything.
-Some totals never add up.
+# Inter-NET WORTH-less
+Some snapshots show everything
+<br>
+Some totals never add up
+<br>
 Every minus becomes a liability,
-and every asset compounds the issue.
+<br>
+and every asset compounds the issue
+<br>
 When overall health is dictated by the algorithm,
+<br>
 and wealth creation is mistaken for greed,
-the internet becomes worthless.
-The New Math
-Net Worth = Total Assets − Total Liabilities
-Net Worth = Inter-NET Worth
+<br>
+the internet becomes worthless
+## The New Math
+#### Net Worth = Total Assets − Total Liabilities
+#### Net Worth = Inter-NET Worth
+
 The Fable
 When the perceived asset becomes a liability,
+<br>
 neither in the red,
+<br>
 nor the black,
-nor breaking even.
-Just broken.
-
+<br>
+nor breaking even
+<br>
+Just broken
+# ↬ [The canonical model is being shaped now](/surface-07.md)
