@@ -286,6 +286,7 @@ Had he run a million
 ###### REPOSITORY GRAPH: ACTIVE
 ###### SURFACE COUNT: 133
 ###### .TEXT COUNT: 16
+###### "START ANYWHERE" ACTIVE
 --------------------------------------------------
 Author ◦ IdentityNode-000
 ###### [I] AUTHOR BIO  | CREDENTIALS | LINEAGE  
