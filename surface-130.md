@@ -35,7 +35,7 @@ Same weights
 <br>
 Same descent into the depths
 <br>
-The difference was the machine.
+The difference was the machine
 <br>
 By choosing a different machine to cast,
 <br>
