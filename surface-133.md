@@ -38,5 +38,5 @@ The fisherman never knows what he will catch
 The river remembers what the fisherman does not
 ### The Fable (Moral)
 The catch is not the river.
-###### Korzybski's nodded
+#### Korzybski's nodded
 # [Threshold](/index.md) ⌂
