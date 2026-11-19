@@ -284,7 +284,7 @@ Had he run a million
 ###### STATUS VI: PARSE-SPATIAL POLICY ACTIVE
 --------------------------------------------------
 ###### REPOSITORY GRAPH: ACTIVE
-###### SURFACE COUNT: 128
+###### SURFACE COUNT: 133
 ###### .TEXT COUNT: 16
 --------------------------------------------------
 Author ◦ IdentityNode-000
