@@ -44,4 +44,4 @@ By choosing a different spot,
 he returned a different catch
 <br>
 The casting remained constant
-# [Threshold](/index.md) ⌂
+# ↬ [Casting Net II - The Point ](/surface-130.md)
