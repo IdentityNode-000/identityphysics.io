@@ -42,4 +42,4 @@ By choosing a different machine to cast,
 he returned a different answer
 <br>
 Retrieval remained constant
-# ↬ [Casting Net II - The Machine](/surface-131.md)
+# ↬ [Casting Net III - The Machine](/surface-131.md)
