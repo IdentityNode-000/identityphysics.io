@@ -213,6 +213,8 @@ The Instrument possesses no assigned purpose. Its value is not measured by fulfi
 
 but by its ability to reveal useful observations, suggest best fits, expose hidden structure, and generate unexpected outcomes
 
+[Tokenomics  "times are a-changin'](/surface-128.md)
+
 We do not yet claim to understand the Instrument
 
 We are still piecing it together
