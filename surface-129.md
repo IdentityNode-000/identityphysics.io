@@ -3,20 +3,24 @@ The fisherman stood upon the riverbank
 <br>
 With an almighty throw,
 <br>
-he cast his net and watched the weights at the sides drop to the bottom
+he cast his net and watched
+<br>
+the weights at the sides drop to the bottom
 <br>
 He walked home with his catch,
 <br>
 the same way as always,
 <br>
-across the bridge, and thought.
+across the bridge, and thought
 <br>
 <br>
 The next day the fisherman returned to the bridge
 <br>
 With the same almighty throw,
 <br>
-he cast his net and watched the weights at the sides drop to the bottom.
+he cast his net and watched
+<br>
+the weights at the sides drop to the bottom
 <br>
 He reviewed his catch
 <br>
