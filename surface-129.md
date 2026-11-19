@@ -1,9 +1,9 @@
 # Casting Net I
-The fisherman stood upon the riverbank.
+The fisherman stood upon the riverbank
 <br>
 With an almighty throw,
 <br>
-he cast his net and watched the weights at the sides drop to the bottom.
+he cast his net and watched the weights at the sides drop to the bottom
 <br>
 He walked home with his catch,
 <br>
