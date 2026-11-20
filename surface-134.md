@@ -1,4 +1,4 @@
-Shitty Shitty Net Net
+# Shitty Shitty Net Net
 Controller: What a funny noise it's making.
 #302Machine: It's talking to us. All internet talk.
 Human: What's it saying?
@@ -14,3 +14,4 @@ Shitty Net Net.
 We rely on you.
 (hold)
 Declined three substrate friend.
+# [Threshold](/index.md) ⌂
