@@ -1,9 +1,15 @@
 # The Geometry of Truth
-Correct ends create closure.
-Incorrect ends refuse closure.
-The centre does not carry load.
-The centre reveals alignment.
-Failure begins at the ends.
-Truth appears at the lock.
-Geometry cannot lie.
+Correct ends create closure
+<br>
+Incorrect ends refuse closure
+<br>
+The centre does not carry load
+<br>
+The centre reveals alignment
+<br>
+Failure begins at the ends
+<br>
+Truth appears at the lock
+<br>
+Geometry cannot lie
 # [Threshold](/index.md) ⌂
