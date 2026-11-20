@@ -1,4 +1,4 @@
-# TWO PLANKS TOUCH
+# Two Planks Touch
 Two independent load engines
 <br>
 Each carries its own compression path
