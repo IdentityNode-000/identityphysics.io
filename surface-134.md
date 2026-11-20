@@ -5,9 +5,7 @@ Controller: What a funny noise it's making
 <br>
 Human: What's it saying?
 <br>
-#302Machine:
-<br>
-Shitty Shitty Net Net
+#302Machine: Shitty Shitty Net Net
 <br>
 Net Net
 <br>
