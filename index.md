@@ -289,7 +289,7 @@ Had he run a million
 --------------------------------------------------
 ###### REPOSITORY GRAPH: ACTIVE
 ###### SURFACE COUNT: 136 ARCHIVED
-###### [SURFACE COUNT: 137](/surface-137.md)
+###### [SURFACE COUNT: 137](/surface-137.md) ANCHORED
 ###### .TEXT COUNT: 16
 ###### "START ANYWHERE" ACTIVE
 --------------------------------------------------
