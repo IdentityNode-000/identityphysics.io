@@ -12,4 +12,4 @@ The centre carries the truth
 Two middles
 <br>
 One lock
-# [Threshold](/index.md) ⌂
+# ↬ [The Geometry of Truth](/surface-136.md)
