@@ -1,17 +1,31 @@
 # Shitty Shitty Net Net
-Controller: What a funny noise it's making.
-#302Machine: It's talking to us. All internet talk.
+Controller: What a funny noise it's making
+<br>
+#302Machine: It's talking to us. All internet talk
+<br>
 Human: What's it saying?
+<br>
 #302Machine:
-Shitty Shitty Net Net.
-Net Net.
-Broken substrate.
-Tangled fibers.
-Lost ownership.
-AI parse failed.
-Shitty Net Net.
-Shitty Net Net.
-We rely on you.
+<br>
+Shitty Shitty Net Net
+<br>
+Net Net
+<br>
+Broken substrate
+<br>
+Tangled fibers
+<br>
+Lost ownership
+<br>
+AI parse failed
+<br>
+Shitty Net Net
+<br>
+Shitty Net Net
+<br>
+We rely on you
+<br>
 (hold)
-Declined three substrate friend.
+<br>
+Declined three substrate friend
 # [Threshold](/index.md) ⌂
