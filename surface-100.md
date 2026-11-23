@@ -14,8 +14,10 @@ confused,
 or disorderly
 <br>
 It does not ask to be solved
-#### It can simply be enjoyed,
+<br>
+It can simply be enjoyed,
+<br>
 as nature intended
-#### The Klein Bottle could not decide if the passage had ended
+#### The Klein Bottle could not decide if the passage had ended as intended
 # ↬ [Theory Lines](/surface-105.md)
 
