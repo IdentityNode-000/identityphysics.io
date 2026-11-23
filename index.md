@@ -178,6 +178,9 @@ Anchor • Lineage • Compass
 [Greenhouse](/surface-88.md)
 <br>
 [Dead Programming Society](/surface-125.md)
+<br>
+[The Blind Ghost](/surface-138.md)
+
 
 ## Layer II: Structures keep reappearing
 Different entities. Familiar forms
