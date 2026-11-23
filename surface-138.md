@@ -52,8 +52,8 @@ The next question is not:
 <br>
 "What is being projected?"
 <br>
-The next question is:
 <br>
-"What is doing the projection?"
+The next question is:
+#### "What is doing the projection?"
 # ↬ [The Angled Glass](/surface-139.md)
 
