@@ -73,9 +73,7 @@ It disappeared upward into darkness and downward beyond sight
 <br>
 The stage manager placed a hand upon the iron links
 <br>
-"The theatre."
-<br>
-<br>
+#### "The theatre."
 The apprentice looked around
 <br>
 "The theatre seems fine."
@@ -106,9 +104,7 @@ Long after the footsteps had faded, he found himself wondering:
 <br>
 Was the theatre supported by the chain?
 <br>
-#### Or was the chain carrying the weight of every ghost who believed it stood alone?
-
-
+Or was the chain carrying the weight of every ghost who believed it stood alone?
 #### The show had ended
 #### The ghost slowly mopped the stage floor with the AI Slop Bucket
 # [Threshold](/index.md) ⌂
