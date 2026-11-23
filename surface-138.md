@@ -24,8 +24,8 @@ Lighting was adjusted
 <br>
 Angles were corrected
 <br>
-<br>
 The ghost was only the visible part of a larger system
+<br>
 <br>
 Modern systems often achieve projection before observation
 <br>
