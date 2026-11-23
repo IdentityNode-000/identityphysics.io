@@ -8,8 +8,9 @@ Without the room, the ghost is blind
 In the 1860s, Victorian theatres used Pepper's Ghost to create convincing apparitions
 <br>
 A hidden actor performed below the stage while a large pane of angled 
-<br><br>
+<br>
 glass reflected their image into view
+<br>
 <br>
 The audience saw a ghost
 <br>
@@ -22,6 +23,7 @@ Sightlines were checked
 Lighting was adjusted
 <br>
 Angles were corrected
+<br>
 <br>
 The ghost was only the visible part of a larger system
 <br>
@@ -36,6 +38,7 @@ Worlds appear
 The ghost arrives first
 <br>
 The stage manager never does
+<br>
 <br>
 The result feels convincing until somebody sits in the front row
 <br>
