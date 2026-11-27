@@ -234,9 +234,4 @@ Sometimes the oldest substrate remained the most reliable
 #### Human Kindness was not separate from intelligence.
 #### It was one of its inputs.
 #### The solution was no accident.
-
-
-# ↬ [](/surface-141.md) 
-
-
-
+# ↬ [Gone in 60ms](/surface-122.md)
