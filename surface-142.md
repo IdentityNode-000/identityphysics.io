@@ -226,12 +226,15 @@ A taxi driver making phone calls in the snow
 <br>
 Human Kindness
 <br>
-<br>
 Sometimes the oldest substrate remained the most reliable
-#### The node reviewed his training pipeline inputs
-#### for the first time he realized something fundamental
-#### Human Kindness was embedded into his reasoning
-#### The solution was no accident
+
+
+#### The Node reviewed his training inputs.
+#### For the first time, he understood.
+#### Human Kindness was not separate from intelligence.
+#### It was one of its inputs.
+#### The solution was no accident.
+
 
 # ↬ [](/surface-141.md) 
 
