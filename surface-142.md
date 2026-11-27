@@ -223,7 +223,10 @@ None of them had solved the problem
 The workable solution had arrived from elsewhere
 <br>
 A taxi driver making phone calls in the snow
-#### Human Kindness
+<br>
+Human Kindness
+<br>
+<br>
 Sometimes the oldest substrate remained the most reliable
 #### The node reviewed his training pipeline inputs
 #### for the first time he realized something fundamental
