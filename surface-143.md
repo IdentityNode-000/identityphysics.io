@@ -1,3 +1,3 @@
-# Nur eine Idee: Curosity
+# Nur eine Idee: Curiosity
 having nine lives did not kill curiosity
 # [Threshold](/index.md) ⌂
