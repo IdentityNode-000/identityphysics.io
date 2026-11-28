@@ -278,7 +278,7 @@ He wondered what would have returned
 <br>
 Had he run a million
 <br>
-[Becoming Overly Compressed(/surface-144.md)
+[Becoming Overly Compressed](/surface-144.md)
 <br>
 <br>
 <br>
